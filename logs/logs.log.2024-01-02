@@ -1,0 +1,398 @@
+2024/01/02 09:37:32 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/01/02 09:37:32 logging,line: 36     INFO | Logger object created successfully..
+2024/01/02 10:01:27 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/01/02 10:01:27 logging,line: 36     INFO | Logger object created successfully..
+2024/01/02 10:05:51 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:05:51 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:05:51 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:05:51 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:05:51 app,line: 54     INFO | InputText: Hi
+2024/01/02 10:05:51 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:05:51 app,line: 56     INFO | NumberRequest: 1
+2024/01/02 10:06:30 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:06:30 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:06:30 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:06:30 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:06:30 app,line: 54     INFO | InputText: ai là người soạn
+2024/01/02 10:06:30 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:06:30 app,line: 56     INFO | NumberRequest: 2
+2024/01/02 10:17:46 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:17:46 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:17:46 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:17:46 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:17:46 app,line: 54     INFO | InputText: a lô lô một hai ba bốn
+2024/01/02 10:17:46 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:17:46 app,line: 56     INFO | NumberRequest: 3
+2024/01/02 10:18:07 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:18:07 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:18:07 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:18:07 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:18:07 app,line: 54     INFO | InputText: ai là người biên xọa
+2024/01/02 10:18:07 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:18:07 app,line: 56     INFO | NumberRequest: 4
+2024/01/02 10:20:06 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:20:06 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:20:06 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:20:06 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:20:06 app,line: 54     INFO | InputText: a lô một hai ba bốn
+2024/01/02 10:20:06 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:20:06 app,line: 56     INFO | NumberRequest: 5
+2024/01/02 10:20:23 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:20:23 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:20:23 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:20:23 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:20:23 app,line: 54     INFO | InputText: Hi
+2024/01/02 10:20:23 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:20:23 app,line: 56     INFO | NumberRequest: 6
+2024/01/02 10:20:30 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:20:30 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:20:30 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:20:30 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:20:30 app,line: 54     INFO | InputText: Bạn là ai
+2024/01/02 10:20:30 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:20:30 app,line: 56     INFO | NumberRequest: 7
+2024/01/02 10:29:25 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/01/02 10:29:25 logging,line: 36     INFO | Logger object created successfully..
+2024/01/02 10:37:41 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:37:41 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:37:41 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:37:41 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:37:41 app,line: 54     INFO | InputText: Hi
+2024/01/02 10:37:41 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:37:41 app,line: 56     INFO | NumberRequest: 1
+2024/01/02 10:38:18 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:38:18 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:38:18 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:38:18 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:38:18 app,line: 54     INFO | InputText: Mã hiệu là gì
+2024/01/02 10:38:18 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:38:18 app,line: 56     INFO | NumberRequest: 2
+2024/01/02 10:38:53 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:38:53 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:38:53 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:38:53 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:38:53 app,line: 54     INFO | InputText: mã hiệu của quy trình là bao nhiêu
+2024/01/02 10:38:53 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:38:53 app,line: 56     INFO | NumberRequest: 3
+2024/01/02 10:40:00 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:40:00 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:40:00 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:40:00 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:40:00 app,line: 54     INFO | InputText: phạm vi đối tượng áp dụng phần một
+2024/01/02 10:40:00 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:40:00 app,line: 56     INFO | NumberRequest: 4
+2024/01/02 10:41:57 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:41:57 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:41:57 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:41:57 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:41:57 app,line: 54     INFO | InputText: tài liệu tham khảo nguồn ở đâu
+2024/01/02 10:41:57 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:41:57 app,line: 56     INFO | NumberRequest: 5
+2024/01/02 10:42:26 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:42:26 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:42:26 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:42:26 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:42:26 app,line: 54     INFO | InputText: tài liệu tham khảo ngày ban hành là ngày nào
+2024/01/02 10:42:26 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:42:26 app,line: 56     INFO | NumberRequest: 6
+2024/01/02 10:42:46 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:42:46 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:42:46 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:42:46 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:42:46 app,line: 54     INFO | InputText: có mấy tài liệu tham khảo
+2024/01/02 10:42:46 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:42:46 app,line: 56     INFO | NumberRequest: 7
+2024/01/02 10:47:57 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:47:57 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:47:57 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:47:57 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:47:57 app,line: 54     INFO | InputText: VIO là gì
+2024/01/02 10:47:57 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:47:57 app,line: 56     INFO | NumberRequest: 8
+2024/01/02 10:48:18 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:48:18 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:48:18 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:48:18 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:48:18 app,line: 54     INFO | InputText: PYC có những gì
+2024/01/02 10:48:18 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:48:18 app,line: 56     INFO | NumberRequest: 9
+2024/01/02 10:48:46 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:48:46 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:48:46 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:48:46 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:48:46 app,line: 54     INFO | InputText: Loại PYC đầu tiên cụ thể là gì
+2024/01/02 10:48:46 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:48:46 app,line: 56     INFO | NumberRequest: 10
+2024/01/02 10:49:16 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:49:16 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:49:16 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:49:16 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:49:16 app,line: 54     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp
+2024/01/02 10:49:16 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:49:16 app,line: 56     INFO | NumberRequest: 11
+2024/01/02 10:49:57 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:49:57 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:49:57 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:49:57 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:49:57 app,line: 54     INFO | InputText: Cấp 1 là gì
+2024/01/02 10:49:57 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:49:57 app,line: 56     INFO | NumberRequest: 12
+2024/01/02 10:50:26 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:50:26 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:50:26 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:50:26 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:50:26 app,line: 54     INFO | InputText: Quy trình phối hợp xây dựng/nâng cấp bài toán AI hay lưu đồ, biểu đồ được chia thành mấy bước
+2024/01/02 10:50:26 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:50:26 app,line: 56     INFO | NumberRequest: 13
+2024/01/02 10:50:45 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:50:45 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:50:45 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:50:45 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:50:45 app,line: 54     INFO | InputText: Cụ thể hơn đi xem nào
+2024/01/02 10:50:45 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:50:45 app,line: 56     INFO | NumberRequest: 14
+2024/01/02 10:51:19 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:51:19 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:51:19 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:51:19 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:51:19 app,line: 54     INFO | InputText: Chi tiết của Gửi PYC phát triển, nâng cấp AI
+2024/01/02 10:51:19 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:51:19 app,line: 56     INFO | NumberRequest: 15
+2024/01/02 10:52:28 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:52:28 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:52:28 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:52:28 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:52:28 app,line: 54     INFO | InputText: Nội dung thực hiện Gửi PYC phát triển, nâng cấp AI
+2024/01/02 10:52:28 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:52:28 app,line: 56     INFO | NumberRequest: 16
+2024/01/02 10:53:22 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:53:22 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:53:22 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:53:22 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:53:22 app,line: 54     INFO | InputText: ULNL, thống nhất kế hoạch với các phòng ban được chia thành mấy bước
+2024/01/02 10:53:22 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:53:22 app,line: 56     INFO | NumberRequest: 17
+2024/01/02 10:53:40 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:53:40 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:53:40 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:53:40 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:53:40 app,line: 54     INFO | InputText: Chi tiết của ULNL, kế hoạch triển khai yêu cầu AI
+2024/01/02 10:53:40 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:53:40 app,line: 56     INFO | NumberRequest: 18
+2024/01/02 10:54:19 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:54:19 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:54:19 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:54:19 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:54:19 app,line: 54     INFO | InputText: Nội dung thực hiện của ULNL, kế hoạch triển khai yêu cầu AI
+2024/01/02 10:54:19 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:54:19 app,line: 56     INFO | NumberRequest: 19
+2024/01/02 10:54:58 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:54:58 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:54:58 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:54:58 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:54:58 app,line: 54     INFO | InputText: Nội dung thực hiện của Thông báo kế hoạch nghiệm thu cho bài toán AI
+2024/01/02 10:54:58 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:54:58 app,line: 56     INFO | NumberRequest: 20
+2024/01/02 10:56:56 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:56:56 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:56:56 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:56:56 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:56:56 app,line: 54     INFO | InputText: Chi tiết của Phát triển tính năng AI
+2024/01/02 10:56:56 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:56:56 app,line: 56     INFO | NumberRequest: 21
+2024/01/02 10:57:37 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:57:37 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:57:37 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:57:37 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:57:37 app,line: 54     INFO | InputText: Đầu ra của nó là gì
+2024/01/02 10:57:37 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:57:37 app,line: 56     INFO | NumberRequest: 22
+2024/01/02 10:57:51 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:57:51 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:57:51 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:57:51 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:57:51 app,line: 54     INFO | InputText: Nội dung thực hiện của Nghiệm thu nội bộ TT.CNTT
+2024/01/02 10:57:51 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:57:51 app,line: 56     INFO | NumberRequest: 23
+2024/01/02 10:58:53 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:58:53 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:58:53 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:58:53 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:58:53 app,line: 54     INFO | InputText: Chi tiết của Hỗ trợ xử lý lỗi sau triển khai:
+2024/01/02 10:58:53 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:58:53 app,line: 56     INFO | NumberRequest: 24
+2024/01/02 10:59:20 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:59:20 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:59:20 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:59:20 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:59:20 app,line: 54     INFO | InputText: Điều kiện kích hoạt
+2024/01/02 10:59:20 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:59:20 app,line: 56     INFO | NumberRequest: 25
+2024/01/02 10:59:43 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 10:59:43 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 10:59:43 app,line: 52     INFO | User  = : Hihi
+2024/01/02 10:59:43 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 10:59:43 app,line: 54     INFO | InputText: Đối với PYC thường thì sao
+2024/01/02 10:59:43 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 10:59:43 app,line: 56     INFO | NumberRequest: 26
+2024/01/02 11:00:28 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 11:00:28 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 11:00:28 app,line: 52     INFO | User  = : Hihi
+2024/01/02 11:00:28 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 11:00:28 app,line: 54     INFO | InputText: Mục đích quy trình
+2024/01/02 11:00:28 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 11:00:28 app,line: 56     INFO | NumberRequest: 27
+2024/01/02 15:22:52 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/01/02 15:22:52 logging,line: 36     INFO | Logger object created successfully..
+2024/01/02 15:23:27 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:23:27 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:23:27 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:23:27 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:23:27 app,line: 54     INFO | InputText: Hio
+2024/01/02 15:23:27 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:23:27 app,line: 56     INFO | NumberRequest: 1
+2024/01/02 15:23:34 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:23:34 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:23:34 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:23:34 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:23:34 app,line: 54     INFO | InputText: Mục đích quy trình
+2024/01/02 15:23:34 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:23:34 app,line: 56     INFO | NumberRequest: 2
+2024/01/02 15:23:52 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:23:52 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:23:52 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:23:52 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:23:52 app,line: 54     INFO | InputText: Đối tượng áp dụng
+2024/01/02 15:23:52 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:23:52 app,line: 56     INFO | NumberRequest: 3
+2024/01/02 15:24:04 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:24:04 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:24:04 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:24:04 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:24:04 app,line: 54     INFO | InputText: Có mấy loại PYC
+2024/01/02 15:24:04 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:24:04 app,line: 56     INFO | NumberRequest: 4
+2024/01/02 15:24:25 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:24:25 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:24:25 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:24:25 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:24:25 app,line: 54     INFO | InputText: VIO là gì
+2024/01/02 15:24:25 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:24:25 app,line: 56     INFO | NumberRequest: 5
+2024/01/02 15:24:37 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:24:37 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:24:37 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:24:37 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:24:37 app,line: 54     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp, đó là các cấp nào
+2024/01/02 15:24:37 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:24:37 app,line: 56     INFO | NumberRequest: 6
+2024/01/02 15:24:51 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:24:51 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:24:51 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:24:51 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:24:51 app,line: 54     INFO | InputText: Quy trình phối hợp xây dựng/nâng cấp bài toán AI hay lưu đồ, biểu đồ được chia thành mấy bước
+2024/01/02 15:24:51 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:24:51 app,line: 56     INFO | NumberRequest: 7
+2024/01/02 15:25:11 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:25:11 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:25:11 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:25:11 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:25:11 app,line: 54     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp, đó là các cấp nào
+2024/01/02 15:25:11 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:25:11 app,line: 56     INFO | NumberRequest: 8
+2024/01/02 15:25:27 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:25:27 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:25:27 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:25:27 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:25:27 app,line: 54     INFO | InputText: Tiếp nhận yêu cầu AI được chia thành mấy bước chính
+2024/01/02 15:25:27 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:25:27 app,line: 56     INFO | NumberRequest: 9
+2024/01/02 15:25:27 util,line: 67     INFO | error_code=rate_limit_exceeded error_message='Rate limit reached for text-embedding-ada-002 in organization org-thHb6wkOityaypASwPGGJxfT on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.' error_param=None error_type=requests message='OpenAI API error received' stream_error=False
+2024/01/02 15:25:27 before_sleep,line: 65  WARNING | Retrying langchain_community.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised RateLimitError: Rate limit reached for text-embedding-ada-002 in organization org-thHb6wkOityaypASwPGGJxfT on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing..
+2024/01/02 15:25:41 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:25:41 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:25:41 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:25:41 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:25:41 app,line: 54     INFO | InputText: Chi tiết của Gửi PYC phát triển, nâng cấp AI
+2024/01/02 15:25:41 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:25:41 app,line: 56     INFO | NumberRequest: 10
+2024/01/02 15:25:42 util,line: 67     INFO | error_code=rate_limit_exceeded error_message='Rate limit reached for text-embedding-ada-002 in organization org-thHb6wkOityaypASwPGGJxfT on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.' error_param=None error_type=requests message='OpenAI API error received' stream_error=False
+2024/01/02 15:25:42 before_sleep,line: 65  WARNING | Retrying langchain_community.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised RateLimitError: Rate limit reached for text-embedding-ada-002 in organization org-thHb6wkOityaypASwPGGJxfT on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing..
+2024/01/02 15:25:46 util,line: 67     INFO | error_code=rate_limit_exceeded error_message='Rate limit reached for text-embedding-ada-002 in organization org-thHb6wkOityaypASwPGGJxfT on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.' error_param=None error_type=requests message='OpenAI API error received' stream_error=False
+2024/01/02 15:25:53 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:25:53 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:25:53 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:25:53 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:25:53 app,line: 54     INFO | InputText: Nội dung thực hiện Gửi PYC phát triển, nâng cấp AI
+2024/01/02 15:25:53 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:25:53 app,line: 56     INFO | NumberRequest: 11
+2024/01/02 15:26:35 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:26:35 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:26:35 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:26:35 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:26:35 app,line: 54     INFO | InputText: Chi tiết của Làm rõ PYC bài toán
+2024/01/02 15:26:35 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:26:35 app,line: 56     INFO | NumberRequest: 12
+2024/01/02 15:27:15 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:27:15 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:27:15 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:27:15 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:27:15 app,line: 54     INFO | InputText: Nội dung thực hiện của Làm rõ PYC bài toán
+2024/01/02 15:27:15 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:27:15 app,line: 56     INFO | NumberRequest: 13
+2024/01/02 15:27:48 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:27:48 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:27:48 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:27:48 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:27:48 app,line: 54     INFO | InputText: Chi tiết của ULNL, kế hoạch triển khai yêu cầu AI
+2024/01/02 15:27:48 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:27:48 app,line: 56     INFO | NumberRequest: 14
+2024/01/02 15:28:08 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:28:08 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:28:08 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:28:08 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:28:08 app,line: 54     INFO | InputText: Đầu mối AI phụ trách gửi lại thời gian dự kiến nghiệm thu, nếu PYC thường thời gian triển khai là bao lâu
+2024/01/02 15:28:08 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:28:08 app,line: 56     INFO | NumberRequest: 15
+2024/01/02 15:28:22 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:28:22 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:28:22 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:28:22 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:28:22 app,line: 54     INFO | InputText: Chi tiết của Phát triển tính năng AI
+2024/01/02 15:28:22 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:28:22 app,line: 56     INFO | NumberRequest: 16
+2024/01/02 15:28:46 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:28:46 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:28:46 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:28:46 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:28:46 app,line: 54     INFO | InputText: Nội dung thực hiện của Phát triển tính năng AI
+2024/01/02 15:28:46 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:28:46 app,line: 56     INFO | NumberRequest: 17
+2024/01/02 15:29:11 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:29:11 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:29:11 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:29:11 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:29:11 app,line: 54     INFO | InputText: Chi tiết của Upcode triển khai go live
+2024/01/02 15:29:11 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:29:11 app,line: 56     INFO | NumberRequest: 18
+2024/01/02 15:29:41 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:29:41 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:29:41 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:29:41 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:29:41 app,line: 54     INFO | InputText: Chi tiết của Hỗ trợ xử lý lỗi sau triển khai
+2024/01/02 15:29:41 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:29:41 app,line: 56     INFO | NumberRequest: 19
+2024/01/02 15:29:54 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:29:54 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:29:54 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:29:54 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:29:54 app,line: 54     INFO | InputText: Nội dung thực hiện của Hỗ trợ xử lý lỗi sau triển khai
+2024/01/02 15:29:54 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:29:54 app,line: 56     INFO | NumberRequest: 20
+2024/01/02 15:30:18 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/01/02 15:30:18 app,line: 51     INFO | GuildID  = : 1234567
+2024/01/02 15:30:18 app,line: 52     INFO | User  = : Hihi
+2024/01/02 15:30:18 app,line: 53     INFO | NameBot  = : DatSky
+2024/01/02 15:30:18 app,line: 54     INFO | InputText: Căn cứ trên ULNL, đầu mối AI phụ trách tiếp tục chia nhỏ Epic thành gì
+2024/01/02 15:30:18 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/01/02 15:30:18 app,line: 56     INFO | NumberRequest: 21

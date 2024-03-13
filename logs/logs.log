@@ -1,0 +1,78 @@
+2024/03/12 15:08:04 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/12 15:08:04 logging,line: 36     INFO | Logger object created successfully..
+2024/03/12 15:08:04 utils,line: 99    ERROR | Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024/03/12 15:08:18 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/12 15:08:18 logging,line: 36     INFO | Logger object created successfully..
+2024/03/12 15:09:05 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 15:09:05 app,line: 51     INFO | GuildID  = : 1
+2024/03/12 15:09:05 app,line: 52     INFO | User  = : aaa
+2024/03/12 15:09:05 app,line: 53     INFO | NameBot  = : abc
+2024/03/12 15:09:05 app,line: 54     INFO | InputText: hello
+2024/03/12 15:09:05 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 15:09:05 app,line: 56     INFO | NumberRequest: 1
+2024/03/12 15:09:43 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/12 15:09:43 logging,line: 36     INFO | Logger object created successfully..
+2024/03/12 15:09:45 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 15:09:45 app,line: 51     INFO | GuildID  = : 1
+2024/03/12 15:09:45 app,line: 52     INFO | User  = : aaa
+2024/03/12 15:09:45 app,line: 53     INFO | NameBot  = : abc
+2024/03/12 15:09:45 app,line: 54     INFO | InputText: hello
+2024/03/12 15:09:45 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 15:09:45 app,line: 56     INFO | NumberRequest: 1
+2024/03/12 15:09:49 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/12 15:09:50 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/12 16:06:56 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/12 16:06:56 logging,line: 36     INFO | Logger object created successfully..
+2024/03/12 16:07:29 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 16:07:29 app,line: 51     INFO | GuildID  = : 1
+2024/03/12 16:07:29 app,line: 52     INFO | User  = : aaa
+2024/03/12 16:07:29 app,line: 53     INFO | NameBot  = : abc
+2024/03/12 16:07:29 app,line: 54     INFO | InputText: hello
+2024/03/12 16:07:29 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 16:07:29 app,line: 56     INFO | NumberRequest: 1
+2024/03/12 16:07:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/12 16:07:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/12 16:07:59 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 16:07:59 app,line: 51     INFO | GuildID  = : 1
+2024/03/12 16:07:59 app,line: 52     INFO | User  = : aaa
+2024/03/12 16:07:59 app,line: 53     INFO | NameBot  = : abc
+2024/03/12 16:07:59 app,line: 54     INFO | InputText: hello
+2024/03/12 16:07:59 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 16:07:59 app,line: 56     INFO | NumberRequest: 2
+2024/03/12 16:08:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/12 16:08:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/12 16:08:18 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 16:08:18 app,line: 51     INFO | GuildID  = : 1
+2024/03/12 16:08:18 app,line: 52     INFO | User  = : aaa
+2024/03/12 16:08:18 app,line: 53     INFO | NameBot  = : abc
+2024/03/12 16:08:18 app,line: 54     INFO | InputText: hello
+2024/03/12 16:08:18 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 16:08:18 app,line: 56     INFO | NumberRequest: 3
+2024/03/12 16:10:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/12 16:10:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/12 16:11:51 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 16:11:51 app,line: 51     INFO | GuildID  = : 1
+2024/03/12 16:11:51 app,line: 52     INFO | User  = : aaa
+2024/03/12 16:11:51 app,line: 53     INFO | NameBot  = : abc
+2024/03/12 16:11:51 app,line: 54     INFO | InputText: hello
+2024/03/12 16:11:51 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 16:11:51 app,line: 56     INFO | NumberRequest: 4
+2024/03/12 16:11:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/12 16:11:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/12 16:12:15 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/12 16:12:15 logging,line: 36     INFO | Logger object created successfully..
+2024/03/12 16:41:26 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/12 16:41:26 logging,line: 36     INFO | Logger object created successfully..
+2024/03/12 16:41:29 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/12 16:41:29 app,line: 51     INFO | GuildID  = : test_1
+2024/03/12 16:41:29 app,line: 52     INFO | User  = : Huy
+2024/03/12 16:41:29 app,line: 53     INFO | NameBot  = : test_bot1
+2024/03/12 16:41:29 app,line: 54     INFO | InputText: xin chào!
+2024/03/12 16:41:29 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/12 16:41:29 app,line: 56     INFO | NumberRequest: 1
+2024/03/12 16:41:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/12 16:41:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

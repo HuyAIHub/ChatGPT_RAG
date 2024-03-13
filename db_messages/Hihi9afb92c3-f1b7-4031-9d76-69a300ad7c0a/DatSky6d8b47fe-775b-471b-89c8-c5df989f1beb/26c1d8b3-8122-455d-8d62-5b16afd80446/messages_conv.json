@@ -1,0 +1,20 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "C\u1ee5 th\u1ec3 h\u01a1n l\u00e0 g\u00ec?",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "B\u1ea1n c\u00f3 th\u1ec3 cung c\u1ea5p th\u00eam th\u00f4ng tin v\u1ec1 y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n \u0111\u01b0\u1ee3c kh\u00f4ng? T\u00f4i c\u1ea7n bi\u1ebft r\u00f5 h\u01a1n \u0111\u1ec3 c\u00f3 th\u1ec3 gi\u00fap b\u1ea1n.",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    }
+]

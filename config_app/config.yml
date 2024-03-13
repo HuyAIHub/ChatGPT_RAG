@@ -1,0 +1,43 @@
+server:
+  ip_address: "0.0.0.0"
+  port: "8002"
+  saved_data_path: "result"
+parameter:
+  embeddings_name: "sentence-transformers/all-MiniLM-L6-v2"
+  # embeddings_name: 'VoVanPhuc/sup-SimCSE-VietNamese-phobert-base'
+  # model_name = "VoVanPhuc/sup-SimCSE-VietNamese-phobert-base"
+  #   model_kwargs = {'device': 'cpu'}
+  #   encode_kwargs = {'normalize_embeddings': False}
+  #   embeddings = HuggingFaceEmbeddings(
+  #       model_name=model_name,
+  #       model_kwargs=model_kwargs,
+  #       encode_kwargs=encode_kwargs
+  #   )
+  # embeddings_name: 'sentence-transformers/all-mpnet-base-v2'
+  # embeddings_name: 'sentence-transformers/distiluse-base-multilingual-cased-v2'
+
+  DATA_PATH: "data/"
+  DB_FAISS_PATH: "vectorstore/db_faiss"
+  DB_MESSAGES: "db_messages/"
+
+  # Số đoạn sẽ được thêm vào lời nhắc. Quá nhiều đoạn trích và bạn có nguy cơ bị cả lời nhắc vượt qua
+  # giới hạn mã thông báo và mô hình không thể tìm thấy câu trả lời chính xác
+  prompt_number_snippets: 10
+
+  # GPT related constants
+  gpt_model_to_use: "gpt-3.5-turbo-16k"
+
+  temperature: 0
+  gpt_max_tokens: 1000
+
+  # Số tin nhắn của người dùng trước đây sẽ được sử dụng để tìm kiếm các đoạn có liên quan
+  search_number_messages: 3
+
+  # PDF Chunking constants
+  chunk_size: 1024
+  chunk_overlap: 64
+
+  # Số đoạn trích được FAISS truy xuất
+  number_snippets_to_retrieve: 10
+
+  openai_api_key: ''

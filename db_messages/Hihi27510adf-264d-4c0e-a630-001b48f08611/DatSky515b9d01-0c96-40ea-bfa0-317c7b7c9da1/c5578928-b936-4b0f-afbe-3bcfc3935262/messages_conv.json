@@ -1,0 +1,20 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "M\u1ee5c \u0111ichs c\u1ee7a Th\u00f4ng b\u00e1o k\u1ebf ho\u1ea1ch nghi\u1ec7m thu cho b\u00e0i to\u00e1n AI",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "The purpose of the \"Th\u00f4ng b\u00e1o k\u1ebf ho\u1ea1ch nghi\u1ec7m thu cho b\u00e0i to\u00e1n AI\" (Notification of the acceptance plan for AI problems) is to inform the departments about the milestones for acceptance testing and feature deployment. This notification ensures that the departments are aware of the testing and deployment schedule for the AI solution.\n\n(Document: Quy tr\u00ecnh.docx, Page: 5)",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    }
+]

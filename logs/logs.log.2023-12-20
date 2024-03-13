@@ -1,0 +1,380 @@
+2023/12/20 11:20:08 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:20:08 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:20:43 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:20:43 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:20:43 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:20:43 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:20:43 app,line: 38     INFO | InputText: Hi
+2023/12/20 11:20:43 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:20:43 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:23:41 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:23:41 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:23:43 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:23:43 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:23:43 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:23:43 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:23:43 app,line: 38     INFO | InputText: Hi
+2023/12/20 11:23:43 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:23:43 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:24:57 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:24:57 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:25:03 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:25:03 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:25:03 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:25:03 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:25:03 app,line: 38     INFO | InputText: Hi
+2023/12/20 11:25:03 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:25:03 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:26:21 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:26:21 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:26:30 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:26:30 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:26:30 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:26:30 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:26:30 app,line: 38     INFO | InputText: Hi
+2023/12/20 11:26:30 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:26:30 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:26:53 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:26:53 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:26:53 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:26:53 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:26:53 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:26:53 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:26:53 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 11:26:59 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:26:59 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:26:59 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:26:59 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:26:59 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:26:59 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:26:59 app,line: 40     INFO | NumberRequest: 3
+2023/12/20 11:29:15 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:29:15 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:29:16 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:29:16 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:29:16 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:29:16 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:29:16 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:29:16 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:29:16 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:29:36 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:29:36 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:29:36 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:29:36 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:29:36 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:29:36 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:29:36 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 11:30:01 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:30:01 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:30:01 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:30:01 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:30:01 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:30:01 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:30:01 app,line: 40     INFO | NumberRequest: 3
+2023/12/20 11:30:28 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:30:28 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:30:28 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:30:28 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:30:28 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:30:28 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:30:28 app,line: 40     INFO | NumberRequest: 4
+2023/12/20 11:30:58 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:30:58 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:31:01 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:31:01 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:31:01 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:31:01 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:31:01 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:31:01 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:31:01 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:31:25 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:31:25 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:31:25 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:31:25 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:31:25 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:31:25 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:31:25 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 11:34:29 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:34:29 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:34:32 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:34:32 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:34:32 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:34:32 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:34:32 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:34:32 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:34:32 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:34:39 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:34:39 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:34:39 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:34:39 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:34:39 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:34:39 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:34:39 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 11:34:53 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:34:53 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:34:53 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:34:53 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:34:53 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 11:34:53 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:34:53 app,line: 40     INFO | NumberRequest: 3
+2023/12/20 11:37:58 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:37:58 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:37:58 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:37:58 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:37:58 app,line: 38     INFO | InputText: Mục đích của Thông báo kế hoạch nghiệm thu cho bài toán AI:
+2023/12/20 11:37:58 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:37:58 app,line: 40     INFO | NumberRequest: 4
+2023/12/20 11:38:26 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:38:26 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:38:26 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:38:26 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:38:26 app,line: 38     INFO | InputText: Vậy còn điều kiện kích hoạt
+2023/12/20 11:38:26 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:38:26 app,line: 40     INFO | NumberRequest: 5
+2023/12/20 11:39:00 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:39:00 app,line: 35     INFO | GuildID  = : 123
+2023/12/20 11:39:00 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:39:00 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:39:00 app,line: 38     INFO | InputText: Cho xem nốt đầu ra, đơn vị thực hiện và thời gian thực hiện 
+2023/12/20 11:39:00 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:39:00 app,line: 40     INFO | NumberRequest: 6
+2023/12/20 11:40:42 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 11:40:42 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 11:40:44 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:40:44 app,line: 35     INFO | GuildID  = : 124
+2023/12/20 11:40:44 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:40:44 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:40:44 app,line: 38     INFO | InputText: Hi
+2023/12/20 11:40:44 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:40:44 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 11:41:14 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:41:14 app,line: 35     INFO | GuildID  = : 124
+2023/12/20 11:41:14 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:41:14 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:41:14 app,line: 38     INFO | InputText: Mục đích của ULNL, kế hoạch triển khai yêu cầu AI
+2023/12/20 11:41:14 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:41:14 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 11:41:43 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:41:43 app,line: 35     INFO | GuildID  = : 124
+2023/12/20 11:41:43 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:41:43 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:41:43 app,line: 38     INFO | InputText: Điều kiện kích hoạt thì sao
+2023/12/20 11:41:43 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:41:43 app,line: 40     INFO | NumberRequest: 3
+2023/12/20 11:43:01 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:43:01 app,line: 35     INFO | GuildID  = : 124
+2023/12/20 11:43:01 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:43:01 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:43:01 app,line: 38     INFO | InputText: Đơn vị thực hiện là ai
+2023/12/20 11:43:01 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:43:01 app,line: 40     INFO | NumberRequest: 4
+2023/12/20 11:44:20 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 11:44:20 app,line: 35     INFO | GuildID  = : 124
+2023/12/20 11:44:20 app,line: 36     INFO | User  = : VCC
+2023/12/20 11:44:20 app,line: 37     INFO | NameBot  = : BotTaiLieu
+2023/12/20 11:44:20 app,line: 38     INFO | InputText: Nội dung thực hiện của ULNL, kế hoạch triển khai yêu cầu AI
+2023/12/20 11:44:20 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 11:44:20 app,line: 40     INFO | NumberRequest: 5
+2023/12/20 16:54:19 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 16:54:19 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 16:54:56 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 16:54:56 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 16:54:56 app,line: 36     INFO | User  = : VCC
+2023/12/20 16:54:56 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 16:54:56 app,line: 38     INFO | InputText: Hi
+2023/12/20 16:54:56 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 16:54:56 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 16:58:46 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 16:58:46 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 16:58:48 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 16:58:48 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 16:58:48 app,line: 36     INFO | User  = : VCC
+2023/12/20 16:58:48 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 16:58:48 app,line: 38     INFO | InputText: Hi
+2023/12/20 16:58:48 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 16:58:48 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 16:59:58 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 16:59:58 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 16:59:58 app,line: 36     INFO | User  = : VCC
+2023/12/20 16:59:58 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 16:59:58 app,line: 38     INFO | InputText: How do I search for flights on Skyscanner
+2023/12/20 16:59:58 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 16:59:58 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 17:07:33 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 17:07:33 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 17:07:38 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:07:38 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:07:38 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:07:38 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:07:38 app,line: 38     INFO | InputText: How do I search for flights on Skyscanner
+2023/12/20 17:07:38 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:07:38 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 17:08:16 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:08:16 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:08:16 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:08:16 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:08:16 app,line: 38     INFO | InputText: What are mash-ups?
+2023/12/20 17:08:16 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:08:16 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 17:09:02 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:09:02 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:09:02 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:09:02 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:09:02 app,line: 38     INFO | InputText: Nội dung thực hiện của ULNL, kế hoạch triển khai yêu cầu AI
+2023/12/20 17:09:02 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:09:02 app,line: 40     INFO | NumberRequest: 3
+2023/12/20 17:09:35 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:09:35 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:09:35 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:09:35 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:09:35 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 17:09:35 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:09:35 app,line: 40     INFO | NumberRequest: 4
+2023/12/20 17:46:27 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 17:46:27 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 17:46:50 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 17:46:50 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 17:46:52 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:46:52 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:46:52 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:46:52 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:46:52 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 17:46:52 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:46:52 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 17:47:58 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 17:47:58 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 17:48:02 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:48:02 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:48:02 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:48:02 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:48:02 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 17:48:02 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:48:02 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 17:48:35 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 17:48:35 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 17:48:38 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:48:38 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:48:38 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:48:38 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:48:38 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 17:48:38 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:48:38 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 17:49:07 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:49:07 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:49:07 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:49:07 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:49:07 app,line: 38     INFO | InputText: Chi tiết của Gửi PYC phát triển, nâng cấp AI
+2023/12/20 17:49:07 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:49:07 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 17:50:33 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 17:50:33 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 17:50:35 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 17:50:35 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 17:50:35 app,line: 36     INFO | User  = : VCC
+2023/12/20 17:50:35 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 17:50:35 app,line: 38     INFO | InputText: Chi tiết của Gửi PYC phát triển, nâng cấp AI
+2023/12/20 17:50:35 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 17:50:35 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 18:21:55 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 18:21:55 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 18:21:57 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:21:57 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:21:57 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:21:57 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:21:57 app,line: 38     INFO | InputText: Chi tiết của Gửi PYC phát triển, nâng cấp AI
+2023/12/20 18:21:57 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:21:57 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 18:22:18 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:22:18 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:22:18 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:22:18 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:22:18 app,line: 38     INFO | InputText: Chi tiết của Gửi PYC phát triển, nâng cấp AI
+2023/12/20 18:22:18 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:22:18 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 18:22:44 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:22:44 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:22:44 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:22:44 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:22:44 app,line: 38     INFO | InputText: PYC là gì
+2023/12/20 18:22:44 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:22:44 app,line: 40     INFO | NumberRequest: 3
+2023/12/20 18:23:05 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:23:05 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:23:05 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:23:05 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:23:05 app,line: 38     INFO | InputText: Sơ đồ quy trình
+2023/12/20 18:23:05 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:23:05 app,line: 40     INFO | NumberRequest: 4
+2023/12/20 18:23:55 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:23:55 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:23:55 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:23:55 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:23:55 app,line: 38     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp
+2023/12/20 18:23:55 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:23:55 app,line: 40     INFO | NumberRequest: 5
+2023/12/20 18:24:28 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:24:28 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:24:28 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:24:28 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:24:28 app,line: 38     INFO | InputText: How do I search for flights on Skyscanner?
+2023/12/20 18:24:28 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:24:28 app,line: 40     INFO | NumberRequest: 6
+2023/12/20 18:25:13 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:25:13 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:25:13 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:25:13 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:25:13 app,line: 38     INFO | InputText: What are mash-ups?
+2023/12/20 18:25:13 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:25:13 app,line: 40     INFO | NumberRequest: 7
+2023/12/20 18:25:35 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 18:25:35 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 18:25:44 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:25:44 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:25:44 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:25:44 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:25:44 app,line: 38     INFO | InputText: How do I search for flights on Skyscanner?
+2023/12/20 18:25:44 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:25:44 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 18:40:26 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 18:40:26 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 18:40:35 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:40:35 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:40:35 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:40:35 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:40:35 app,line: 38     INFO | InputText: How do I search for flights on Skyscanner?
+2023/12/20 18:40:35 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:40:35 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 18:40:53 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:40:53 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:40:53 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:40:53 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:40:53 app,line: 38     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp
+2023/12/20 18:40:53 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:40:53 app,line: 40     INFO | NumberRequest: 2
+2023/12/20 18:41:39 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 18:41:39 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 18:41:40 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:41:40 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:41:40 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:41:40 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:41:40 app,line: 38     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp
+2023/12/20 18:41:40 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:41:40 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 18:42:18 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 18:42:18 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 18:42:20 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:42:20 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:42:20 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:42:20 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:42:20 app,line: 38     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp
+2023/12/20 18:42:20 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:42:20 app,line: 40     INFO | NumberRequest: 1
+2023/12/20 18:43:01 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/12/20 18:43:01 logging,line: 36     INFO | Logger object created successfully..
+2023/12/20 18:43:03 app,line: 34     INFO | -------------------------NEW_SESSION----------------------------------
+2023/12/20 18:43:03 app,line: 35     INFO | GuildID  = : 125
+2023/12/20 18:43:03 app,line: 36     INFO | User  = : VCC
+2023/12/20 18:43:03 app,line: 37     INFO | NameBot  = : BotQA
+2023/12/20 18:43:03 app,line: 38     INFO | InputText: Sơ đồ quy trình bao gồm mấy cấp
+2023/12/20 18:43:03 app,line: 39     INFO | IP_Client: 127.0.0.1
+2023/12/20 18:43:03 app,line: 40     INFO | NumberRequest: 1

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "hi",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin ch\u00e0o! T\u00f4i c\u00f3 th\u1ec3 gi\u00fap g\u00ec cho b\u1ea1n?",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    }
+]

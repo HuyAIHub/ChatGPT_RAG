@@ -1,0 +1,20 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "S\u01a1 \u0111\u1ed3 quy tr\u00ecnh g\u1ed3m m\u1ea5y c\u1ea5p",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "B\u1ea1n c\u00f3 th\u1ec3 tham kh\u1ea3o s\u01a1 \u0111\u1ed3 quy tr\u00ecnh trong t\u00e0i li\u1ec7u \"Quy tr\u00ecnh ph\u1ed1i h\u1ee3p x\u00e2y d\u1ef1ng/n\u00e2ng c\u1ea5p b\u00e0i to\u00e1n AI\" trang 2. S\u01a1 \u0111\u1ed3 quy tr\u00ecnh n\u00e0y bao g\u1ed3m 2 c\u1ea5p \u0111\u00f3 l\u00e0 c\u1ea5p 1 v\u00e0 c\u1ea5p 2.",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    }
+]
