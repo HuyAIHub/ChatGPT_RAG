@@ -76,3 +76,1672 @@ pip install python-multipart
 2024/03/12 16:41:29 app,line: 56     INFO | NumberRequest: 1
 2024/03/12 16:41:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 2024/03/12 16:41:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 10:17:22 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 10:17:22 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 10:17:22 utils,line: 99    ERROR | Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024/03/14 10:17:38 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 10:17:38 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 10:24:44 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 10:24:44 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 10:51:19 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 10:51:19 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 10:59:48 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 10:59:48 app,line: 51     INFO | GuildID  = : 1
+2024/03/14 10:59:48 app,line: 52     INFO | User  = : test_1
+2024/03/14 10:59:48 app,line: 53     INFO | NameBot  = : chinh_sach
+2024/03/14 10:59:48 app,line: 54     INFO | InputText: xin chào
+2024/03/14 10:59:48 app,line: 55     INFO | IP_Client: 10.207.112.55
+2024/03/14 10:59:48 app,line: 56     INFO | NumberRequest: 1
+2024/03/14 10:59:52 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 10:59:52 app,line: 51     INFO | GuildID  = : 1
+2024/03/14 10:59:52 app,line: 52     INFO | User  = : test_1
+2024/03/14 10:59:52 app,line: 53     INFO | NameBot  = : chinh_sach
+2024/03/14 10:59:52 app,line: 54     INFO | InputText: xin chào
+2024/03/14 10:59:52 app,line: 55     INFO | IP_Client: 10.207.112.55
+2024/03/14 10:59:52 app,line: 56     INFO | NumberRequest: 2
+2024/03/14 11:01:22 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 11:01:22 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 11:01:27 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 11:01:27 app,line: 51     INFO | GuildID  = : 1
+2024/03/14 11:01:27 app,line: 52     INFO | User  = : test_1
+2024/03/14 11:01:27 app,line: 53     INFO | NameBot  = : chinh_sach
+2024/03/14 11:01:27 app,line: 54     INFO | InputText: xin chào
+2024/03/14 11:01:27 app,line: 55     INFO | IP_Client: 10.207.112.55
+2024/03/14 11:01:27 app,line: 56     INFO | NumberRequest: 1
+2024/03/14 11:01:44 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 11:01:44 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 11:01:48 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 11:01:48 app,line: 51     INFO | GuildID  = : 1
+2024/03/14 11:01:48 app,line: 52     INFO | User  = : test_1
+2024/03/14 11:01:48 app,line: 53     INFO | NameBot  = : chinh_sach
+2024/03/14 11:01:48 app,line: 54     INFO | InputText: xin chào
+2024/03/14 11:01:48 app,line: 55     INFO | IP_Client: 10.207.112.55
+2024/03/14 11:01:48 app,line: 56     INFO | NumberRequest: 1
+2024/03/14 11:01:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 11:01:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 14:41:22 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 14:41:22 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 14:53:56 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 14:53:56 app,line: 49     INFO | GuildID  = : 249335
+2024/03/14 14:53:56 app,line: 50     INFO | User  = : quocht5
+2024/03/14 14:53:56 app,line: 51     INFO | NameBot  = : product
+2024/03/14 14:53:56 app,line: 52     INFO | InputText: Biết bố mày là ai không?
+2024/03/14 14:53:56 app,line: 53     INFO | IP_Client: 10.207.112.28
+2024/03/14 14:53:56 app,line: 54     INFO | NumberRequest: 1
+2024/03/14 14:53:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 14:54:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 14:57:56 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 14:57:56 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 15:38:27 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 15:38:27 app,line: 49     INFO | GuildID  = : 249335
+2024/03/14 15:38:27 app,line: 50     INFO | User  = : quocht5
+2024/03/14 15:38:27 app,line: 51     INFO | NameBot  = : product
+2024/03/14 15:38:27 app,line: 52     INFO | InputText: Biết bố mày là ai không?
+2024/03/14 15:38:27 app,line: 53     INFO | IP_Client: 10.207.112.28
+2024/03/14 15:38:27 app,line: 54     INFO | NumberRequest: 1
+2024/03/14 15:38:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 15:38:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 15:50:15 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 15:50:15 app,line: 49     INFO | GuildID  = : 249335
+2024/03/14 15:50:15 app,line: 50     INFO | User  = : quocht5
+2024/03/14 15:50:15 app,line: 51     INFO | NameBot  = : product
+2024/03/14 15:50:15 app,line: 52     INFO | InputText: Biết bố mày là ai không?
+2024/03/14 15:50:15 app,line: 53     INFO | IP_Client: 10.207.112.28
+2024/03/14 15:50:15 app,line: 54     INFO | NumberRequest: 2
+2024/03/14 15:50:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 15:50:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 15:51:43 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 15:51:43 app,line: 49     INFO | GuildID  = : 249335
+2024/03/14 15:51:43 app,line: 50     INFO | User  = : quocht5
+2024/03/14 15:51:43 app,line: 51     INFO | NameBot  = : product
+2024/03/14 15:51:43 app,line: 52     INFO | InputText: A
+2024/03/14 15:51:43 app,line: 53     INFO | IP_Client: 10.207.112.28
+2024/03/14 15:51:43 app,line: 54     INFO | NumberRequest: 3
+2024/03/14 15:51:44 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 15:51:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 16:14:57 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 16:14:57 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 16:17:50 app,line: 55     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 16:17:50 app,line: 56     INFO | GuildID  = : 249335
+2024/03/14 16:17:50 app,line: 57     INFO | User  = : quocht5
+2024/03/14 16:17:50 app,line: 58     INFO | NameBot  = : product
+2024/03/14 16:17:50 app,line: 59     INFO | InputText: Biết bố mày là ai không?
+2024/03/14 16:17:50 app,line: 60     INFO | IP_Client: 10.207.112.28
+2024/03/14 16:17:50 app,line: 61     INFO | NumberRequest: 1
+2024/03/14 16:17:51 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 16:17:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 17:31:39 app,line: 55     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 17:31:39 app,line: 56     INFO | GuildID  = : 9008038
+2024/03/14 17:31:39 app,line: 57     INFO | User  = : 197903
+2024/03/14 17:31:39 app,line: 58     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 17:31:39 app,line: 59     INFO | InputText: xin chao
+2024/03/14 17:31:39 app,line: 60     INFO | IP_Client: 10.207.112.10
+2024/03/14 17:31:39 app,line: 61     INFO | NumberRequest: 2
+2024/03/14 17:31:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 17:31:42 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 17:58:30 app,line: 55     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 17:58:30 app,line: 56     INFO | GuildID  = : 9008038
+2024/03/14 17:58:30 app,line: 57     INFO | User  = : 197903
+2024/03/14 17:58:30 app,line: 58     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 17:58:30 app,line: 59     INFO | InputText: hỗ trợ
+2024/03/14 17:58:30 app,line: 60     INFO | IP_Client: 10.207.112.10
+2024/03/14 17:58:30 app,line: 61     INFO | NumberRequest: 3
+2024/03/14 17:58:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:05:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 18:05:49 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 18:06:12 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:06:12 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:06:12 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:06:12 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.term
+2024/03/14 18:06:12 app,line: 61     INFO | InputText: ok
+2024/03/14 18:06:12 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:06:12 app,line: 63     INFO | NumberRequest: 1
+2024/03/14 18:06:13 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:06:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:06:39 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:06:39 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:06:39 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:06:39 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.term
+2024/03/14 18:06:39 app,line: 61     INFO | InputText: bàn chải điện
+2024/03/14 18:06:39 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:06:39 app,line: 63     INFO | NumberRequest: 2
+2024/03/14 18:06:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:09:37 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 18:09:37 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 18:15:05 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:15:05 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:15:05 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:15:05 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 18:15:05 app,line: 61     INFO | InputText: ok
+2024/03/14 18:15:05 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:15:05 app,line: 63     INFO | NumberRequest: 1
+2024/03/14 18:15:15 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.771817 seconds
+2024/03/14 18:15:26 _base_client,line: 1015     INFO | Retrying request to /embeddings in 1.798682 seconds
+2024/03/14 18:17:03 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 18:17:03 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 18:23:45 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:23:45 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:23:45 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:23:45 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 18:23:45 app,line: 61     INFO | InputText: 
+2024/03/14 18:23:45 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:23:45 app,line: 63     INFO | NumberRequest: 1
+2024/03/14 18:23:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:23:49 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:25:08 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:25:08 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:25:08 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:25:08 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 18:25:08 app,line: 61     INFO | InputText: 
+2024/03/14 18:25:08 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:25:08 app,line: 63     INFO | NumberRequest: 2
+2024/03/14 18:25:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:25:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:25:40 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:25:40 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:25:40 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:25:40 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 18:25:40 app,line: 61     INFO | InputText: bò
+2024/03/14 18:25:40 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:25:40 app,line: 63     INFO | NumberRequest: 3
+2024/03/14 18:25:41 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:25:49 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:31:22 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:31:22 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:31:22 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:31:22 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 18:31:22 app,line: 61     INFO | InputText: ok
+2024/03/14 18:31:22 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:31:22 app,line: 63     INFO | NumberRequest: 4
+2024/03/14 18:31:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:31:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:36:25 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:36:25 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:36:25 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:36:25 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 18:36:25 app,line: 61     INFO | InputText: lndjwdiwnd bdwnoonefo bowndonwf bồne
+2024/03/14 18:36:25 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:36:25 app,line: 63     INFO | NumberRequest: 5
+2024/03/14 18:36:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:36:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:38:37 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:38:37 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:38:37 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:38:37 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 18:38:37 app,line: 61     INFO | InputText: hà giang g
+2024/03/14 18:38:37 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:38:37 app,line: 63     INFO | NumberRequest: 6
+2024/03/14 18:38:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:38:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:41:12 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:41:12 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:41:12 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:41:12 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 18:41:12 app,line: 61     INFO | InputText: Bếp ga
+2024/03/14 18:41:12 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:41:12 app,line: 63     INFO | NumberRequest: 7
+2024/03/14 18:41:12 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:41:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:41:21 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:41:21 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:41:21 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:41:21 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.invalid
+2024/03/14 18:41:21 app,line: 61     INFO | InputText: khoongncos
+2024/03/14 18:41:21 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:41:21 app,line: 63     INFO | NumberRequest: 8
+2024/03/14 18:41:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:41:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:55:24 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:55:24 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:55:24 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:55:24 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 18:55:24 app,line: 61     INFO | InputText: ok
+2024/03/14 18:55:24 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:55:24 app,line: 63     INFO | NumberRequest: 9
+2024/03/14 18:55:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:55:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:56:27 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:56:27 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:56:27 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:56:27 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 18:56:27 app,line: 61     INFO | InputText: nói cho tôi về câc chính sách của vông trình viettel
+2024/03/14 18:56:27 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:56:27 app,line: 63     INFO | NumberRequest: 10
+2024/03/14 18:56:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:56:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 18:56:43 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 18:56:43 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 18:56:43 app,line: 59     INFO | User  = : 197903
+2024/03/14 18:56:43 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 18:56:43 app,line: 61     INFO | InputText: ok
+2024/03/14 18:56:43 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 18:56:43 app,line: 63     INFO | NumberRequest: 11
+2024/03/14 18:56:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 18:56:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:03:14 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:03:14 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 19:03:14 app,line: 59     INFO | User  = : 197903
+2024/03/14 19:03:14 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 19:03:14 app,line: 61     INFO | InputText: Liệt kê cho tôi bàn chải điện
+2024/03/14 19:03:14 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 19:03:14 app,line: 63     INFO | NumberRequest: 12
+2024/03/14 19:03:14 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:03:53 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:04:51 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:04:51 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 19:04:51 app,line: 59     INFO | User  = : 197903
+2024/03/14 19:04:51 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 19:04:51 app,line: 61     INFO | InputText: hi bạn
+2024/03/14 19:04:51 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 19:04:51 app,line: 63     INFO | NumberRequest: 13
+2024/03/14 19:04:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:04:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:05:22 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:05:22 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 19:05:22 app,line: 59     INFO | User  = : 197903
+2024/03/14 19:05:22 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 19:05:22 app,line: 61     INFO | InputText: ok
+2024/03/14 19:05:22 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 19:05:22 app,line: 63     INFO | NumberRequest: 14
+2024/03/14 19:05:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:05:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:06:37 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:06:37 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:09:14 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:09:14 app,line: 58     INFO | GuildID  = : 123
+2024/03/14 19:09:14 app,line: 59     INFO | User  = : 123
+2024/03/14 19:09:14 app,line: 60     INFO | NameBot  = : 123
+2024/03/14 19:09:14 app,line: 61     INFO | InputText: Liệt kê cho tôi cách sản phẩm bàn chải điện
+2024/03/14 19:09:14 app,line: 62     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:09:14 app,line: 63     INFO | NumberRequest: 1
+2024/03/14 19:09:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:09:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:12:24 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:12:24 app,line: 58     INFO | GuildID  = : 123
+2024/03/14 19:12:24 app,line: 59     INFO | User  = : 123
+2024/03/14 19:12:24 app,line: 60     INFO | NameBot  = : 123
+2024/03/14 19:12:24 app,line: 61     INFO | InputText: Liệt kê cho tôi các sản phẩm bàn chải điện
+2024/03/14 19:12:24 app,line: 62     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:12:24 app,line: 63     INFO | NumberRequest: 2
+2024/03/14 19:12:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:12:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:12:48 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:12:48 app,line: 58     INFO | GuildID  = : 9008038
+2024/03/14 19:12:48 app,line: 59     INFO | User  = : 197903
+2024/03/14 19:12:48 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 19:12:48 app,line: 61     INFO | InputText: lương
+2024/03/14 19:12:48 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/14 19:12:48 app,line: 63     INFO | NumberRequest: 3
+2024/03/14 19:12:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:12:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:20:54 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:20:54 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:21:03 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:21:03 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:21:17 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:21:17 app,line: 58     INFO | GuildID  = : 123
+2024/03/14 19:21:17 app,line: 59     INFO | User  = : 123
+2024/03/14 19:21:17 app,line: 60     INFO | NameBot  = : 123
+2024/03/14 19:21:17 app,line: 61     INFO | InputText: Liệt kê cho tôi các sản phẩm bàn chải điện
+2024/03/14 19:21:17 app,line: 62     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:21:17 app,line: 63     INFO | NumberRequest: 1
+2024/03/14 19:21:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:21:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:23:29 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:23:29 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:23:32 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:23:32 app,line: 58     INFO | GuildID  = : 123
+2024/03/14 19:23:32 app,line: 59     INFO | User  = : 123
+2024/03/14 19:23:32 app,line: 60     INFO | NameBot  = : 123
+2024/03/14 19:23:32 app,line: 61     INFO | InputText: Liệt kê cho tôi các sản phẩm bàn chải điện
+2024/03/14 19:23:32 app,line: 62     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:23:32 app,line: 63     INFO | NumberRequest: 1
+2024/03/14 19:23:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:23:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:25:22 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:25:22 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:25:52 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:25:52 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:26:56 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:26:56 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:27:11 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:27:11 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:27:15 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:27:15 test_app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:27:15 test_app,line: 55     INFO | User  = : 123
+2024/03/14 19:27:15 test_app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:27:15 test_app,line: 57     INFO | InputText: Liệt kê cho tôi các sản phẩm bàn chải điện
+2024/03/14 19:27:15 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:27:15 test_app,line: 59     INFO | NumberRequest: 1
+2024/03/14 19:27:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:27:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:28:04 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:28:04 test_app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:28:04 test_app,line: 55     INFO | User  = : 123
+2024/03/14 19:28:04 test_app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:28:04 test_app,line: 57     INFO | InputText: Liệt kê bàn chải điện
+2024/03/14 19:28:04 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:28:04 test_app,line: 59     INFO | NumberRequest: 2
+2024/03/14 19:28:05 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:28:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:28:18 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:28:18 test_app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:28:18 test_app,line: 55     INFO | User  = : 123
+2024/03/14 19:28:18 test_app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:28:18 test_app,line: 57     INFO | InputText: Liệt kê bàn chải điện
+2024/03/14 19:28:18 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:28:18 test_app,line: 59     INFO | NumberRequest: 3
+2024/03/14 19:28:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:28:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:28:53 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:28:53 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 19:28:53 app,line: 55     INFO | User  = : 197903
+2024/03/14 19:28:53 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 19:28:53 app,line: 57     INFO | InputText: ok
+2024/03/14 19:28:53 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 19:28:53 app,line: 59     INFO | NumberRequest: 1
+2024/03/14 19:28:54 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:28:54 test_app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:28:54 test_app,line: 55     INFO | User  = : 123
+2024/03/14 19:28:54 test_app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:28:54 test_app,line: 57     INFO | InputText: bạn nhầm rồi! kết quả của bạn trả ra là bàn là
+2024/03/14 19:28:54 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:28:54 test_app,line: 59     INFO | NumberRequest: 4
+2024/03/14 19:28:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:28:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:28:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:28:59 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:29:10 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:29:10 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 19:29:10 app,line: 55     INFO | User  = : 197903
+2024/03/14 19:29:10 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 19:29:10 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:29:10 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 19:29:10 app,line: 59     INFO | NumberRequest: 2
+2024/03/14 19:29:10 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:30:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:31:39 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:31:39 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:31:41 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:31:41 test_app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:31:41 test_app,line: 55     INFO | User  = : 123
+2024/03/14 19:31:41 test_app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:31:41 test_app,line: 57     INFO | InputText: bạn nhầm rồi! kết quả của bạn trả ra là bàn là
+2024/03/14 19:31:41 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:31:41 test_app,line: 59     INFO | NumberRequest: 1
+2024/03/14 19:31:42 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:31:43 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:31:43 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:31:43 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:31:43 app,line: 56     INFO | NameBot  = : product
+2024/03/14 19:31:43 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:31:43 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:31:43 app,line: 59     INFO | NumberRequest: 3
+2024/03/14 19:31:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:31:49 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:31:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:32:39 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:32:39 test_app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:32:39 test_app,line: 55     INFO | User  = : 123
+2024/03/14 19:32:39 test_app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:32:39 test_app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:32:39 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:32:39 test_app,line: 59     INFO | NumberRequest: 2
+2024/03/14 19:32:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:32:46 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:32:46 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:32:46 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:32:46 app,line: 56     INFO | NameBot  = : product
+2024/03/14 19:32:46 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:32:46 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:32:46 app,line: 59     INFO | NumberRequest: 4
+2024/03/14 19:32:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:32:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:33:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:33:18 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:33:18 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:33:18 app,line: 55     INFO | User  = : string
+2024/03/14 19:33:18 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:33:18 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:33:18 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:33:18 app,line: 59     INFO | NumberRequest: 5
+2024/03/14 19:33:19 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:33:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:34:00 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:34:00 app,line: 54     INFO | GuildID  = : 123
+2024/03/14 19:34:00 app,line: 55     INFO | User  = : 123
+2024/03/14 19:34:00 app,line: 56     INFO | NameBot  = : 123
+2024/03/14 19:34:00 app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:34:00 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:34:00 app,line: 59     INFO | NumberRequest: 6
+2024/03/14 19:34:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:34:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:35:01 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:35:01 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:35:01 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:35:01 app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 19:35:01 app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:35:01 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:35:01 app,line: 59     INFO | NumberRequest: 7
+2024/03/14 19:35:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:35:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:40:51 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:40:51 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:40:51 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:40:51 app,line: 56     INFO | NameBot  = : product
+2024/03/14 19:40:51 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:40:51 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:40:51 app,line: 59     INFO | NumberRequest: 8
+2024/03/14 19:40:51 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:41:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:41:20 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:41:20 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:41:20 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:41:20 app,line: 56     INFO | NameBot  = : product
+2024/03/14 19:41:20 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:41:20 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:41:20 app,line: 59     INFO | NumberRequest: 9
+2024/03/14 19:41:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:41:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:41:44 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:41:44 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:41:44 app,line: 55     INFO | User  = : string
+2024/03/14 19:41:44 app,line: 56     INFO | NameBot  = : product
+2024/03/14 19:41:44 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:41:44 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:41:44 app,line: 59     INFO | NumberRequest: 10
+2024/03/14 19:41:45 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:41:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:42:30 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:42:30 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:42:30 app,line: 55     INFO | User  = : string
+2024/03/14 19:42:30 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:42:30 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:42:30 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:42:30 app,line: 59     INFO | NumberRequest: 11
+2024/03/14 19:42:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:42:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:42:48 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:42:48 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:42:48 app,line: 55     INFO | User  = : string
+2024/03/14 19:42:48 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:42:48 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:42:48 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:42:48 app,line: 59     INFO | NumberRequest: 12
+2024/03/14 19:42:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:42:53 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:43:42 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:43:42 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:43:42 app,line: 55     INFO | User  = : string
+2024/03/14 19:43:42 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:43:42 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:43:42 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:43:42 app,line: 59     INFO | NumberRequest: 13
+2024/03/14 19:43:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:43:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:44:03 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:44:03 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:44:03 app,line: 55     INFO | User  = : string
+2024/03/14 19:44:03 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:44:03 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:44:03 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:44:03 app,line: 59     INFO | NumberRequest: 14
+2024/03/14 19:44:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:44:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:44:11 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:44:11 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:44:11 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:44:11 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:44:11 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:44:11 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:44:11 app,line: 59     INFO | NumberRequest: 15
+2024/03/14 19:44:11 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:44:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:44:26 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:44:26 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:44:26 app,line: 55     INFO | User  = : string
+2024/03/14 19:44:26 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:44:26 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:44:26 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:44:26 app,line: 59     INFO | NumberRequest: 16
+2024/03/14 19:44:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:44:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:44:40 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:44:40 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:44:40 app,line: 55     INFO | User  = : anhth57
+2024/03/14 19:44:40 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:44:40 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:44:40 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:44:40 app,line: 59     INFO | NumberRequest: 17
+2024/03/14 19:44:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:45:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:45:53 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:45:53 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:45:53 app,line: 55     INFO | User  = : 4324
+2024/03/14 19:45:53 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:45:53 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:45:53 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:45:53 app,line: 59     INFO | NumberRequest: 18
+2024/03/14 19:45:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:46:04 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:46:17 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:46:17 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:46:17 app,line: 55     INFO | User  = : dddd
+2024/03/14 19:46:17 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:46:17 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:46:17 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:46:17 app,line: 59     INFO | NumberRequest: 19
+2024/03/14 19:46:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:46:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:46:44 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:46:44 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:46:44 app,line: 55     INFO | User  = : string
+2024/03/14 19:46:44 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:46:44 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:46:44 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:46:44 app,line: 59     INFO | NumberRequest: 20
+2024/03/14 19:46:44 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:46:51 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:49:39 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:49:39 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:49:48 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:49:48 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 19:50:00 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:50:00 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:50:00 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:50:00 app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 19:50:00 app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:50:00 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:50:00 app,line: 59     INFO | NumberRequest: 1
+2024/03/14 19:50:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:50:14 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:50:16 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:50:16 test_app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:50:16 test_app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:50:16 test_app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 19:50:16 test_app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:50:16 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:50:16 test_app,line: 59     INFO | NumberRequest: 1
+2024/03/14 19:50:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:50:29 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:50:55 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:50:55 test_app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:50:55 test_app,line: 55     INFO | User  = : 12364656
+2024/03/14 19:50:55 test_app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 19:50:55 test_app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:50:55 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:50:55 test_app,line: 59     INFO | NumberRequest: 2
+2024/03/14 19:50:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:51:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:51:25 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:51:25 test_app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:51:25 test_app,line: 55     INFO | User  = : sao
+2024/03/14 19:51:25 test_app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 19:51:25 test_app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:51:25 test_app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:51:25 test_app,line: 59     INFO | NumberRequest: 3
+2024/03/14 19:51:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:51:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:51:56 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:51:56 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:51:56 app,line: 55     INFO | User  = : string
+2024/03/14 19:51:56 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:51:56 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:51:56 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:51:56 app,line: 59     INFO | NumberRequest: 2
+2024/03/14 19:51:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:52:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:52:08 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:52:08 app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:52:08 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:52:08 app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:52:08 app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:52:08 app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:52:08 app,line: 59     INFO | NumberRequest: 3
+2024/03/14 19:52:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:52:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:52:26 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:52:26 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 19:52:26 app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:52:26 app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 19:52:26 app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 19:52:26 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 19:52:26 app,line: 59     INFO | NumberRequest: 4
+2024/03/14 19:52:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:52:27 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:52:27 test_app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:52:27 test_app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:52:27 test_app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:52:27 test_app,line: 57     INFO | InputText: Các loại bàn chải điện
+2024/03/14 19:52:27 test_app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:52:27 test_app,line: 59     INFO | NumberRequest: 4
+2024/03/14 19:52:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:52:41 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:52:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:52:58 test_app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 19:52:58 test_app,line: 54     INFO | GuildID  = : string
+2024/03/14 19:52:58 test_app,line: 55     INFO | User  = : quocht5
+2024/03/14 19:52:58 test_app,line: 56     INFO | NameBot  = : string
+2024/03/14 19:52:58 test_app,line: 57     INFO | InputText: Các loại bàn là
+2024/03/14 19:52:58 test_app,line: 58     INFO | IP_Client: 10.207.112.28
+2024/03/14 19:52:58 test_app,line: 59     INFO | NumberRequest: 5
+2024/03/14 19:52:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 19:53:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 19:55:50 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 19:55:50 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 20:01:19 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 20:01:19 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 20:02:29 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 20:02:29 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 20:03:16 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 20:03:16 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 20:05:02 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:05:02 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 20:05:02 app,line: 55     INFO | User  = : 197903
+2024/03/14 20:05:02 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 20:05:02 app,line: 57     INFO | InputText: ok
+2024/03/14 20:05:02 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 20:05:02 app,line: 59     INFO | NumberRequest: 5
+2024/03/14 20:05:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:05:05 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:05:10 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:05:10 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 20:05:10 app,line: 55     INFO | User  = : 197903
+2024/03/14 20:05:10 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 20:05:10 app,line: 57     INFO | InputText: buuubbubb
+2024/03/14 20:05:10 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 20:05:10 app,line: 59     INFO | NumberRequest: 6
+2024/03/14 20:05:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:05:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:05:57 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:05:57 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 20:05:57 app,line: 55     INFO | User  = : 197903
+2024/03/14 20:05:57 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 20:05:57 app,line: 57     INFO | InputText: bàn chải
+2024/03/14 20:05:57 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 20:05:57 app,line: 59     INFO | NumberRequest: 7
+2024/03/14 20:05:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:06:08 _base_client,line: 1015     INFO | Retrying request to /chat/completions in 0.910141 seconds
+2024/03/14 20:06:12 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:06:57 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:06:57 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 20:06:57 app,line: 55     INFO | User  = : 197903
+2024/03/14 20:06:57 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 20:06:57 app,line: 57     INFO | InputText: o
+2024/03/14 20:06:57 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 20:06:57 app,line: 59     INFO | NumberRequest: 8
+2024/03/14 20:06:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:07:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:07:38 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 20:07:38 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 20:07:39 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:07:39 app,line: 54     INFO | GuildID  = : 249335
+2024/03/14 20:07:39 app,line: 55     INFO | User  = : quocht5
+2024/03/14 20:07:39 app,line: 56     INFO | NameBot  = : 123333
+2024/03/14 20:07:39 app,line: 57     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 20:07:39 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:07:39 app,line: 59     INFO | NumberRequest: 9
+2024/03/14 20:07:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:07:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:07:56 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:07:56 test_app,line: 55     INFO | GuildID  = : 249335
+2024/03/14 20:07:56 test_app,line: 56     INFO | User  = : sao
+2024/03/14 20:07:56 test_app,line: 57     INFO | NameBot  = : 123333
+2024/03/14 20:07:56 test_app,line: 58     INFO | InputText: liệt kê các sản phẩm bàn là
+2024/03/14 20:07:56 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:07:56 test_app,line: 60     INFO | NumberRequest: 1
+2024/03/14 20:08:29 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:08:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:09:37 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:09:37 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 20:09:37 app,line: 55     INFO | User  = : 197903
+2024/03/14 20:09:37 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 20:09:37 app,line: 57     INFO | InputText: hhh
+2024/03/14 20:09:37 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 20:09:37 app,line: 59     INFO | NumberRequest: 10
+2024/03/14 20:09:38 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:09:42 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:09:48 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:09:48 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:09:48 test_app,line: 56     INFO | User  = : quocht5
+2024/03/14 20:09:48 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:09:48 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:09:48 test_app,line: 59     INFO | IP_Client: 10.207.112.28
+2024/03/14 20:09:48 test_app,line: 60     INFO | NumberRequest: 2
+2024/03/14 20:10:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:10:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:14:17 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:14:17 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:14:17 test_app,line: 56     INFO | User  = : quocht5
+2024/03/14 20:14:17 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:14:17 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:14:17 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:14:17 test_app,line: 60     INFO | NumberRequest: 3
+2024/03/14 20:14:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:14:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:15:01 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:15:01 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:15:01 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:15:01 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:15:01 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:15:01 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:15:01 test_app,line: 60     INFO | NumberRequest: 4
+2024/03/14 20:15:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:15:13 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:15:39 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:15:39 app,line: 54     INFO | GuildID  = : string
+2024/03/14 20:15:39 app,line: 55     INFO | User  = : string
+2024/03/14 20:15:39 app,line: 56     INFO | NameBot  = : string
+2024/03/14 20:15:39 app,line: 57     INFO | InputText: Các loại bàn là
+2024/03/14 20:15:39 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:15:39 app,line: 59     INFO | NumberRequest: 11
+2024/03/14 20:15:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:15:49 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:16:21 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:16:21 app,line: 54     INFO | GuildID  = : string
+2024/03/14 20:16:21 app,line: 55     INFO | User  = : string
+2024/03/14 20:16:21 app,line: 56     INFO | NameBot  = : string
+2024/03/14 20:16:21 app,line: 57     INFO | InputText: Các loại bàn là
+2024/03/14 20:16:21 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:16:21 app,line: 59     INFO | NumberRequest: 12
+2024/03/14 20:16:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:16:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:17:25 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:17:25 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:17:25 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:17:25 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:17:25 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:17:25 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:17:25 test_app,line: 60     INFO | NumberRequest: 5
+2024/03/14 20:17:29 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:17:38 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:18:10 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:18:10 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:18:10 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:18:10 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:18:10 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:18:10 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:18:10 test_app,line: 60     INFO | NumberRequest: 6
+2024/03/14 20:18:13 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:18:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:18:45 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:18:45 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:18:45 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:18:45 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:18:45 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:18:45 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:18:45 test_app,line: 60     INFO | NumberRequest: 7
+2024/03/14 20:18:49 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:18:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:25:14 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 20:25:14 logging,line: 36     INFO | Logger object created successfully..
+2024/03/14 20:25:17 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:25:17 app,line: 54     INFO | GuildID  = : string
+2024/03/14 20:25:17 app,line: 55     INFO | User  = : string
+2024/03/14 20:25:17 app,line: 56     INFO | NameBot  = : string
+2024/03/14 20:25:17 app,line: 57     INFO | InputText: Các loại bàn là
+2024/03/14 20:25:17 app,line: 58     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:25:17 app,line: 59     INFO | NumberRequest: 13
+2024/03/14 20:25:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:25:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:25:51 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:25:51 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:25:51 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:25:51 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:25:51 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:25:51 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:25:51 test_app,line: 60     INFO | NumberRequest: 1
+2024/03/14 20:25:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:26:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:28:02 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:28:02 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:28:02 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:28:02 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:28:02 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:28:02 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:28:02 test_app,line: 60     INFO | NumberRequest: 2
+2024/03/14 20:28:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:28:10 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:29:18 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:29:18 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:29:18 test_app,line: 56     INFO | User  = : quocht5
+2024/03/14 20:29:18 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:29:18 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:29:18 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:29:18 test_app,line: 60     INFO | NumberRequest: 3
+2024/03/14 20:29:19 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:29:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:29:38 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:29:38 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:29:38 test_app,line: 56     INFO | User  = : string
+2024/03/14 20:29:38 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:29:38 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:29:38 test_app,line: 59     INFO | IP_Client: 10.207.112.55
+2024/03/14 20:29:38 test_app,line: 60     INFO | NumberRequest: 4
+2024/03/14 20:29:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:29:45 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:30:15 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:30:15 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:30:16 test_app,line: 56     INFO | User  = : quocht5
+2024/03/14 20:30:16 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:30:16 test_app,line: 58     INFO | InputText: Các loại bàn là
+2024/03/14 20:30:16 test_app,line: 59     INFO | IP_Client: 10.207.112.28
+2024/03/14 20:30:16 test_app,line: 60     INFO | NumberRequest: 5
+2024/03/14 20:30:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:30:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:31:24 test_app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:31:24 test_app,line: 55     INFO | GuildID  = : string
+2024/03/14 20:31:24 test_app,line: 56     INFO | User  = : quocht5
+2024/03/14 20:31:24 test_app,line: 57     INFO | NameBot  = : string
+2024/03/14 20:31:24 test_app,line: 58     INFO | InputText: Các loại bàn chải điện
+2024/03/14 20:31:24 test_app,line: 59     INFO | IP_Client: 10.207.112.28
+2024/03/14 20:31:24 test_app,line: 60     INFO | NumberRequest: 6
+2024/03/14 20:31:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:31:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:33:11 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/14 20:33:11 app,line: 54     INFO | GuildID  = : 9008038
+2024/03/14 20:33:11 app,line: 55     INFO | User  = : 197903
+2024/03/14 20:33:11 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/14 20:33:11 app,line: 57     INFO | InputText: u
+2024/03/14 20:33:11 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/14 20:33:11 app,line: 59     INFO | NumberRequest: 14
+2024/03/14 20:33:11 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/14 20:33:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/14 20:35:48 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/14 20:35:48 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 08:21:45 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 08:21:45 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 08:22:50 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 08:22:50 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 08:23:32 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:23:32 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:23:32 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:23:32 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:23:32 app,line: 58     INFO | InputText: ok
+2024/03/15 08:23:32 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:23:32 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 08:23:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 08:23:36 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 08:23:47 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:23:47 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:23:47 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:23:47 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:23:47 app,line: 58     INFO | InputText: bàn là
+2024/03/15 08:23:47 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:23:47 app,line: 60     INFO | NumberRequest: 2
+2024/03/15 08:23:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 08:23:51 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 08:24:04 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:24:04 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:24:04 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:24:04 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:24:04 app,line: 58     INFO | InputText: Các bàn là
+2024/03/15 08:24:04 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:24:04 app,line: 60     INFO | NumberRequest: 3
+2024/03/15 08:24:05 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 08:24:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 08:25:58 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:25:58 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:25:58 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:25:58 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:25:58 app,line: 58     INFO | InputText: bàn là bất kỳ
+2024/03/15 08:25:58 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:25:58 app,line: 60     INFO | NumberRequest: 4
+2024/03/15 08:25:59 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 08:26:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 08:36:01 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:36:01 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:36:01 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:36:01 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:36:01 app,line: 58     INFO | InputText: ok
+2024/03/15 08:36:01 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:36:01 app,line: 60     INFO | NumberRequest: 5
+2024/03/15 08:36:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 08:36:05 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 08:36:36 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:36:36 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:36:36 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:36:36 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:36:36 app,line: 58     INFO | InputText: ok
+2024/03/15 08:36:36 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:36:36 app,line: 60     INFO | NumberRequest: 6
+2024/03/15 08:36:36 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:36:36 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.774423 seconds
+2024/03/15 08:36:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:36:37 _base_client,line: 1015     INFO | Retrying request to /embeddings in 1.933693 seconds
+2024/03/15 08:36:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:36:44 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:36:44 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:36:44 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:36:44 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:36:44 app,line: 58     INFO | InputText: ok
+2024/03/15 08:36:44 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:36:44 app,line: 60     INFO | NumberRequest: 7
+2024/03/15 08:36:45 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:36:45 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.925934 seconds
+2024/03/15 08:36:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:36:46 _base_client,line: 1015     INFO | Retrying request to /embeddings in 1.990363 seconds
+2024/03/15 08:36:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:37:00 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:37:00 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:37:00 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:37:00 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:37:00 app,line: 58     INFO | InputText: ok
+2024/03/15 08:37:00 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:37:00 app,line: 60     INFO | NumberRequest: 8
+2024/03/15 08:37:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:37:01 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.909046 seconds
+2024/03/15 08:37:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:37:02 _base_client,line: 1015     INFO | Retrying request to /embeddings in 1.836055 seconds
+2024/03/15 08:37:04 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:02 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:44:02 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:44:02 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:44:02 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:44:02 app,line: 58     INFO | InputText: hi
+2024/03/15 08:44:02 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:44:02 app,line: 60     INFO | NumberRequest: 9
+2024/03/15 08:44:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:03 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.770180 seconds
+2024/03/15 08:44:04 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:04 _base_client,line: 1015     INFO | Retrying request to /embeddings in 1.621987 seconds
+2024/03/15 08:44:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:22 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 08:44:22 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 08:44:22 app,line: 56     INFO | User  = : 197903
+2024/03/15 08:44:22 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 08:44:22 app,line: 58     INFO | InputText: hi
+2024/03/15 08:44:22 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 08:44:22 app,line: 60     INFO | NumberRequest: 10
+2024/03/15 08:44:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:22 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.981311 seconds
+2024/03/15 08:44:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:23 _base_client,line: 1015     INFO | Retrying request to /embeddings in 1.892985 seconds
+2024/03/15 08:44:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024/03/15 08:44:50 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 08:44:50 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 09:02:18 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:02:18 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:02:18 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:02:18 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:02:18 app,line: 58     INFO | InputText: hi
+2024/03/15 09:02:18 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:02:18 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 09:02:19 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:02:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:02:37 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:02:37 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:02:37 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:02:37 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:02:37 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 09:02:37 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:02:37 app,line: 60     INFO | NumberRequest: 2
+2024/03/15 09:02:38 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:02:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:04:41 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:04:41 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:04:41 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:04:41 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:04:41 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 09:04:41 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:04:41 app,line: 60     INFO | NumberRequest: 3
+2024/03/15 09:04:41 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:04:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:04:50 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:04:50 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:04:50 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:04:50 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:04:50 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 09:04:50 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:04:50 app,line: 60     INFO | NumberRequest: 4
+2024/03/15 09:04:51 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:04:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:18:36 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:18:36 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:18:36 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:18:36 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:18:36 app,line: 58     INFO | InputText: ok
+2024/03/15 09:18:36 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:18:36 app,line: 60     INFO | NumberRequest: 5
+2024/03/15 09:18:36 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:18:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:19:07 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:19:07 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:19:07 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:19:07 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:19:07 app,line: 58     INFO | InputText: dst3033/70
+2024/03/15 09:19:07 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:19:07 app,line: 60     INFO | NumberRequest: 6
+2024/03/15 09:19:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:19:12 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:19:35 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:19:35 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:19:35 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:19:35 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:19:35 app,line: 58     INFO | InputText: dst0000
+2024/03/15 09:19:35 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:19:35 app,line: 60     INFO | NumberRequest: 7
+2024/03/15 09:19:35 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:19:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:19:53 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:19:53 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:19:53 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:19:53 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:19:53 app,line: 58     INFO | InputText: gfg67756
+2024/03/15 09:19:53 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:19:53 app,line: 60     INFO | NumberRequest: 8
+2024/03/15 09:19:53 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:19:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:20:14 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:20:14 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:20:14 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:20:14 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:20:14 app,line: 58     INFO | InputText: 7666
+2024/03/15 09:20:14 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:20:14 app,line: 60     INFO | NumberRequest: 9
+2024/03/15 09:20:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:20:19 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:20:41 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:20:41 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:20:41 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:20:41 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:20:41 app,line: 58     INFO | InputText: 75756
+2024/03/15 09:20:41 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:20:41 app,line: 60     INFO | NumberRequest: 10
+2024/03/15 09:20:41 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:20:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:20:46 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:20:46 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:20:46 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:20:46 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:20:46 app,line: 58     INFO | InputText: 76655
+2024/03/15 09:20:46 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:20:46 app,line: 60     INFO | NumberRequest: 11
+2024/03/15 09:20:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:20:50 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:20:55 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:20:55 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:20:55 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:20:55 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:20:55 app,line: 58     INFO | InputText: ygg
+2024/03/15 09:20:55 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:20:55 app,line: 60     INFO | NumberRequest: 12
+2024/03/15 09:20:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:21:00 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:42:00 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:42:00 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:42:00 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:42:00 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:42:00 app,line: 58     INFO | InputText: hi
+2024/03/15 09:42:00 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:42:00 app,line: 60     INFO | NumberRequest: 13
+2024/03/15 09:42:00 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:42:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:49:03 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:49:03 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:49:03 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:49:03 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:49:03 app,line: 58     INFO | InputText: ok
+2024/03/15 09:49:03 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:49:03 app,line: 60     INFO | NumberRequest: 14
+2024/03/15 09:49:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:49:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:52:19 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:52:19 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:52:19 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:52:19 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:52:19 app,line: 58     INFO | InputText: ok
+2024/03/15 09:52:19 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:52:19 app,line: 60     INFO | NumberRequest: 15
+2024/03/15 09:52:20 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:52:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:52:32 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:52:32 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:52:32 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:52:32 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:52:32 app,line: 58     INFO | InputText: hi
+2024/03/15 09:52:32 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:52:32 app,line: 60     INFO | NumberRequest: 16
+2024/03/15 09:52:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:52:35 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:53:46 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:53:46 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:53:46 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:53:46 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:53:46 app,line: 58     INFO | InputText: hummghg
+2024/03/15 09:53:46 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:53:46 app,line: 60     INFO | NumberRequest: 17
+2024/03/15 09:53:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:53:50 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:54:15 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:54:15 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:54:15 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:54:15 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:54:15 app,line: 58     INFO | InputText: hi
+2024/03/15 09:54:15 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:54:15 app,line: 60     INFO | NumberRequest: 18
+2024/03/15 09:54:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:54:19 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:54:23 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:54:23 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:54:23 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:54:23 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:54:23 app,line: 58     INFO | InputText: ok
+2024/03/15 09:54:23 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:54:23 app,line: 60     INFO | NumberRequest: 19
+2024/03/15 09:54:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:54:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:54:30 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:54:30 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:54:30 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:54:30 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:54:30 app,line: 58     INFO | InputText: ko
+2024/03/15 09:54:30 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:54:30 app,line: 60     INFO | NumberRequest: 20
+2024/03/15 09:54:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:54:36 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:54:43 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:54:43 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:54:43 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:54:43 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:54:43 app,line: 58     INFO | InputText: bàn là
+2024/03/15 09:54:43 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:54:43 app,line: 60     INFO | NumberRequest: 21
+2024/03/15 09:54:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:54:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:55:27 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:55:27 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:55:27 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:55:27 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:55:27 app,line: 58     INFO | InputText: ok
+2024/03/15 09:55:27 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:55:27 app,line: 60     INFO | NumberRequest: 22
+2024/03/15 09:55:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:55:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:57:09 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:57:09 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:57:09 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:57:09 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:57:09 app,line: 58     INFO | InputText: ok
+2024/03/15 09:57:09 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:57:09 app,line: 60     INFO | NumberRequest: 23
+2024/03/15 09:57:10 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:57:14 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 09:57:21 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 09:57:21 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 09:57:21 app,line: 56     INFO | User  = : 197903
+2024/03/15 09:57:21 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 09:57:21 app,line: 58     INFO | InputText: hhh
+2024/03/15 09:57:21 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 09:57:21 app,line: 60     INFO | NumberRequest: 24
+2024/03/15 09:57:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 09:57:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:03:28 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:03:28 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:03:28 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:03:28 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:03:28 app,line: 58     INFO | InputText: hi
+2024/03/15 10:03:28 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:03:28 app,line: 60     INFO | NumberRequest: 25
+2024/03/15 10:03:29 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:03:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:17:07 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:17:07 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:17:07 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:17:07 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:17:07 app,line: 58     INFO | InputText: ok
+2024/03/15 10:17:07 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:17:07 app,line: 60     INFO | NumberRequest: 26
+2024/03/15 10:17:08 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:17:14 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:28:49 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:28:49 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:28:49 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:28:49 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:28:49 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 10:28:49 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:28:49 app,line: 60     INFO | NumberRequest: 27
+2024/03/15 10:29:00 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.837381 seconds
+2024/03/15 10:29:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:29:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:29:56 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:29:56 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:29:56 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:29:56 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:29:56 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 10:29:56 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:29:56 app,line: 60     INFO | NumberRequest: 28
+2024/03/15 10:29:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:30:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:32:16 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:32:16 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:32:16 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:32:16 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:32:16 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 10:32:16 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:32:16 app,line: 60     INFO | NumberRequest: 29
+2024/03/15 10:32:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:32:29 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:34:41 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:34:41 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:34:41 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:34:41 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:34:41 app,line: 58     INFO | InputText: danh sách bàn là
+2024/03/15 10:34:41 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:34:41 app,line: 60     INFO | NumberRequest: 30
+2024/03/15 10:34:41 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:34:53 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 10:46:56 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 10:46:56 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 10:46:56 app,line: 56     INFO | User  = : 197903
+2024/03/15 10:46:56 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 10:46:56 app,line: 58     INFO | InputText: m&ebl100011
+2024/03/15 10:46:56 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 10:46:56 app,line: 60     INFO | NumberRequest: 31
+2024/03/15 10:46:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 10:47:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 11:00:20 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 11:00:20 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 11:00:20 app,line: 56     INFO | User  = : 197903
+2024/03/15 11:00:20 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 11:00:20 app,line: 58     INFO | InputText: m&ebl100011
+2024/03/15 11:00:20 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 11:00:20 app,line: 60     INFO | NumberRequest: 32
+2024/03/15 11:00:20 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 11:00:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 11:19:12 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 11:19:12 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 11:19:12 app,line: 56     INFO | User  = : 197903
+2024/03/15 11:19:12 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.term
+2024/03/15 11:19:12 app,line: 58     INFO | InputText: mua
+2024/03/15 11:19:12 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 11:19:12 app,line: 60     INFO | NumberRequest: 33
+2024/03/15 11:19:12 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 11:19:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 11:19:23 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 11:19:23 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 11:19:23 app,line: 56     INFO | User  = : 197903
+2024/03/15 11:19:23 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.term
+2024/03/15 11:19:23 app,line: 58     INFO | InputText: m&ebl100011
+2024/03/15 11:19:23 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 11:19:23 app,line: 60     INFO | NumberRequest: 34
+2024/03/15 11:19:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 11:19:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 11:32:06 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 11:32:06 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 11:32:06 app,line: 56     INFO | User  = : 197903
+2024/03/15 11:32:06 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.term
+2024/03/15 11:32:06 app,line: 58     INFO | InputText: bàn chải điện
+2024/03/15 11:32:06 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 11:32:06 app,line: 60     INFO | NumberRequest: 35
+2024/03/15 11:32:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 11:32:13 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 11:32:34 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 11:32:34 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 11:32:34 app,line: 56     INFO | User  = : 197903
+2024/03/15 11:32:34 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 11:32:34 app,line: 58     INFO | InputText: bàn chải điện
+2024/03/15 11:32:34 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 11:32:34 app,line: 60     INFO | NumberRequest: 36
+2024/03/15 11:32:35 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 11:32:45 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 11:33:38 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 11:33:38 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 11:33:38 app,line: 56     INFO | User  = : 197903
+2024/03/15 11:33:38 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 11:33:38 app,line: 58     INFO | InputText: m&ebc100001
+2024/03/15 11:33:38 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 11:33:38 app,line: 60     INFO | NumberRequest: 37
+2024/03/15 11:33:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 11:33:50 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 12:24:26 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 12:24:26 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 12:24:26 app,line: 56     INFO | User  = : 197903
+2024/03/15 12:24:26 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 12:24:26 app,line: 58     INFO | InputText: ok
+2024/03/15 12:24:26 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 12:24:26 app,line: 60     INFO | NumberRequest: 38
+2024/03/15 12:24:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 12:24:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 12:24:53 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 12:24:53 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 12:24:53 app,line: 56     INFO | User  = : 197903
+2024/03/15 12:24:53 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 12:24:53 app,line: 58     INFO | InputText: sản phầm bàn chải điện của có giá sao
+2024/03/15 12:24:53 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 12:24:53 app,line: 60     INFO | NumberRequest: 39
+2024/03/15 12:24:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 12:24:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 14:40:12 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 14:40:12 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 14:40:12 app,line: 56     INFO | User  = : 197903
+2024/03/15 14:40:12 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 14:40:12 app,line: 58     INFO | InputText: hi
+2024/03/15 14:40:12 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 14:40:12 app,line: 60     INFO | NumberRequest: 40
+2024/03/15 14:40:13 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 14:40:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 14:40:22 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 14:40:22 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 14:40:22 app,line: 56     INFO | User  = : 197903
+2024/03/15 14:40:22 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 14:40:22 app,line: 58     INFO | InputText: m&ebl100011
+2024/03/15 14:40:22 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 14:40:22 app,line: 60     INFO | NumberRequest: 41
+2024/03/15 14:40:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 14:40:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 14:40:42 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 14:40:42 app,line: 55     INFO | GuildID  = : 9008038
+2024/03/15 14:40:42 app,line: 56     INFO | User  = : 197903
+2024/03/15 14:40:42 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 14:40:42 app,line: 58     INFO | InputText: danh sách bàn chải điện
+2024/03/15 14:40:42 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 14:40:42 app,line: 60     INFO | NumberRequest: 42
+2024/03/15 14:40:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 14:41:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 14:49:43 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 14:49:43 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 14:49:43 app,line: 56     INFO | User  = : 197903
+2024/03/15 14:49:43 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 14:49:43 app,line: 58     INFO | InputText: xin chào! mình cần bạn hỗ trợ mình tra cứu về thông tin sản phẩm
+2024/03/15 14:49:43 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 14:49:43 app,line: 60     INFO | NumberRequest: 43
+2024/03/15 14:49:44 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 14:49:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 14:50:26 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 14:50:26 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 14:50:26 app,line: 56     INFO | User  = : 197903
+2024/03/15 14:50:26 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 14:50:26 app,line: 58     INFO | InputText: mình cần tra cứu bàn chải điện
+2024/03/15 14:50:26 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 14:50:26 app,line: 60     INFO | NumberRequest: 44
+2024/03/15 14:50:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 14:50:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 14:52:41 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 14:52:41 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 14:52:41 app,line: 56     INFO | User  = : 197903
+2024/03/15 14:52:41 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 14:52:41 app,line: 58     INFO | InputText: liệt kê giúp tôi
+2024/03/15 14:52:41 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 14:52:41 app,line: 60     INFO | NumberRequest: 45
+2024/03/15 14:52:42 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 14:52:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:04:07 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:04:07 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:30:06 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:30:06 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:30:27 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:30:27 app,line: 54     INFO | GuildID  = : 9009120
+2024/03/15 15:30:27 app,line: 55     INFO | User  = : 197903
+2024/03/15 15:30:27 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:30:27 app,line: 57     INFO | InputText: xin chào! tôi cần bạn hỗ trợ về tra cứu sản phẩm
+2024/03/15 15:30:27 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:30:27 app,line: 59     INFO | NumberRequest: 1
+2024/03/15 15:30:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:30:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:30:56 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:30:56 app,line: 54     INFO | GuildID  = : 9009120
+2024/03/15 15:30:56 app,line: 55     INFO | User  = : 197903
+2024/03/15 15:30:56 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:30:56 app,line: 57     INFO | InputText: tôi cần biết thông tin bàn chải điện
+2024/03/15 15:30:56 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:30:56 app,line: 59     INFO | NumberRequest: 2
+2024/03/15 15:30:57 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:31:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:31:44 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:31:44 app,line: 54     INFO | GuildID  = : 9009120
+2024/03/15 15:31:44 app,line: 55     INFO | User  = : 197903
+2024/03/15 15:31:44 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:31:44 app,line: 57     INFO | InputText: cho tôi biết thông số kỹ thuật của sản phẩm số 7
+2024/03/15 15:31:44 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:31:44 app,line: 59     INFO | NumberRequest: 3
+2024/03/15 15:31:44 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:31:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:33:12 app,line: 53     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:33:12 app,line: 54     INFO | GuildID  = : 9009120
+2024/03/15 15:33:12 app,line: 55     INFO | User  = : 197903
+2024/03/15 15:33:12 app,line: 56     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:33:12 app,line: 57     INFO | InputText: danh sách bàn chải điện
+2024/03/15 15:33:12 app,line: 58     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:33:12 app,line: 59     INFO | NumberRequest: 4
+2024/03/15 15:33:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:33:28 _base_client,line: 1015     INFO | Retrying request to /chat/completions in 0.920114 seconds
+2024/03/15 15:33:46 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:42:02 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:42:02 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:42:39 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:42:39 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:42:39 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:42:39 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:42:39 app,line: 58     INFO | InputText: xin chào! bạn có thể tra cứu giúp tôi về sản phẩm bàn chải điện
+2024/03/15 15:42:39 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:42:39 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 15:42:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:42:43 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:44:33 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:44:33 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:46:25 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:46:25 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:46:31 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:46:31 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:46:31 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:46:31 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:46:31 app,line: 58     INFO | InputText: xin chào
+2024/03/15 15:46:31 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:46:31 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 15:46:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:46:36 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:47:16 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:47:16 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:47:16 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:47:16 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:47:16 app,line: 58     INFO | InputText: xin chào
+2024/03/15 15:47:16 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:47:16 app,line: 60     INFO | NumberRequest: 2
+2024/03/15 15:47:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:47:20 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:47:46 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:47:46 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:47:49 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:47:49 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:47:49 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:47:49 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:47:49 app,line: 58     INFO | InputText: xin chào
+2024/03/15 15:47:49 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:47:49 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 15:47:59 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.851560 seconds
+2024/03/15 15:48:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:48:04 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:48:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:48:49 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:48:54 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:48:54 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:48:54 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:48:54 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:48:54 app,line: 58     INFO | InputText: xin chào
+2024/03/15 15:48:54 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:48:54 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 15:48:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:48:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:55:16 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 15:55:16 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 15:55:20 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:55:20 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:55:20 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:55:20 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:55:20 app,line: 58     INFO | InputText: xin chào
+2024/03/15 15:55:20 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:55:20 app,line: 60     INFO | NumberRequest: 1
+2024/03/15 15:55:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:55:31 _base_client,line: 1015     INFO | Retrying request to /chat/completions in 0.836959 seconds
+2024/03/15 15:55:35 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 15:55:51 app,line: 54     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 15:55:51 app,line: 55     INFO | GuildID  = : 9009120
+2024/03/15 15:55:51 app,line: 56     INFO | User  = : 197903
+2024/03/15 15:55:51 app,line: 57     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 15:55:51 app,line: 58     INFO | InputText: tôi muốn tra cứu sản phẩm bàn chải điện
+2024/03/15 15:55:51 app,line: 59     INFO | IP_Client: 10.207.112.10
+2024/03/15 15:55:51 app,line: 60     INFO | NumberRequest: 2
+2024/03/15 15:55:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 15:56:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2024/03/15 15:56:07 _base_client,line: 1015     INFO | Retrying request to /chat/completions in 0.865198 seconds
+2024/03/15 15:56:29 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:08:26 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 16:08:26 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 16:08:51 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:08:51 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:08:51 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:08:51 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:08:51 app,line: 61     INFO | InputText: xin chào
+2024/03/15 16:08:51 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:08:51 app,line: 63     INFO | NumberRequest: 1
+2024/03/15 16:08:52 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:08:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:09:19 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 16:09:19 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 16:09:23 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:09:23 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:09:23 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:09:23 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:09:23 app,line: 61     INFO | InputText: xin chào
+2024/03/15 16:09:23 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:09:23 app,line: 63     INFO | NumberRequest: 1
+2024/03/15 16:09:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:09:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:09:50 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:09:50 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:09:50 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:09:50 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:09:50 app,line: 61     INFO | InputText: tôi muốn tra cứu thông tin bàn chải điện
+2024/03/15 16:09:50 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:09:50 app,line: 63     INFO | NumberRequest: 2
+2024/03/15 16:10:00 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.902805 seconds
+2024/03/15 16:10:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:10:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:12:18 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:12:18 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:12:18 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:12:18 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:12:18 app,line: 61     INFO | InputText: cho tôi thông số kỹ thuật của sản phảm 7
+2024/03/15 16:12:18 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:12:18 app,line: 63     INFO | NumberRequest: 3
+2024/03/15 16:12:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:12:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:14:21 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:14:21 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:14:21 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:14:21 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:14:21 app,line: 61     INFO | InputText: tôi muốn tra cứu thông tin sản phẩm đèn năng lượng mặt trời
+2024/03/15 16:14:21 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:14:21 app,line: 63     INFO | NumberRequest: 4
+2024/03/15 16:14:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:14:50 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:15:28 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:15:28 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:15:28 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:15:28 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:15:28 app,line: 61     INFO | InputText: đèn năng lượng mặt trời
+2024/03/15 16:15:28 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:15:28 app,line: 63     INFO | NumberRequest: 5
+2024/03/15 16:15:38 _base_client,line: 1015     INFO | Retrying request to /embeddings in 0.992215 seconds
+2024/03/15 16:15:44 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:16:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:16:16 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:16:16 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:16:16 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:16:16 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:16:16 app,line: 61     INFO | InputText: xin chào
+2024/03/15 16:16:16 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:16:16 app,line: 63     INFO | NumberRequest: 6
+2024/03/15 16:16:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:16:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:19:03 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:19:03 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:19:03 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:19:03 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:19:03 app,line: 61     INFO | InputText: bàn là
+2024/03/15 16:19:03 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:19:03 app,line: 63     INFO | NumberRequest: 7
+2024/03/15 16:19:09 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:19:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:21:04 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 16:21:04 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 16:21:10 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:21:10 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:21:10 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:21:10 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:21:10 app,line: 61     INFO | InputText: bàn là
+2024/03/15 16:21:10 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:21:10 app,line: 63     INFO | NumberRequest: 1
+2024/03/15 16:21:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:21:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:21:40 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:21:40 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:21:40 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:21:40 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:21:40 app,line: 61     INFO | InputText: tôi muốn biết về tất cả 
+2024/03/15 16:21:40 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:21:40 app,line: 63     INFO | NumberRequest: 2
+2024/03/15 16:21:41 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:22:03 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:22:20 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:22:20 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:22:20 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:22:20 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:22:20 app,line: 61     INFO | InputText: bàn chải điện
+2024/03/15 16:22:20 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:22:20 app,line: 63     INFO | NumberRequest: 3
+2024/03/15 16:22:20 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:22:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:22:37 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:22:37 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:22:37 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:22:37 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:22:37 app,line: 61     INFO | InputText: tôi muốn biết tất cả
+2024/03/15 16:22:37 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:22:37 app,line: 63     INFO | NumberRequest: 4
+2024/03/15 16:22:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:23:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:24:11 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:24:11 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:24:11 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:24:11 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:24:11 app,line: 61     INFO | InputText: còn sản phẩm khác không
+2024/03/15 16:24:11 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:24:11 app,line: 63     INFO | NumberRequest: 5
+2024/03/15 16:24:12 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:24:22 _base_client,line: 1015     INFO | Retrying request to /chat/completions in 0.796657 seconds
+2024/03/15 16:24:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:24:52 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:24:52 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:24:52 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:24:52 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:24:52 app,line: 61     INFO | InputText: tiếp đi
+2024/03/15 16:24:52 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:24:52 app,line: 63     INFO | NumberRequest: 6
+2024/03/15 16:24:53 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:25:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:26:54 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:26:54 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:26:54 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:26:54 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:26:54 app,line: 61     INFO | InputText: bàn ủi 
+2024/03/15 16:26:54 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:26:54 app,line: 63     INFO | NumberRequest: 7
+2024/03/15 16:27:00 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:27:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/03/15 16:33:43 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/15 16:33:43 logging,line: 36     INFO | Logger object created successfully..
+2024/03/15 16:33:47 app,line: 57     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/15 16:33:47 app,line: 58     INFO | GuildID  = : 9009120
+2024/03/15 16:33:47 app,line: 59     INFO | User  = : 197903
+2024/03/15 16:33:47 app,line: 60     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/03/15 16:33:47 app,line: 61     INFO | InputText: bàn ủi
+2024/03/15 16:33:47 app,line: 62     INFO | IP_Client: 10.207.112.10
+2024/03/15 16:33:47 app,line: 63     INFO | NumberRequest: 1
+2024/03/15 16:33:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/03/15 16:34:14 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

@@ -40,4 +40,4 @@ parameter:
   # Số đoạn trích được FAISS truy xuất
   number_snippets_to_retrieve: 10
 
-  openai_api_key: ''
+  openai_api_key:

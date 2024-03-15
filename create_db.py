@@ -10,5 +10,7 @@ config_app = get_config()
 # embeddings = HuggingFaceEmbeddings(model_name=config_app["parameter"]["embeddings_name"],
 #                                        model_kwargs={'device': 'cpu'})
 
-session_urls = ["./data/pdf/Quy trinh.pdf","./data/sodapdf-converted.pdf", './data/thông tin sản phẩm.txt' ]
+
+session_urls = ['data/pe.pdf']
+# session_urls = ['data/product_detail.pdf']
 faiss_index = download_and_index_pdf(session_urls)

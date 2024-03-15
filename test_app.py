@@ -20,8 +20,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI, Form, Request
 from pydantic import BaseModel
 import openpyxl
-import pandas as pd
-from search_product import product_seeking 
 
 config_app = get_config()
 
@@ -41,7 +39,6 @@ class InputData(BaseModel):
 numberrequest = 0
 @app.post('/llm')
 async def post(data: InputData, request: Request = None):
-    start_time = time.time()
     global numberrequest
     numberrequest = numberrequest + 1
     print("numberrequest", numberrequest)
@@ -51,9 +48,9 @@ async def post(data: InputData, request: Request = None):
     "terms" : [],
     "content" : "",
     "status" : 200,
-    "message": "",
-    "time_processing":''
+    "message": ""
     }
+    print(results)
     log_obj.info("-------------------------NEW_SESSION----------------------------------")
     log_obj.info("GuildID  = :" + " " + str(data.IdRequest)) 
     log_obj.info("User  = :" + " " + str(data.User))
@@ -65,13 +62,22 @@ async def post(data: InputData, request: Request = None):
 
     results["content"] = result
 
-    # tim san pham
-    results = product_seeking(results = results, texts=result,path="./data/product_info.xlsx")
-            
-    results['time_processing'] = str(time.time() - start_time)
-    print(results)
+    dataframe = openpyxl.load_workbook("./data/product_info.xlsx")
+    wb = dataframe.active
+    for row in range(1, wb.max_row):
+        x = wb[row+1][3].value
+        if wb[row+1][3].value != None and wb[row+1][3].value in result:
+            product =  {
+                "code" : "",
+                "name" : "",
+                "link" : ""
+            }
+            product['code'] = wb[row+1][2].value
+            product['name'] = wb[row+1][3].value
+            product['link'] = wb[row+1][10].value
+            results["products"].append(product)
     return results
 
-uvicorn.run(app, host=config_app['server']['ip_address'], port=int(config_app['server']['port']))
+uvicorn.run(app, host=config_app['server']['ip_address'], port=8003)
 
 # str(User) + "/" + str(NameBot) + "/" + str(IdRequest)

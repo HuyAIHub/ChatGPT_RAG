@@ -1,9 +1,0 @@
-2024/01/12 16:02:16 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-2024/01/12 16:02:16 logging,line: 36     INFO | Logger object created successfully..
-2024/01/12 16:03:29 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
-2024/01/12 16:03:29 app,line: 51     INFO | GuildID  = : 1234567
-2024/01/12 16:03:29 app,line: 52     INFO | User  = : Hihi
-2024/01/12 16:03:29 app,line: 53     INFO | NameBot  = : DatSky
-2024/01/12 16:03:29 app,line: 54     INFO | InputText: Hi
-2024/01/12 16:03:29 app,line: 55     INFO | IP_Client: 127.0.0.1
-2024/01/12 16:03:29 app,line: 56     INFO | NumberRequest: 1

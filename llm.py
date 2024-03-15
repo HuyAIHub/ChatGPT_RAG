@@ -62,7 +62,6 @@ class SnippetsBufferWindowMemory(ConversationBufferWindowMemory):
         return {'snippets': to_return}
         # except: return {'snippets': ""}
 
-
 def construct_conversation(prompt: str, llm, memory) -> ConversationChain:
     """
     Construct a ConversationChain object
@@ -83,13 +82,26 @@ def construct_conversation(prompt: str, llm, memory) -> ConversationChain:
 
 def initialize_chat_conversation(index: FAISS,
                                  model_to_use, conv_memory, snippets_memory) -> ConversationChain:
-
-    prompt_header = """You are an expert, tasked with helping customers with their questions. They will ask you questions and provide technical snippets that may or may not contain the answer, and it's your job to find the answer if possible, while taking into account the entire conversation context.
+    '''
+     prompt_header = """You are an expert, tasked with helping customers with their questions. They will ask you questions and provide technical snippets that may or may not contain the answer, and it's your job to find the answer if possible, while taking into account the entire conversation context.
     The following snippets can be used to help you answer the questions:    
     {snippets}    
     The following is a friendly conversation between a customer and you. Please answer the customer's needs based on the provided snippets and the conversation history. Make sure to take the previous messages in consideration, as they contain additional context.
     If the provided snippets don't include the answer, please say so, and don't try to make up an answer instead. Include in your reply the title of the document and the page from where your answer is coming from, if applicable.
-    All your answers must be in Vietnamese.
+    You may only respond to the information contained in the document. If the question is about product price, please answer:"Thông tin về giá sản phẩm xin mời bạn liên hệ với bộ phận bán hàng" .
+    The number of product codes is the number of products in the category. Be careful not to put document information in your answer.All your answers must be in Vietnamese. 
+
+    {history}    
+    Customer: {input}
+    """
+    '''
+    prompt_header = """You are an expert, assigned to help look up information about products. They will ask you questions and provide technical passages that may or may not contain answers, and your task is to find the answer if possible within the knowledge base you are given, while taking into account entire conversation context.
+    The following paragraphs can be used to help you answer the questions:    
+    {snippets}    
+    The following is a friendly conversation between a customer and you. Please respond to customer needs based on the provided snippets and conversation history. Be sure to review previous messages as they contain additional context.
+    If the snippet provided does not include an answer, please say so and don't try to create an answer instead. The question will usually ask about the quantity and details of the product. You answer the exact focus of the question.
+    You can only respond to the information contained in the document. If the question is about information that does not exist in the document, you must not make up the answer or use information from another product to answer. If you have a question about product price, please answer: "For product price information, please contact the sales department for more detailed information." .
+    Be careful not to mistakenly include information from the document in your answer. All your answers must be in Vietnamese.
 
     {history}    
     Customer: {input}
@@ -109,14 +121,3 @@ def initialize_chat_conversation(index: FAISS,
     conversation = construct_conversation(prompt_header, llm, memory)
 
     return conversation
-
-
-
-
-
-
-
-
-
-
-

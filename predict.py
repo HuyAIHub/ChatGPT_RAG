@@ -30,7 +30,7 @@ def predict_llm(InputText, IdRequest, NameBot, User, log_obj):
 
     query_text = InputText
     user_messages_history = InputText
-    path_messages = config_app["parameter"]["DB_MESSAGES"] + str(User) + "/" + str(NameBot) + "/" + str(IdRequest)
+    path_messages = config_app["parameter"]["DB_MESSAGES"] + str(NameBot) + "/" +  str(User) + "/" + str(IdRequest)
     if not os.path.exists(path_messages):
         os.makedirs(path_messages)
 
