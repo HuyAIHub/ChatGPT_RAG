@@ -41,7 +41,7 @@ def download_and_index_pdf(urls: list[str]) -> FAISS:
 
 
 def load_and_index_pdf():
-    db = FAISS.load_local(config_app["parameter"]["DB_FAISS_PATH"], embeddings,allow_dangerous_deserialization = True)
+    db = FAISS.load_local(config_app["parameter"]["DB_FAISS_PATH"], embeddings)
     print('load_index_done!')
     return db
 

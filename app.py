@@ -1,27 +1,19 @@
-from typing import Callable, List
-from fastapi import FastAPI, Request, Response, HTTPException, Form, File, UploadFile
-from fastapi.routing import APIRoute
-from fastapi.exceptions import FastAPIError
-from fastapi.responses import JSONResponse
+from typing import List
+from fastapi import FastAPI, Request
 import uvicorn
-from io import BytesIO
-import logging
-from logging.handlers import RotatingFileHandler
-from time import strftime
 import os
 import time
-import traceback
-import torch
-import ast
+from fastapi import FastAPI, Request, File, UploadFile
 from predict import predict_llm
 from config_app.config import get_config
-from utils.logging import Logger_Days, Logger_maxBytes
-from fastapi.middleware.cors import CORSMiddleware
-from fastapi import FastAPI, Form, Request
+from utils.logging import Logger_Days
+from fastapi import FastAPI, Request
 from pydantic import BaseModel
-import openpyxl
-import pandas as pd
-from search_product import product_seeking 
+from search_product import product_seeking ,get_products_by_group
+from yolov8_prediction import yolov8_predictor
+import base64
+from io import BytesIO
+from PIL import Image
 
 config_app = get_config()
 
@@ -37,6 +29,7 @@ class InputData(BaseModel):
     IdRequest: str
     NameBot: str
     User: str
+    image: str
 
 numberrequest = 0
 @app.post('/llm')
@@ -59,15 +52,38 @@ async def post(data: InputData, request: Request = None):
     log_obj.info("User  = :" + " " + str(data.User))
     log_obj.info("NameBot  = :" + " " + str(data.NameBot))
     log_obj.info("InputText:" + " " + str(data.InputText)) # cau hoi
-    log_obj.info("IP_Client: " +str(request.client.host))
-    log_obj.info("NumberRequest: " +str(numberrequest))
-    result = predict_llm(data.InputText, data.IdRequest, data.NameBot, data.User, log_obj)
+    log_obj.info("IP_Client: " + str(request.client.host))
+    log_obj.info("NumberRequest: " + str(numberrequest))
 
-    results["content"] = result
+    if data.image:
+        print('vao day1')
+        #phan loai theo hinh anh
+        text1 = "Sản phẩm bạn đang quan tâm là {}? Một số thông tin về sản phẩm bạn đang quan tâm:\n{}"
+        text2 = "Hiện tôi không có thông tin về sản phẩm bạn đang quan tâm."
+        
+        # Giải mã dữ liệu base64
+        image_content = base64.b64decode(data.image)
+        # Chuyển dữ liệu thành ảnh PIL
+        image_pil = Image.open(BytesIO(image_content))
 
-    # tim san pham
-    results = product_seeking(results = results, texts=result,path="./data/product_info.xlsx")
-            
+        out_put = yolov8_predictor(image_pil)
+        if out_put != 0:
+            quantity, products = get_products_by_group(out_put)
+            result_string = f"Số lượng sản phẩm: {quantity}\n"
+            for index, (code, name) in enumerate(products, start=1):
+                result_string += f"{index}. {code}: {name}\n"
+            results["content"] = text1.format(out_put,result_string)
+        else:
+            results["content"] = text2
+    else:
+        print('vao day2s')
+        # predict llm
+        result = predict_llm(data.InputText, data.IdRequest, data.NameBot, data.User, log_obj)
+        log_obj.info("Answer: " + str(result))
+
+        results["content"] = result
+        # tim san pham
+        results = product_seeking(results = results, texts=result)
     results['time_processing'] = str(time.time() - start_time)
     print(results)
     return results
