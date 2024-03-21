@@ -56,7 +56,6 @@ async def post(data: InputData, request: Request = None):
     log_obj.info("NumberRequest: " + str(numberrequest))
 
     if data.image:
-        print('vao day1')
         #phan loai theo hinh anh
         text1 = "Sản phẩm bạn đang quan tâm là {}? Một số thông tin về sản phẩm bạn đang quan tâm:\n{}"
         text2 = "Hiện tôi không có thông tin về sản phẩm bạn đang quan tâm."
@@ -68,7 +67,7 @@ async def post(data: InputData, request: Request = None):
 
         out_put = yolov8_predictor(image_pil)
         if out_put != 0:
-            quantity, products = get_products_by_group(out_put)
+            quantity, products = get_products_by_group(results,out_put)
             result_string = f"Số lượng sản phẩm: {quantity}\n"
             for index, (code, name) in enumerate(products, start=1):
                 result_string += f"{index}. {code}: {name}\n"
@@ -76,7 +75,6 @@ async def post(data: InputData, request: Request = None):
         else:
             results["content"] = text2
     else:
-        print('vao day2s')
         # predict llm
         result = predict_llm(data.InputText, data.IdRequest, data.NameBot, data.User, log_obj)
         log_obj.info("Answer: " + str(result))

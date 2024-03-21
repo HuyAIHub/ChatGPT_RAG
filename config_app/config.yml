@@ -41,7 +41,6 @@ parameter:
   number_snippets_to_retrieve: 10
 
 
-
 yolo_params:
   weight_path: "weight/best.pt"
   classes: {0: 'Bàn chải điện', 1: 'Bình đun nước', 2: 'Đèn Năng Lượng Mặt Trời', 3: 'Điều hòa', 4: 'Ghế massage daikiosan', 5: 'Máy cạo râu', 6: 'Máy Giặt', 7: 'Máy sấy tóc', 8: 'Máy xay', 9: 'Nồi áp suất', 10: 'Nồi cơm điện', 11: 'Robot hút bụi', 12: 'Thiết bị Camera', 13: 'Thiết bị Wifi', 14: 'Bàn là', 15: 'Bếp từ', 16: 'Bình nước nóng', 17: 'lò nướng', 18: 'Lò vi sóng', 19: 'Máy đánh trứng', 20: 'Máy ép', 21: 'Máy hút bụi', 22: 'Máy lọc không khí', 23: 'Máy lọc nước', 24: 'Nồi chiên không dầu', 25: 'Thiết bị Webcam'}

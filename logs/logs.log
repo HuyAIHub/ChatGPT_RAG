@@ -113,3 +113,23 @@
 2024/03/20 15:52:14 app,line: 54     INFO | InputText: string
 2024/03/20 15:52:14 app,line: 55     INFO | IP_Client: 127.0.0.1
 2024/03/20 15:52:14 app,line: 56     INFO | NumberRequest: 2
+2024/03/21 08:41:40 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/21 08:41:40 logging,line: 36     INFO | Logger object created successfully..
+2024/03/21 08:42:31 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/21 08:42:31 logging,line: 36     INFO | Logger object created successfully..
+2024/03/21 08:42:33 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/21 08:42:33 app,line: 51     INFO | GuildID  = : string
+2024/03/21 08:42:33 app,line: 52     INFO | User  = : string
+2024/03/21 08:42:33 app,line: 53     INFO | NameBot  = : string
+2024/03/21 08:42:33 app,line: 54     INFO | InputText: string
+2024/03/21 08:42:33 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/21 08:42:33 app,line: 56     INFO | NumberRequest: 1
+2024/03/21 08:43:14 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/21 08:43:14 logging,line: 36     INFO | Logger object created successfully..
+2024/03/21 08:43:15 app,line: 50     INFO | -------------------------NEW_SESSION----------------------------------
+2024/03/21 08:43:15 app,line: 51     INFO | GuildID  = : string
+2024/03/21 08:43:15 app,line: 52     INFO | User  = : string
+2024/03/21 08:43:15 app,line: 53     INFO | NameBot  = : string
+2024/03/21 08:43:15 app,line: 54     INFO | InputText: string
+2024/03/21 08:43:15 app,line: 55     INFO | IP_Client: 127.0.0.1
+2024/03/21 08:43:15 app,line: 56     INFO | NumberRequest: 1
