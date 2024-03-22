@@ -11,9 +11,6 @@ from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from search_product import product_seeking ,get_products_by_group
 from yolov8_prediction import yolov8_predictor
-import base64
-from io import BytesIO
-from PIL import Image
 
 config_app = get_config()
 
@@ -59,17 +56,12 @@ async def post(data: InputData, request: Request = None):
         #phan loai theo hinh anh
         text1 = "Sản phẩm bạn đang quan tâm là {}? Một số thông tin về sản phẩm bạn đang quan tâm:\n{}"
         text2 = "Hiện tôi không có thông tin về sản phẩm bạn đang quan tâm."
-        
-        # Giải mã dữ liệu base64
-        image_content = base64.b64decode(data.image)
-        # Chuyển dữ liệu thành ảnh PIL
-        image_pil = Image.open(BytesIO(image_content))
 
-        out_put = yolov8_predictor(image_pil)
+        out_put = yolov8_predictor(data.image)
         if out_put != 0:
             quantity, products = get_products_by_group(results,out_put)
             result_string = f"Số lượng sản phẩm: {quantity}\n"
-            for index, (code, name) in enumerate(products, start=1):
+            for index, (code, name,link) in enumerate(products, start=1):
                 result_string += f"{index}. {code}: {name}\n"
             results["content"] = text1.format(out_put,result_string)
         else:
@@ -83,9 +75,7 @@ async def post(data: InputData, request: Request = None):
         # tim san pham
         results = product_seeking(results = results, texts=result)
     results['time_processing'] = str(time.time() - start_time)
-    print(results)
+    # print(results)
     return results
 
 uvicorn.run(app, host=config_app['server']['ip_address'], port=int(config_app['server']['port']))
-
-# str(User) + "/" + str(NameBot) + "/" + str(IdRequest)

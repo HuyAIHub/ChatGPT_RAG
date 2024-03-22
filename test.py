@@ -1,39 +1,49 @@
-import pandas as pd
-# Đọc dữ liệu từ tệp Excel vào DataFrame
-data = pd.read_excel("./data/product_info_2.xlsx")
+# import pandas as pd
+# # Đọc dữ liệu từ tệp Excel vào DataFrame
+# data = pd.read_excel("./data/product_info_final.xlsx")
+# print(data[['PRODUCT_INFO_ID', 'PRODUCT_NAME', 'LINK_SP']])
+# def get_products_by_group(group_name):
+#     products = data[data['GROUP_PRODUCT_NAME'] == group_name][['PRODUCT_INFO_ID', 'PRODUCT_NAME', 'LINK_SP']]
+#     product_list = list(products.itertuples(index=False, name=None))
+#     return len(product_list), product_list
 
-def get_products_by_group(group_name):
-    products = data[data['GROUP_PRODUCT_NAME'] == group_name][['PRODUCT_INFO_ID', 'PRODUCT_NAME']]
-    product_list = list(products.itertuples(index=False, name=None))
-    return len(product_list), product_list
-
-group_name = input("Nhập tên nhóm sản phẩm: ")
-quantity, product_list = get_products_by_group(group_name)
+# group_name = input("Nhập tên nhóm sản phẩm: ")
+# quantity, product_list = get_products_by_group(group_name)
 
 # result_string = f"Số lượng sản phẩm: {quantity}\n"
-# for index, (code, name) in enumerate(products, start=1):
+# for index, (code, name) in enumerate(product_list, start=1):
 #     result_string += f"{index}. {code}: {name}\n"
 
 # print(result_string)
 
 
-# Khởi tạo danh sách sản phẩm rỗng
-products = []
+import pandas as pd
 
-# Duyệt qua từng tuple trong product_list
-for idx, (product_id, product_name) in enumerate(product_list, start=1):
-    # Tạo một dictionary để lưu thông tin của sản phẩm
-    product = {
-        'PRODUCT_INFO_ID': product_id,
-        'PRODUCT_NAME': product_name,
-        # Các trường thông tin khác có thể thêm tại đây
-        # Ví dụ: 'LIFECARE_PRICE': ..., 'SHORT_DESCRIPTION': ..., vv.
-    }
-    # Thêm sản phẩm vào danh sách products
-    products.append(product)
+# Đọc dữ liệu từ tệp Excel vào DataFrame
+data = pd.read_excel("./data/product_info_final.xlsx")
 
+# Kiểm tra cấu trúc của DataFrame data
+print(data.head())
 
-print(products)
-# In danh sách sản phẩm
-for idx, product in enumerate(products, start=1):
-    print(f"Product {idx}: {product['PRODUCT_INFO_ID']} - {product['PRODUCT_NAME']}")
+def get_products_by_group(group_name):
+    products = data[data['GROUP_PRODUCT_NAME'] == group_name]
+    # Kiểm tra xem cả 3 cột 'PRODUCT_INFO_ID', 'PRODUCT_NAME', và 'LINK_SP' tồn tại trong DataFrame products
+    if all(col in products.columns for col in ['PRODUCT_INFO_ID', 'PRODUCT_NAME', 'LINK_SP']):
+        # Chọn cả 3 cột 'PRODUCT_INFO_ID', 'PRODUCT_NAME', và 'LINK_SP'
+        products = products[['PRODUCT_INFO_ID', 'PRODUCT_NAME', 'LINK_SP']]
+        # Chuyển đổi DataFrame thành danh sách các tuple
+        product_list = list(products.itertuples(index=False, name=None))
+        return len(product_list), product_list
+    else:
+        return 0, []
+
+group_name = input("Nhập tên nhóm sản phẩm: ")
+quantity, product_list = get_products_by_group(group_name)
+
+result_string = f"Số lượng sản phẩm: {quantity}\n"
+# for index, (code, name, link) in enumerate(product_list, start=1):
+#     result_string += f"{index}. {code}: {name} ({link})\n"
+
+# print(result_string)
+
+print(product_list)

@@ -1,13 +1,11 @@
 import pandas as pd
 import time
 
-path="./data/product_info_2.xlsx"
+path="./data/product_info_final.xlsx"
 df = pd.read_excel(path)
 df = df.fillna('')
 
 def product_seeking(results,texts):    
-    # Đọc dữ liệu từ tệp Excel vào DataFrame
-    # Bắt đầu đo thời gian
     start_time = time.time()
 
     for index, row in df.iterrows():
@@ -20,23 +18,46 @@ def product_seeking(results,texts):
             product = {
                 "code": row['PRODUCT_INFO_ID'],
                 "name": row['PRODUCT_NAME'],
-                "link": row['link_product']
+                "link": row['LINK_SP']
             }
             results["products"].append(product)
     execution_time = time.time() - start_time
     print("time to find product link: ",execution_time)
     return results
 
-def get_products_by_group(results,group_name):
-    products = df[df['GROUP_PRODUCT_NAME'] == group_name][['PRODUCT_INFO_ID', 'PRODUCT_NAME']]
-    product_list = list(products.itertuples(index=False, name=None))
+# def get_products_by_group(results,group_name):
+#     products = df[df['GROUP_PRODUCT_NAME'] == group_name][['PRODUCT_INFO_ID', 'PRODUCT_NAME']]
+#     product_list = list(products.itertuples(index=False, name=None))
 
-    for idx, (product_id, product_name) in enumerate(product_list, start=1):
-        # Tạo một dictionary để lưu thông tin của sản phẩm
-        product = {
-            'code': product_id,
-            'name': product_name,
-        }
-        # Thêm sản phẩm vào danh sách products
-        results["products"].append(product)
-    return len(product_list), product_list
+#     for idx, (product_id, product_name) in enumerate(product_list, start=1):
+#         # Tạo một dictionary để lưu thông tin của sản phẩm
+#         product = {
+#             'code': product_id,
+#             'name': product_name,
+#         }
+#         # Thêm sản phẩm vào danh sách products
+#         results["products"].append(product)
+#     return len(product_list), product_list
+
+
+
+def get_products_by_group(results,group_name):
+    products = df[df['GROUP_PRODUCT_NAME'] == group_name]
+    if all(col in products.columns for col in ['PRODUCT_INFO_ID', 'PRODUCT_NAME', 'LINK_SP']):
+        products = products[['PRODUCT_INFO_ID', 'PRODUCT_NAME', 'LINK_SP']]
+        product_list = list(products.itertuples(index=False, name=None))
+        for idx, (product_id, product_name,link) in enumerate(product_list, start=1):
+            # Tạo một dictionary để lưu thông tin của sản phẩm
+            product = {
+                'code': product_id,
+                'name': product_name,
+                "link": link
+            }
+            # Thêm sản phẩm vào danh sách products
+            results["products"].append(product)
+        print('Tìm thấy {} sản phẩm'.format(len(product_list)))
+        return len(product_list), product_list
+    else:
+        print('Không tìm thấy sản phẩm')
+        return 0, []
+    
