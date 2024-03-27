@@ -6,7 +6,7 @@
 ![image](https://github.com/Quanghuy99/ChatGPT_RAG/assets/30777550/3dd1d1c3-48cd-4a90-a7c8-2d0941e827d9)
 
 ## Các bước chạy:
-1. chạy file create_db.py (embedding kiến thức trong file.pdf và lưu vào db vector)
+1. chạy file create_db.py (embedding kiến thức trong file.pdf và lưu vào db vector) || note: chỉ chạy 1 lần khi thay đỏi kiến thức cho chatbot
 2. chạy file app.py
    
    ![image](https://github.com/Quanghuy99/ChatGPT_RAG/assets/30777550/03c6c173-8f04-4e28-9fbb-15d6caff0bbf)
