@@ -13,7 +13,7 @@ import time
 import traceback
 import torch
 import ast
-from predict import predict_llm
+from module.predict import predict_llm
 from config_app.config import get_config
 from utils.logging import Logger_Days, Logger_maxBytes
 from fastapi.middleware.cors import CORSMiddleware

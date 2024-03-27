@@ -1,7 +1,7 @@
 import os
 import json
 from pathlib import Path
-from llm import initialize_chat_conversation
+from module.llm import initialize_chat_conversation
 import re
 from download_and_load_index_data import load_and_index_pdf
 from config_app.config import get_config

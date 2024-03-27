@@ -4,13 +4,13 @@ import uvicorn
 import os
 import time
 from fastapi import FastAPI, Request, File, UploadFile
-from predict import predict_llm
+from module.predict import predict_llm
 from config_app.config import get_config
 from utils.logging import Logger_Days
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
-from search_product import product_seeking ,get_products_by_group
-from yolov8_prediction import yolov8_predictor
+from module.search_product import product_seeking ,get_products_by_group
+from module.yolov8_prediction import yolov8_predictor
 
 config_app = get_config()
 
