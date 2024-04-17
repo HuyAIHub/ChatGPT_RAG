@@ -1,0 +1,122 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "một địa điểm cũng được vì tỷ phú người mỹ gốc đài loan ghé thăm là tiềm cà phê giảng trên phố nguyễn hữu hân ngoài món cà phê trứng nổi tiếng lâu đời tiềm còn các món khác kết hợp trứng ngón miệng thu hút nhiều khách quốc tế lẫn người việt nam.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Bạn có thể thử địa điểm trên phố Nguyễn Hữu Hành, vì nơi đây có một quán cà phê trứng nổi tiếng từ lâu. Ngoài ra, còn có nhiều món ăn khác kết hợp trứng ngon miệng thu hút nhiều khách quốc tế và người Việt Nam.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "một địa điểm cũng được vì tỷ phú người mỹ gốc đài loan ghé thăm là tiềm cà phê giảng trên phố nguyễn hữu hân ngoài món cà phê trứng nổi tiếng lâu đời tiềm còn các món khác kết hợp trứng ngón miệng thu hút nhiều khách quốc tế lẫn người việt nam.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Bạn có thể thử địa điểm trên phố Nguyễn Hữu Hành, vì nơi đây có một quán cà phê trứng nổi tiếng từ lâu. Ngoài ra, còn có nhiều món ăn khác kết hợp trứng ngon miệng thu hút nhiều khách quốc tế và người Việt Nam.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua nồi cơm điện và nồi trên không dầu với tổng giá cả hai là mười triệu bốn lò vi sóng với giá bốn triệu tủ lạnh với giá từ năm đến bảy triệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Đối với nồi cơm điện và nồi chiên không dầu, tôi không thể cung cấp thông tin về giá cả vì không có thông tin về giá trong tài liệu. Vui lòng liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua nồi cơm điện và nồi trên không dầu với tổng giá cả hai là mười triệu bốn lò vi sóng với giá bốn triệu tủ lạnh với giá từ năm đến bảy triệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Đối với nồi cơm điện và nồi chiên không dầu, tôi không thể cung cấp thông tin về giá cả vì không có thông tin về giá trong tài liệu. Vui lòng liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua nồi cơm điện và nồi trên không dầu với tổng giá cả hai là mười triệu bốn lò vi sóng với giá bốn triệu tủ lạnh với giá từ năm đến bảy triệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Đối với nồi cơm điện và nồi chiên không dầu, tôi không thể cung cấp thông tin về giá cả vì không có thông tin về giá trong tài liệu. Vui lòng liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

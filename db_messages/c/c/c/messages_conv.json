@@ -1,0 +1,26 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua tủ lạnh giá 20 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đã tìm kiếm các sản phẩm tủ lạnh với giá 20 triệu nhưng không tìm thấy sản phẩm phù hợp trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi để được hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

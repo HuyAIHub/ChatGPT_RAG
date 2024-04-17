@@ -1,0 +1,458 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua nồi cơm điện và nồi trên không dầu với tổng giá cả hai là mười triệu bốn lò vi sóng với giá bốn triệu tủ lạnh với giá từ năm đến bảy triệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "You: Xin lỗi, tôi không thể cung cấp thông tin về giá cả sản phẩm. Vui lòng liên hệ với phòng bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ và máy giặt giá 40 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Bếp từ và máy giặt có nhiều mẫu mã và chức năng khác nhau, vì vậy giá cả cũng sẽ khác nhau. Vui lòng liên hệ với phòng bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ và máy giặt giá 40 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất bạn mua sản phẩm sau:\n\n1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 13.034.780 VND\n   - Hoa hồng bán hàng nhận được: 735.638.400 VND\n   - Hoa hồng triển khai nhận được: 118.498 VND\n\n2. Bếp Từ Đôi Bluestone Icb-6948: 18.872.480 VND\n   - Hoa hồng bán hàng nhận được: 1.065.097.600 VND\n   - Hoa hồng triển khai nhận được: 171.568 VND\n\nTổng giá trị của gói sản phẩm này là 31.907.260 VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ và máy giặt giá 40 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất bạn mua sản phẩm sau:\n\n1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 13.034.780 VND\n   - Hoa hồng bán hàng nhận được: 735.638.400 VND\n   - Hoa hồng triển khai nhận được: 118.498 VND\n\n2. Bếp Từ Đôi Bluestone Icb-6948: 18.872.480 VND\n   - Hoa hồng bán hàng nhận được: 1.065.097.600 VND\n   - Hoa hồng triển khai nhận được: 171.568 VND\n\nTổng giá trị của gói sản phẩm này là 31.907.260 VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua bếp từ, bàn là giá 20 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất sản phẩm sau:\n\n- Bếp Từ Đôi Bluestone Icb-6845: 13.501.510 VND\n\nTổng giá trị của gói sản phẩm này là 13.501.510 VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ với giá 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đã tìm kiếm các sản phẩm bếp từ với giá khoảng 10 triệu đồng. Tuy nhiên, hiện tại không có sản phẩm nào phù hợp với yêu cầu của bạn. \n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩn bếp từ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bếp từ phù hợp. Vui lòng liên hệ với chúng tôi để được tư vấn thêm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩn bếp từ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bếp từ phù hợp. Vui lòng liên hệ với chúng tôi để được tư vấn thêm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua bỉm với giá 5 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bỉm nào trong khoảng giá 5 triệu đồng. Tuy nhiên, chúng tôi có thể giúp bạn tìm kiếm các sản phẩm khác hoặc đề xuất các giải pháp khác phù hợp với ngân sách của bạn. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Cho tôi mua máy ép giá tầm 900 nghìn, máy giặt và 2 bếp từ với tổng giá trị 30 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, dưới đây là gợi ý sản phẩm:\n\n- Máy ép: Máy vắt nước cam Philips, công suất 25W, ca chứa nước ép 0.5 lít, lưới lọc tép cam, dây điện có thể quấn gọn HR2738/00. Giá: 531,520 VND.\n\nTuy nhiên, hiện tại không có sản phẩm máy giặt và bếp từ nào trong danh sách sản phẩm của chúng tôi.\n\nTổng giá trị của gói sản phẩm này là 531,520 VND.\n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hóa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều tủ lạnh với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, bạn muốn mua 1 điều tủ lạnh với giá 11 triệu một trăm. Tuy nhiên, hiện tại chúng tôi không có sản phẩm điều tủ lạnh trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua tủ lạnh với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, bạn muốn mua 1 tủ lạnh với giá 11 triệu 1 trăm. Tuy nhiên, hiện tại chúng tôi không có sản phẩm tủ lạnh trong danh sách. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tìm kiếm một điều hòa với giá mười một triệu một trăm, tôi không tìm thấy sản phẩm phù hợp trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi để được hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn muốn mua điều hòa với giá mười một triệu một trăm, chúng tôi đề xuất sản phẩm sau:\n\n- Điều hòa treo tường Aqua AQA-RV9QC: 7.204.120 đồng - GÓI MUA SẮM MỨC 1\n  (Hoa hồng bán hàng nhận được là 406.576,8 đồng và hoa hồng triển khai nhận được là 65.492 đồng)\n\nTổng giá trị của gói sản phẩm này là 7.204.120 đồng, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\n\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá không đồng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất một gói sản phẩm điều hòa với giá không đồng. Tổng giá trị của gói sản phẩm này là 0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá không đồng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất một gói sản phẩm điều hòa với giá không đồng. Tổng giá trị của gói sản phẩm này là 0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

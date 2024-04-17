@@ -1,0 +1,609 @@
+2024/04/16 18:21:17 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 18:21:17 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 18:22:31 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 18:22:31 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 18:23:05 app_test,line: 60     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 18:23:05 app_test,line: 61     INFO | GuildID  = : a
+2024/04/16 18:23:05 app_test,line: 62     INFO | User  = : a
+2024/04/16 18:23:05 app_test,line: 63     INFO | NameBot  = : a
+2024/04/16 18:23:05 app_test,line: 64     INFO | InputText: a
+2024/04/16 18:23:05 app_test,line: 66     INFO | NumberRequest: 1
+2024/04/16 18:23:06 app_test,line: 60     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 18:23:06 app_test,line: 61     INFO | GuildID  = : a
+2024/04/16 18:23:06 app_test,line: 62     INFO | User  = : a
+2024/04/16 18:23:06 app_test,line: 63     INFO | NameBot  = : a
+2024/04/16 18:23:06 app_test,line: 64     INFO | InputText: a
+2024/04/16 18:23:06 app_test,line: 66     INFO | NumberRequest: 2
+2024/04/16 18:24:17 app_test,line: 60     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 18:24:17 app_test,line: 61     INFO | GuildID  = : a
+2024/04/16 18:24:17 app_test,line: 62     INFO | User  = : a
+2024/04/16 18:24:17 app_test,line: 63     INFO | NameBot  = : a
+2024/04/16 18:24:17 app_test,line: 64     INFO | InputText: a
+2024/04/16 18:24:17 app_test,line: 66     INFO | NumberRequest: 3
+2024/04/16 18:57:56 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 18:57:56 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:25:16 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:25:16 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:26:38 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:26:38 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:26:53 app,line: 47     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:26:53 app,line: 48     INFO | GuildID  = : a
+2024/04/16 19:26:53 app,line: 49     INFO | User  = : a
+2024/04/16 19:26:53 app,line: 50     INFO | NameBot  = : a
+2024/04/16 19:26:53 app,line: 51     INFO | InputText: a
+2024/04/16 19:26:53 app,line: 53     INFO | NumberRequest: 1
+2024/04/16 19:27:04 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/16 19:27:07 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:27:07 app,line: 66     INFO | Answer: You: Xin lỗi, tôi không thể cung cấp thông tin về giá cả sản phẩm. Vui lòng liên hệ với phòng bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.
+2024/04/16 19:30:06 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:30:06 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:30:17 app,line: 47     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:30:17 app,line: 48     INFO | GuildID  = : a
+2024/04/16 19:30:17 app,line: 49     INFO | User  = : a
+2024/04/16 19:30:17 app,line: 50     INFO | NameBot  = : a
+2024/04/16 19:30:17 app,line: 51     INFO | InputText: Tôi muốn mua bếp từ và máy giặt giá 40 triệu
+2024/04/16 19:30:17 app,line: 53     INFO | NumberRequest: 1
+2024/04/16 19:30:46 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:30:46 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:30:56 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:30:56 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:30:57 app,line: 47     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:30:57 app,line: 48     INFO | GuildID  = : a
+2024/04/16 19:30:57 app,line: 49     INFO | User  = : a
+2024/04/16 19:30:57 app,line: 50     INFO | NameBot  = : a
+2024/04/16 19:30:57 app,line: 51     INFO | InputText: Tôi muốn mua bếp từ và máy giặt giá 40 triệu
+2024/04/16 19:30:57 app,line: 53     INFO | NumberRequest: 1
+2024/04/16 19:30:58 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/16 19:31:01 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:31:01 app,line: 89     INFO | Answer: AI: Bếp từ và máy giặt có nhiều mẫu mã và chức năng khác nhau, vì vậy giá cả cũng sẽ khác nhau. Vui lòng liên hệ với phòng bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.
+2024/04/16 19:33:41 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:33:41 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:33:44 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:33:44 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:33:44 app,line: 50     INFO | User  = : a
+2024/04/16 19:33:44 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:33:44 app,line: 52     INFO | InputText: Tôi muốn mua bếp từ và máy giặt giá 40 triệu
+2024/04/16 19:33:44 app,line: 54     INFO | NumberRequest: 1
+2024/04/16 19:33:48 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:37:28 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:37:28 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:37:31 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:37:31 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:37:31 app,line: 50     INFO | User  = : a
+2024/04/16 19:37:31 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:37:31 app,line: 52     INFO | InputText: Tôi muốn mua bếp từ và máy giặt giá 40 triệu
+2024/04/16 19:37:31 app,line: 54     INFO | NumberRequest: 1
+2024/04/16 19:37:36 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:37:37 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:37:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:37:39 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:37:42 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đề xuất bạn mua sản phẩm sau:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 13.034.780 VND
+   - Hoa hồng bán hàng nhận được: 735.638.400 VND
+   - Hoa hồng triển khai nhận được: 118.498 VND
+
+2. Bếp Từ Đôi Bluestone Icb-6948: 18.872.480 VND
+   - Hoa hồng bán hàng nhận được: 1.065.097.600 VND
+   - Hoa hồng triển khai nhận được: 171.568 VND
+
+Tổng giá trị của gói sản phẩm này là 31.907.260 VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+
+Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/16 19:39:35 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:39:35 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:39:40 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:39:40 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:39:40 app,line: 50     INFO | User  = : a
+2024/04/16 19:39:40 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:39:40 app,line: 52     INFO | InputText: Tôi muốn mua bếp từ và máy giặt giá 40 triệu
+2024/04/16 19:39:40 app,line: 54     INFO | NumberRequest: 1
+2024/04/16 19:39:44 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:39:45 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:39:46 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:39:46 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:39:49 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đề xuất bạn mua sản phẩm sau:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 13.034.780 VND
+   - Hoa hồng bán hàng nhận được: 735.638.400 VND
+   - Hoa hồng triển khai nhận được: 118.498 VND
+
+2. Bếp Từ Đôi Bluestone Icb-6948: 18.872.480 VND
+   - Hoa hồng bán hàng nhận được: 1.065.097.600 VND
+   - Hoa hồng triển khai nhận được: 171.568 VND
+
+Tổng giá trị của gói sản phẩm này là 31.907.260 VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+
+Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/16 19:40:27 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:40:27 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:40:27 app,line: 50     INFO | User  = : a
+2024/04/16 19:40:27 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:40:27 app,line: 52     INFO | InputText: tôi muốn mua bếp từ, bàn là giá 20 triệu
+2024/04/16 19:40:27 app,line: 54     INFO | NumberRequest: 2
+2024/04/16 19:40:32 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:40:33 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:40:34 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:40:34 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:40:36 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đề xuất sản phẩm sau:
+
+- Bếp Từ Đôi Bluestone Icb-6845: 13.501.510 VND
+
+Tổng giá trị của gói sản phẩm này là 13.501.510 VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/16 19:41:33 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:41:33 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:41:33 app,line: 50     INFO | User  = : a
+2024/04/16 19:41:33 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:41:33 app,line: 52     INFO | InputText: Tôi muốn mua bếp từ với giá 10 triệu
+2024/04/16 19:41:33 app,line: 54     INFO | NumberRequest: 3
+2024/04/16 19:41:37 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:41:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:41:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:41:39 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:41:41 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đã tìm kiếm các sản phẩm bếp từ với giá khoảng 10 triệu đồng. Tuy nhiên, hiện tại không có sản phẩm nào phù hợp với yêu cầu của bạn. 
+
+Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/16 19:42:40 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:42:40 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:42:40 app,line: 50     INFO | User  = : a
+2024/04/16 19:42:40 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:42:40 app,line: 52     INFO | InputText: tôi cần tìm sản phẩn bếp từ
+2024/04/16 19:42:40 app,line: 54     INFO | NumberRequest: 4
+2024/04/16 19:42:44 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:42:45 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:42:45 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:42:46 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:42:47 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bếp từ phù hợp. Vui lòng liên hệ với chúng tôi để được tư vấn thêm.
+2024/04/16 19:49:32 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:49:32 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:49:32 app,line: 50     INFO | User  = : a
+2024/04/16 19:49:32 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:49:32 app,line: 52     INFO | InputText: tôi cần tìm sản phẩn bếp từ
+2024/04/16 19:49:32 app,line: 54     INFO | NumberRequest: 5
+2024/04/16 19:49:36 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:49:37 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:49:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:49:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:49:39 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bếp từ phù hợp. Vui lòng liên hệ với chúng tôi để được tư vấn thêm.
+2024/04/16 19:49:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/16 19:49:49 logging,line: 36     INFO | Logger object created successfully..
+2024/04/16 19:50:01 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/16 19:50:01 app,line: 49     INFO | GuildID  = : a
+2024/04/16 19:50:01 app,line: 50     INFO | User  = : a
+2024/04/16 19:50:01 app,line: 51     INFO | NameBot  = : a
+2024/04/16 19:50:01 app,line: 52     INFO | InputText: tôi muốn mua bỉm với giá 5 triệu
+2024/04/16 19:50:01 app,line: 54     INFO | NumberRequest: 1
+2024/04/16 19:50:05 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:50:06 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:50:06 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/16 19:50:08 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bỉm nào trong khoảng giá 5 triệu đồng. Tuy nhiên, chúng tôi có thể giúp bạn tìm kiếm các sản phẩm khác hoặc đề xuất các giải pháp khác phù hợp với ngân sách của bạn. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 18:35:54 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 18:35:54 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 18:36:26 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 18:36:26 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 18:36:29 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:36:29 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:36:29 app,line: 50     INFO | User  = : a
+2024/04/17 18:36:29 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:36:29 app,line: 52     INFO | InputText: Cho tôi mua máy ép giá tầm 900 nghìn, máy giặt và 2 bếp từ với tổng giá trị 30 triệu
+2024/04/17 18:36:29 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 18:36:33 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:36:35 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:36:35 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:37:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 18:37:49 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 18:37:55 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:37:55 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:37:55 app,line: 50     INFO | User  = : a
+2024/04/17 18:37:55 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:37:55 app,line: 52     INFO | InputText: Cho tôi mua máy ép giá tầm 900 nghìn, máy giặt và 2 bếp từ với tổng giá trị 30 triệu
+2024/04/17 18:37:55 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 18:37:59 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:00 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:01 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:01 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:02 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:02 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:03 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:04 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:04 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:05 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:38:08 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, dưới đây là gợi ý sản phẩm:
+
+- Máy ép: Máy vắt nước cam Philips, công suất 25W, ca chứa nước ép 0.5 lít, lưới lọc tép cam, dây điện có thể quấn gọn HR2738/00. Giá: 531,520 VND.
+
+Tuy nhiên, hiện tại không có sản phẩm máy giặt và bếp từ nào trong danh sách sản phẩm của chúng tôi.
+
+Tổng giá trị của gói sản phẩm này là 531,520 VND.
+
+Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 18:40:29 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 18:40:29 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 18:41:19 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:41:19 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:41:19 app,line: 50     INFO | User  = : a
+2024/04/17 18:41:19 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:41:19 app,line: 52     INFO | InputText: tôi muốn mua điều hóa với giá mười một triệu một trăm
+2024/04/17 18:41:19 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 18:41:23 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:41:24 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:41:25 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:41:25 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:41:27 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 18:42:18 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 18:42:18 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 18:42:32 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:42:32 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:42:32 app,line: 50     INFO | User  = : a
+2024/04/17 18:42:32 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:42:32 app,line: 52     INFO | InputText: tôi muốn mua điều tủ lạnh với giá mười một triệu một trăm
+2024/04/17 18:42:32 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 18:42:35 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:42:37 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:42:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:42:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:42:40 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, bạn muốn mua 1 điều tủ lạnh với giá 11 triệu một trăm. Tuy nhiên, hiện tại chúng tôi không có sản phẩm điều tủ lạnh trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 18:43:36 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:43:36 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:43:36 app,line: 50     INFO | User  = : a
+2024/04/17 18:43:36 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:43:36 app,line: 52     INFO | InputText: tôi muốn mua tủ lạnh với giá mười một triệu một trăm
+2024/04/17 18:43:36 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 18:43:40 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:43:41 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:43:42 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:43:42 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:43:44 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, bạn muốn mua 1 tủ lạnh với giá 11 triệu 1 trăm. Tuy nhiên, hiện tại chúng tôi không có sản phẩm tủ lạnh trong danh sách. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 18:44:58 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:44:58 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:44:58 app,line: 50     INFO | User  = : a
+2024/04/17 18:44:58 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:44:58 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá mười một triệu một trăm
+2024/04/17 18:44:58 app,line: 54     INFO | NumberRequest: 3
+2024/04/17 18:45:01 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:45:03 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:45:04 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:45:04 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:45:06 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tìm kiếm một điều hòa với giá mười một triệu một trăm, tôi không tìm thấy sản phẩm phù hợp trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi để được hỗ trợ.
+2024/04/17 18:46:18 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 18:46:18 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 18:46:20 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 18:46:20 app,line: 49     INFO | GuildID  = : a
+2024/04/17 18:46:20 app,line: 50     INFO | User  = : a
+2024/04/17 18:46:20 app,line: 51     INFO | NameBot  = : a
+2024/04/17 18:46:20 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá mười một triệu một trăm
+2024/04/17 18:46:20 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 18:46:24 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:46:26 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:46:26 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:46:27 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 18:46:29 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 19:01:52 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:01:52 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:02:01 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:02:01 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:02:01 app,line: 50     INFO | User  = : a
+2024/04/17 19:02:01 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:02:01 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá mười một triệu một trăm
+2024/04/17 19:02:01 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:03:42 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:03:42 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:04:31 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:04:31 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:04:31 app,line: 50     INFO | User  = : a
+2024/04/17 19:04:31 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:04:31 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá mười một triệu một trăm
+2024/04/17 19:04:31 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:04:35 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:04:36 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:04:37 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:04:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:04:40 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 19:05:35 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:05:35 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:05:36 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:05:36 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:05:36 app,line: 50     INFO | User  = : a
+2024/04/17 19:05:36 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:05:36 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá mười một triệu một trăm
+2024/04/17 19:05:36 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:05:41 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:05:42 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:05:43 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:05:43 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:05:46 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn muốn mua điều hòa với giá mười một triệu một trăm, chúng tôi đề xuất sản phẩm sau:
+
+- Điều hòa treo tường Aqua AQA-RV9QC: 7.204.120 đồng - GÓI MUA SẮM MỨC 1
+  (Hoa hồng bán hàng nhận được là 406.576,8 đồng và hoa hồng triển khai nhận được là 65.492 đồng)
+
+Tổng giá trị của gói sản phẩm này là 7.204.120 đồng, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 19:07:09 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:07:09 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:07:09 app,line: 50     INFO | User  = : a
+2024/04/17 19:07:09 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:07:09 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá không đồng
+2024/04/17 19:07:09 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 19:07:12 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:07:14 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:07:15 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:07:15 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:07:17 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đề xuất một gói sản phẩm điều hòa với giá không đồng. Tổng giá trị của gói sản phẩm này là 0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 19:09:05 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:09:05 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:11:51 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:11:51 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:11:52 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:11:52 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:11:52 app,line: 50     INFO | User  = : a
+2024/04/17 19:11:52 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:11:52 app,line: 52     INFO | InputText: tôi muốn mua điều hòa với giá không đồng
+2024/04/17 19:11:52 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:11:56 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:11:58 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:11:58 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:11:59 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:12:01 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đề xuất một gói sản phẩm điều hòa với giá không đồng. Tổng giá trị của gói sản phẩm này là 0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 19:12:10 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:12:10 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:12:10 app,line: 50     INFO | User  = : a
+2024/04/17 19:12:10 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:12:10 app,line: 52     INFO | InputText: vừa tôi hỏi mua sản phẩm gì với giá bao nhiêu
+2024/04/17 19:12:10 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 19:12:14 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:16:39 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:16:39 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:16:41 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:16:41 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:16:41 app,line: 50     INFO | User  = : a
+2024/04/17 19:16:41 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:16:41 app,line: 52     INFO | InputText: xin chào
+2024/04/17 19:16:41 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:16:45 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:17:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:17:49 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:17:54 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:17:54 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:17:54 app,line: 50     INFO | User  = : a
+2024/04/17 19:17:54 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:17:54 app,line: 52     INFO | InputText: xin chào
+2024/04/17 19:17:54 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:18:05 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:19:09 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:19:09 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:19:11 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:19:11 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:19:11 app,line: 50     INFO | User  = : a
+2024/04/17 19:19:11 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:19:11 app,line: 52     INFO | InputText: xin chào
+2024/04/17 19:19:11 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:19:15 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:20:29 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:20:29 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:20:35 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:20:35 app,line: 49     INFO | GuildID  = : a
+2024/04/17 19:20:35 app,line: 50     INFO | User  = : a
+2024/04/17 19:20:35 app,line: 51     INFO | NameBot  = : a
+2024/04/17 19:20:35 app,line: 52     INFO | InputText: xin chào
+2024/04/17 19:20:35 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:20:40 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:20:41 app,line: 90     INFO | Answer: Xin chào! Tôi có thể giúp gì cho bạn?
+2024/04/17 19:21:37 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:21:37 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:21:37 app,line: 50     INFO | User  = : as
+2024/04/17 19:21:37 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:21:37 app,line: 52     INFO | InputText: xin chào tôi là thắng đây
+2024/04/17 19:21:37 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 19:21:41 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:21:41 app,line: 90     INFO | Answer: Xin chào Thắng! Tôi có thể giúp gì cho bạn?
+2024/04/17 19:23:22 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:23:22 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:23:24 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:23:24 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:23:24 app,line: 50     INFO | User  = : as
+2024/04/17 19:23:24 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:23:24 app,line: 52     INFO | InputText: xin chào tôi là thắng đây
+2024/04/17 19:23:24 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:23:28 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:24:24 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:24:24 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:24:24 app,line: 50     INFO | User  = : as
+2024/04/17 19:24:24 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:24:24 app,line: 52     INFO | InputText: xin chào tôi là thắng đây
+2024/04/17 19:24:24 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 19:24:28 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:24:28 app,line: 90     INFO | Answer: Xin chào Thắng! Tôi có thể giúp gì cho bạn?
+2024/04/17 19:25:54 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:25:54 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:25:54 app,line: 50     INFO | User  = : as
+2024/04/17 19:25:54 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:25:54 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:25:54 app,line: 54     INFO | NumberRequest: 3
+2024/04/17 19:25:58 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:28:15 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:28:15 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:28:17 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:28:17 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:28:17 app,line: 50     INFO | User  = : as
+2024/04/17 19:28:17 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:28:17 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:28:17 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:28:21 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:28:21 app,line: 90     INFO | Answer: Xin lỗi, nhưng tôi không thể biết được tên của bạn là gì vì tôi chỉ là một trợ lý ảo.
+2024/04/17 19:36:52 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:36:52 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:36:54 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:36:54 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:36:54 app,line: 50     INFO | User  = : as
+2024/04/17 19:36:54 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:36:54 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:36:54 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:37:53 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:37:53 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:37:54 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:37:54 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:37:54 app,line: 50     INFO | User  = : as
+2024/04/17 19:37:54 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:37:54 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:37:54 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:37:58 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:43:26 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:43:26 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:43:37 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:43:37 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:43:42 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:43:42 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:43:42 app,line: 50     INFO | User  = : as
+2024/04/17 19:43:42 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:43:42 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:43:42 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:43:46 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:43:47 app,line: 90     INFO | Answer: Xin lỗi, nhưng tôi không thể biết được tên của bạn là gì vì tôi chỉ là một trợ lý ảo.
+2024/04/17 19:45:54 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:45:54 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:45:56 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:45:56 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:45:56 app,line: 50     INFO | User  = : as
+2024/04/17 19:45:56 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:45:56 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:45:56 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:46:00 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:46:00 app,line: 90     INFO | Answer: Xin lỗi, nhưng tôi không thể biết được tên của bạn là gì vì tôi chỉ là một trợ lý ảo.
+2024/04/17 19:47:14 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:47:14 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:47:15 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:47:15 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:47:15 app,line: 50     INFO | User  = : as
+2024/04/17 19:47:15 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:47:15 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:47:15 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:47:20 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 19:47:20 app,line: 90     INFO | Answer: Xin lỗi, nhưng tôi không thể biết được tên của bạn là gì vì tôi chỉ là một trợ lý ảo.
+2024/04/17 19:48:32 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:48:32 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:48:34 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:48:34 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:48:34 app,line: 50     INFO | User  = : as
+2024/04/17 19:48:34 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:48:34 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:48:34 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:50:20 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:50:20 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:50:27 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:50:27 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:50:27 app,line: 50     INFO | User  = : as
+2024/04/17 19:50:27 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:50:27 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:50:27 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:52:01 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:52:01 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:52:04 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:52:04 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:52:04 app,line: 50     INFO | User  = : as
+2024/04/17 19:52:04 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:52:04 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:52:04 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:54:20 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:54:20 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:54:21 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:54:21 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:54:21 app,line: 50     INFO | User  = : as
+2024/04/17 19:54:21 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:54:21 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:54:21 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:55:24 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:55:24 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:55:26 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:55:26 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:55:26 app,line: 50     INFO | User  = : as
+2024/04/17 19:55:26 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:55:26 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:55:26 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 19:55:55 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 19:55:55 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 19:55:55 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 19:55:55 app,line: 49     INFO | GuildID  = : as
+2024/04/17 19:55:55 app,line: 50     INFO | User  = : as
+2024/04/17 19:55:55 app,line: 51     INFO | NameBot  = : as
+2024/04/17 19:55:55 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 19:55:55 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:10:54 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 20:10:54 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 20:11:12 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:11:12 app,line: 49     INFO | GuildID  = : as
+2024/04/17 20:11:12 app,line: 50     INFO | User  = : as
+2024/04/17 20:11:12 app,line: 51     INFO | NameBot  = : as
+2024/04/17 20:11:12 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 20:11:12 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:13:44 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 20:13:44 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 20:13:47 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:13:47 app,line: 49     INFO | GuildID  = : as
+2024/04/17 20:13:47 app,line: 50     INFO | User  = : as
+2024/04/17 20:13:47 app,line: 51     INFO | NameBot  = : as
+2024/04/17 20:13:47 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 20:13:47 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:14:37 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 20:14:37 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 20:14:39 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:14:39 app,line: 49     INFO | GuildID  = : as
+2024/04/17 20:14:39 app,line: 50     INFO | User  = : as
+2024/04/17 20:14:39 app,line: 51     INFO | NameBot  = : as
+2024/04/17 20:14:39 app,line: 52     INFO | InputText: tôi có phải tên Thắng không?
+2024/04/17 20:14:39 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:14:43 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:14:43 app,line: 90     INFO | Answer: Xin lỗi, nhưng tôi không thể biết được tên của bạn là gì vì tôi chỉ là một trợ lý ảo.
+2024/04/17 20:15:34 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:15:34 app,line: 49     INFO | GuildID  = : as1
+2024/04/17 20:15:34 app,line: 50     INFO | User  = : as3
+2024/04/17 20:15:34 app,line: 51     INFO | NameBot  = : as2
+2024/04/17 20:15:34 app,line: 52     INFO | InputText: tôi vẫn là thắng đây
+2024/04/17 20:15:34 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 20:15:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:15:39 app,line: 90     INFO | Answer: Xin chào Thắng! Có điều gì tôi có thể giúp bạn?
+2024/04/17 20:15:49 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:15:49 app,line: 49     INFO | GuildID  = : as1
+2024/04/17 20:15:49 app,line: 50     INFO | User  = : as3
+2024/04/17 20:15:49 app,line: 51     INFO | NameBot  = : as2
+2024/04/17 20:15:49 app,line: 52     INFO | InputText: tôi tên là gì
+2024/04/17 20:15:49 app,line: 54     INFO | NumberRequest: 3
+2024/04/17 20:15:54 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:15:55 app,line: 90     INFO | Answer: Xin lỗi, nhưng vì lý do bảo mật, tôi không thể biết được tên của bạn. Tôi chỉ là một trợ lý ảo và không có khả năng nhớ thông tin cá nhân của người dùng. Tôi sẵn lòng giúp bạn với bất kỳ câu hỏi hoặc vấn đề nào bạn có thể gặp phải.
+2024/04/17 20:17:21 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 20:17:21 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 20:17:32 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:17:32 app,line: 49     INFO | GuildID  = : as1
+2024/04/17 20:17:32 app,line: 50     INFO | User  = : as3
+2024/04/17 20:17:32 app,line: 51     INFO | NameBot  = : as2
+2024/04/17 20:17:32 app,line: 52     INFO | InputText: xin chào tôi cần mua điều hòa
+2024/04/17 20:17:32 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:18:30 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 20:18:30 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 20:18:31 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:18:31 app,line: 49     INFO | GuildID  = : as1
+2024/04/17 20:18:31 app,line: 50     INFO | User  = : as3
+2024/04/17 20:18:31 app,line: 51     INFO | NameBot  = : as2
+2024/04/17 20:18:31 app,line: 52     INFO | InputText: xin chào tôi cần mua điều hòa
+2024/04/17 20:18:31 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:19:12 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/17 20:19:12 logging,line: 36     INFO | Logger object created successfully..
+2024/04/17 20:19:15 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:19:15 app,line: 49     INFO | GuildID  = : as1
+2024/04/17 20:19:15 app,line: 50     INFO | User  = : as3
+2024/04/17 20:19:15 app,line: 51     INFO | NameBot  = : as2
+2024/04/17 20:19:15 app,line: 52     INFO | InputText: xin chào tôi cần mua điều hòa
+2024/04/17 20:19:15 app,line: 54     INFO | NumberRequest: 1
+2024/04/17 20:19:19 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:19:21 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:19:21 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:19:22 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:19:24 app,line: 90     INFO | Answer: Dựa trên yêu cầu của bạn, tôi đã tìm kiếm các sản phẩm điều hòa phù hợp. Tuy nhiên, hiện tại không có sản phẩm nào phù hợp với nhu cầu của bạn. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.
+2024/04/17 20:20:34 app,line: 48     INFO | -------------------------NEW_SESSION----------------------------------
+2024/04/17 20:20:34 app,line: 49     INFO | GuildID  = : as1
+2024/04/17 20:20:34 app,line: 50     INFO | User  = : as3
+2024/04/17 20:20:34 app,line: 51     INFO | NameBot  = : as2
+2024/04/17 20:20:34 app,line: 52     INFO | InputText: tôi vừa hỏi câu gì?
+2024/04/17 20:20:34 app,line: 54     INFO | NumberRequest: 2
+2024/04/17 20:20:38 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/17 20:20:39 app,line: 90     INFO | Answer: Xin lỗi vì sự nhầm lẫn. Bạn đã nói rằng bạn cần mua một điều hòa. Bạn có thể cung cấp thêm thông tin về yêu cầu của bạn, chẳng hạn như kích thước, công suất hoặc thương hiệu mong muốn, để tôi có thể tìm kiếm các sản phẩm phù hợp hơn cho bạn.

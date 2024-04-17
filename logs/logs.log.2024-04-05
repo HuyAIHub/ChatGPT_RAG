@@ -1,0 +1,55 @@
+2024/03/27 11:42:28 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/03/27 11:42:28 logging,line: 36     INFO | Logger object created successfully..
+2024/04/04 19:12:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/04 19:12:49 logging,line: 36     INFO | Logger object created successfully..
+2024/04/04 19:25:59 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/04 19:25:59 logging,line: 36     INFO | Logger object created successfully..
+2024/04/04 19:28:43 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/04 19:28:43 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 10:42:49 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 10:42:49 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 10:46:24 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 10:46:24 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 10:47:37 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 10:47:37 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 10:53:27 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 10:53:27 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 10:54:24 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 10:54:24 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 10:57:40 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 10:57:40 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:04:14 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:04:14 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:05:44 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:05:44 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:07:56 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:07:56 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:11:08 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:11:09 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:12:46 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:12:46 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:14:04 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:14:04 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:14:15 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/05 11:14:18 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/05 11:14:18 app,line: 46     INFO | Answer: Assistant: Bạn có thể thử địa điểm trên phố Nguyễn Hữu Hành, vì nơi đây có một quán cà phê trứng nổi tiếng từ lâu. Ngoài ra, còn có nhiều món ăn khác kết hợp trứng ngon miệng thu hút nhiều khách quốc tế và người Việt Nam.
+2024/04/05 11:15:07 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:15:07 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:15:15 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/05 11:15:18 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/05 11:15:18 app,line: 46     INFO | Answer: Assistant: Bạn có thể thử địa điểm trên phố Nguyễn Hữu Hành, vì nơi đây có một quán cà phê trứng nổi tiếng từ lâu. Ngoài ra, còn có nhiều món ăn khác kết hợp trứng ngon miệng thu hút nhiều khách quốc tế và người Việt Nam.
+2024/04/05 11:21:20 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/05 11:21:23 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/05 11:21:23 app,line: 46     INFO | Answer: AI: Assistant: Đối với nồi cơm điện và nồi chiên không dầu, tôi không thể cung cấp thông tin về giá cả vì không có thông tin về giá trong tài liệu. Vui lòng liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.
+2024/04/05 11:24:02 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:24:02 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:24:08 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/05 11:24:12 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/05 11:24:12 app,line: 55     INFO | Answer: AI: Assistant: Đối với nồi cơm điện và nồi chiên không dầu, tôi không thể cung cấp thông tin về giá cả vì không có thông tin về giá trong tài liệu. Vui lòng liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.
+2024/04/05 11:25:07 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:25:07 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:25:51 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/04/05 11:25:51 logging,line: 36     INFO | Logger object created successfully..
+2024/04/05 11:25:59 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/04/05 11:26:02 _client,line: 1013     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/04/05 11:26:02 app,line: 57     INFO | Answer: AI: Assistant: Đối với nồi cơm điện và nồi chiên không dầu, tôi không thể cung cấp thông tin về giá cả vì không có thông tin về giá trong tài liệu. Vui lòng liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.

@@ -1,0 +1,194 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "b\u00e0n l\u00e0",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "B\u1ea1n c\u1ea7n th\u00f4ng tin v\u1ec1 s\u1ea3n ph\u1ea9m b\u00e0n l\u00e0 n\u00e0o \u1ea1?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "t\u00f4i mu\u1ed1n bi\u1ebft v\u1ec1 t\u1ea5t c\u1ea3 ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: D\u1ea1, d\u01b0\u1edbi \u0111\u00e2y l\u00e0 th\u00f4ng tin v\u1ec1 c\u00e1c s\u1ea3n ph\u1ea9m b\u00e0n l\u00e0 c\u00f3 trong t\u00e0i li\u1ec7u:\n\n1. B\u00e0n l\u00e0: M&EGD000165\n- T\u00ean s\u1ea3n ph\u1ea9m: M\u00e1y \u00e9p ch\u1eadm KALITE KL-531 200W\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: M\u00e1y \u00e9p ch\u1eadm cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + C\u00f4ng su\u1ea5t: 200W\n  + Ch\u1ea5t li\u1ec7u: Nh\u1ef1a cao c\u1ea5p\n  + K\u00edch th\u01b0\u1edbc: 34.5 x 7 x 60 Cm\n  + C\u00e2n n\u1eb7ng: 3.7kg\n\n2. B\u00e0n l\u00e0: M&EGD000160\n- T\u00ean s\u1ea3n ph\u1ea9m: \u1ea4m \u0111un n\u01b0\u1edbc \u0111i\u1ec7n KALITE KL-301 1,7 l\u00edt 1850W\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: \u1ea4m \u0111un n\u01b0\u1edbc \u0111i\u1ec7n cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + C\u00f4ng su\u1ea5t: 1850W\n  + Dung t\u00edch: 1,7 l\u00edt\n  + Ch\u1ea5t li\u1ec7u: Nh\u1ef1a cao c\u1ea5p\n  + K\u00edch th\u01b0\u1edbc: 221x155x241 mm\n  + C\u00e2n n\u1eb7ng: 1.0 kg\n\nVui l\u00f2ng cho bi\u1ebft b\u1ea1n c\u1ea7n th\u00f4ng tin chi ti\u1ebft v\u1ec1 s\u1ea3n ph\u1ea9m n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 cung c\u1ea5p th\u00eam th\u00f4ng tin \u1ea1.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "b\u00e0n ch\u1ea3i \u0111i\u1ec7n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: B\u1ea1n c\u1ea7n th\u00f4ng tin v\u1ec1 s\u1ea3n ph\u1ea9m b\u00e0n ch\u1ea3i \u0111i\u1ec7n n\u00e0o \u1ea1?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "t\u00f4i mu\u1ed1n bi\u1ebft t\u1ea5t c\u1ea3",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: D\u01b0\u1edbi \u0111\u00e2y l\u00e0 th\u00f4ng tin v\u1ec1 s\u1ea3n ph\u1ea9m b\u00e0n ch\u1ea3i \u0111i\u1ec7n c\u00f3 trong t\u00e0i li\u1ec7u:\n\n1. B\u00e0n ch\u1ea3i \u0111i\u1ec7n: M&EBC100001\n- T\u00ean s\u1ea3n ph\u1ea9m: B\u00e0n ch\u1ea3i \u0111i\u1ec7n v\u1edbi chuy\u1ec3n \u0111\u1ed9ng rung m\u1ea1nh m\u1ebd 31000 l\u1ea7n ch\u1ea3i m\u1ed7i ph\u00fat Philips HX3641/41\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n ch\u1ea3i \u0111i\u1ec7n cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + \u0110i\u1ec7n \u00e1p: DC5V\n  + Pin: C\u00f3 th\u1ec3 s\u1ea1c l\u1ea1i\n  + Th\u1eddi gian ho\u1ea1t \u0111\u1ed9ng (pin \u0111\u1ea7y \u0111\u1ebfn h\u1ebft pin): 14 ng\u00e0y\n  + Ki\u1ec3u pin: Lithium ION\n  + M\u00e0u s\u1eafc: Xanh b\u1ea1c h\u00e0\n  + K\u1ebft c\u1ea5u \u0111\u1ea7u b\u00e0n ch\u1ea3i: \u0110\u1ea7u b\u00e0n ch\u1ea3i nh\u1ea5n v\u00e0o tay c\u1ea7m d\u1ec5 d\u00e0ng\n  + Ch\u1ec9 b\u00e1o pin: \u0110\u00e8n hi\u1ec3n th\u1ecb tr\u1ea1ng th\u00e1i pin\n  + Tay n\u1eafm: Thi\u1ebft k\u1ebf m\u1ea3nh ti\u1ec7n d\u1ee5ng\n  + B\u1ed9 ph\u1eadn \u0111i k\u00e8m: B\u1ed9 s\u1ea1c; \u0110\u1ea7u b\u00e0n ch\u1ea3i 1 W Optimal White; Tay n\u1eafm d\u00f2ng 1100\n  + Hi\u1ec7u su\u1ea5t: Lo\u1ea1i b\u1ecf nhi\u1ec1u m\u1ea3ng b\u00e1m h\u01a1n g\u1ea5p 3 l\u1ea7n*\n  + B\u00f4\u0323 h\u1eb9n gi\u01a1\u0300: B\u1ed9 \u0111\u1ecbnh gi\u1edd g\u00f3c 30 gi\u00e2y v\u00e0 B\u1ed9 \u0111\u1ecbnh gi\u1edd th\u00f4ng minh\n\n2. B\u00e0n ch\u1ea3i \u0111i\u1ec7n: M&EBC100010\n- T\u00ean s\u1ea3n ph\u1ea9m: B\u00e0n ch\u1ea3i \u0111i\u1ec7n v\u1edbi chuy\u1ec3n \u0111\u1ed9ng rung m\u1ea1nh m\u1ebd 31000 l\u1ea7n ch\u1ea3i m\u1ed7i ph\u00fat Philips HX3641/41\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n ch\u1ea3i \u0111i\u1ec7n cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + \u0110i\u1ec7n \u00e1p: DC5V\n  + Pin: C\u00f3 th\u1ec3 s\u1ea1c l\u1ea1i\n  + Th\u1eddi gian ho\u1ea1t \u0111\u1ed9ng (pin \u0111\u1ea7y \u0111\u1ebfn h\u1ebft pin): 14 ng\u00e0y\n  + Ki\u1ec3u pin: Lithium ION\n  + M\u00e0u s\u1eafc: Xanh b\u1ea1c h\u00e0\n  + K\u1ebft c\u1ea5u \u0111\u1ea7u b\u00e0n ch\u1ea3i: \u0110\u1ea7u b\u00e0n ch\u1ea3i nh\u1ea5n v\u00e0o tay c\u1ea7m d\u1ec5 d\u00e0ng\n  + Ch\u1ec9 b\u00e1o pin: \u0110\u00e8n hi\u1ec3n th\u1ecb tr\u1ea1ng th\u00e1i pin\n  + Tay n\u1eafm: Thi\u1ebft k\u1ebf m\u1ea3nh ti\u1ec7n d\u1ee5ng\n  + B\u1ed9 ph\u1eadn \u0111i k\u00e8m: B\u1ed9 s\u1ea1c; \u0110\u1ea7u b\u00e0n ch\u1ea3i 1 W Optimal White; Tay n\u1eafm d\u00f2ng 1100\n  + Hi\u1ec7u su\u1ea5t: Lo\u1ea1i b\u1ecf nhi\u1ec1u m\u1ea3ng b\u00e1m h\u01a1n g\u1ea5p 3 l\u1ea7n*\n  + B\u00f4\u0323 h\u1eb9n gi\u01a1\u0300: B\u1ed9 \u0111\u1ecbnh gi\u1edd g\u00f3c 30 gi\u00e2y v\u00e0 B\u1ed9 \u0111\u1ecbnh gi\u1edd th\u00f4ng minh\n\nVui l\u00f2ng cho bi\u1ebft b\u1ea1n c\u1ea7n th\u00f4ng tin chi ti\u1ebft v\u1ec1 s\u1ea3n ph\u1ea9m n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 cung c\u1ea5p th\u00eam th\u00f4ng tin \u1ea1.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "c\u00f2n s\u1ea3n ph\u1ea9m kh\u00e1c kh\u00f4ng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: D\u01b0\u1edbi \u0111\u00e2y l\u00e0 th\u00f4ng tin v\u1ec1 m\u1ed9t s\u1ed1 s\u1ea3n ph\u1ea9m kh\u00e1c c\u00f3 trong t\u00e0i li\u1ec7u:\n\n3. B\u00e0n l\u00e0 h\u01a1i n\u01b0\u1edbc c\u00e2y Philips GC487/89\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n l\u00e0 cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + C\u00f4ng su\u1ea5t: 1800W\n  + B\u00ecnh n\u01b0\u1edbc: 1.4 l\u00edt\n  + M\u1eb7t \u0111\u1ebf: Nh\u1ef1a\n  + Ch\u1ee9c n\u0103ng: \u1ee6i h\u01a1i n\u01b0\u1edbc\n  + Ti\u1ec7n \u00edch: N\u00fat tr\u01b0\u1ee3t x\u1ea3 c\u1eb7n, \u0110i\u1ec1u ch\u1ec9nh \u0111\u01b0\u1ee3c chi\u1ec1u cao, \u1ee6i qu\u1ea7n \u00e1o treo\n  + K\u00edch th\u01b0\u1edbc - Kh\u1ed1i l\u01b0\u1ee3ng: Ngang 30.9 cm - Cao 90 - 170.6 cm - S\u00e2u 27.7 cm - N\u1eb7ng 3.5 kg\n\n4. B\u00e0n l\u00e0 h",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "ti\u1ebfp \u0111i",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: D\u01b0\u1edbi \u0111\u00e2y l\u00e0 th\u00f4ng tin v\u1ec1 m\u1ed9t s\u1ed1 s\u1ea3n ph\u1ea9m kh\u00e1c c\u00f3 trong t\u00e0i li\u1ec7u:\n\n5. B\u00e0n l\u00e0 h\u01a1i n\u01b0\u1edbc c\u00e2y Philips GC487/89\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n l\u00e0 cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + C\u00f4ng su\u1ea5t: 1800W\n  + B\u00ecnh n\u01b0\u1edbc: 1.4 l\u00edt\n  + M\u1eb7t \u0111\u1ebf: Nh\u1ef1a\n  + Ch\u1ee9c n\u0103ng: \u1ee6i h\u01a1i n\u01b0\u1edbc\n  + Ti\u1ec7n \u00edch: N\u00fat tr\u01b0\u1ee3t x\u1ea3 c\u1eb7n, \u0110i\u1ec1u ch\u1ec9nh \u0111\u01b0\u1ee3c chi\u1ec1u cao, \u1ee6i qu\u1ea7n \u00e1o treo\n  + K\u00edch th\u01b0\u1edbc - Kh\u1ed1i l\u01b0\u1ee3ng: Ngang 30.9 cm - Cao 90 - 170.6 cm - S\u00e2u 27.7 cm - N\u1eb7ng 3.5 kg\n\n6. B\u00e0n l\u00e0 h\u01a1i n\u01b0\u1edbc c\u00e2y Philips GC487/89\n- Gi\u00e1: Hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n l\u00e0 cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + C\u00f4ng su\u1ea5t: 1800W\n  + B\u00ecnh n\u01b0\u1edbc: 1.4 l\u00edt\n  + M\u1eb7t \u0111\u1ebf: Nh\u1ef1a\n  + Ch\u1ee9c n\u0103ng: \u1ee6i h\u01a1i n\u01b0\u1edbc\n  + Ti\u1ec7n \u00edch: N\u00fat tr\u01b0\u1ee3t x\u1ea3 c\u1eb7n, \u0110i\u1ec1u ch\u1ec9nh \u0111\u01b0\u1ee3c chi\u1ec1u cao, \u1ee6i qu\u1ea7n \u00e1o treo\n  + K\u00edch th\u01b0\u1edbc - Kh\u1ed1i l\u01b0\u1ee3ng: Ngang 30.9 cm - Cao 90 - 170.6 cm - S\u00e2u 27.7 cm - N\u1eb7ng 3.5 kg\n\nVui l\u00f2ng cho bi\u1ebft b\u1ea1n c\u1ea7n th\u00f4ng tin chi ti\u1ebft v\u1ec1 s\u1ea3n ph\u1ea9m n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 cung c\u1ea5p th\u00eam th\u00f4ng tin \u1ea1.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "b\u00e0n \u1ee7i ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: D\u01b0\u1edbi \u0111\u00e2y l\u00e0 th\u00f4ng tin v\u1ec1 s\u1ea3n ph\u1ea9m b\u00e0n \u1ee7i c\u00f3 trong t\u00e0i li\u1ec7u:\n\n1. B\u00e0n l\u00e0: M&EBL100005\n- T\u00ean s\u1ea3n ph\u1ea9m: B\u00e0n l\u00e0 h\u01a1i n\u01b0\u1edbc Philips, c\u00f4ng su\u1ea5t 2000W, m\u1eb7t \u0111\u1ebf Ceramic, ng\u0103n ch\u1ee9a n\u01b0\u1edbc 220ml, c\u00f3 ch\u1ee9c n\u0103ng x\u1ea3 c\u1eb7n, h\u01a1i phun li\u00ean t\u1ee5c 25g/ph\u00fat, h\u01a1i phun t\u0103ng c\u01b0\u1eddng l\u00ean \u0111\u1ebfn 100 g/ph, c\u00f3 phun tia l\u00e0m \u1ea9m v\u1ea3i, \u1ee7i d\u1ec5 d\u00e0ng h\u01a1n, c\u00f3 ch\u1ebf \u0111\u1ed9 t\u1eaft t\u1ef1 \u0111\u1ed9ng GC1756/20\n- Gi\u00e1: hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n l\u00e0 cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\nLo\u1ea1i b\u00e0n \u1ee7i: B\u00e0n \u1ee7i h\u01a1i n\u01b0\u1edbc\nC\u00f4ng su\u1ea5t: 1700W - 2000W\nB\u00ecnh n\u01b0\u1edbc: 220 ml\nM\u1eb7t \u0111\u1ebf: Ceramic ch\u1ed1ng d\u00ednh\nCh\u1ee9c n\u0103ng: Phun h\u01a1i t\u0103ng c\u01b0\u1eddng, Phun tia, \u1ee6i h\u01a1i n\u01b0\u1edbc, \u1ee6i kh\u00f4\nChi\u1ec1u d\u00e0i d\u00e2y \u0111i\u1ec7n: 194 cm\n\nVui l\u00f2ng cho bi\u1ebft b\u1ea1n c\u1ea7n th\u00f4ng tin chi ti\u1ebft v\u1ec1 s\u1ea3n ph\u1ea9m n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 cung c\u1ea5p th\u00eam th\u00f4ng tin \u1ea1.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "b\u00e0n \u1ee7i",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: D\u01b0\u1edbi \u0111\u00e2y l\u00e0 th\u00f4ng tin v\u1ec1 s\u1ea3n ph\u1ea9m b\u00e0n \u1ee7i c\u00f3 trong t\u00e0i li\u1ec7u:\n\n1. B\u00e0n l\u00e0: M&EBL100005\n- T\u00ean s\u1ea3n ph\u1ea9m: B\u00e0n l\u00e0 h\u01a1i n\u01b0\u1edbc Philips, c\u00f4ng su\u1ea5t 2000W, m\u1eb7t \u0111\u1ebf Ceramic, ng\u0103n ch\u1ee9a n\u01b0\u1edbc 220ml, c\u00f3 ch\u1ee9c n\u0103ng x\u1ea3 c\u1eb7n, h\u01a1i phun li\u00ean t\u1ee5c 25g/ph\u00fat, h\u01a1i phun t\u0103ng c\u01b0\u1eddng l\u00ean \u0111\u1ebfn 100 g/ph, c\u00f3 phun tia l\u00e0m \u1ea9m v\u1ea3i, \u1ee7i d\u1ec5 d\u00e0ng h\u01a1n, c\u00f3 ch\u1ebf \u0111\u1ed9 t\u1eaft t\u1ef1 \u0111\u1ed9ng GC1756/20\n- Gi\u00e1: hi\u1ec7n t\u1ea1i gi\u00e1 th\u00e0nh ch\u01b0a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\n- M\u00f4 t\u1ea3: B\u00e0n l\u00e0 cao c\u1ea5p, h\u00e0ng ch\u00ednh h\u00e3ng. B\u1ea3o h\u00e0nh to\u00e0n qu\u1ed1c b\u1edfi AIOSMART\n- Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt:\n  + Lo\u1ea1i b\u00e0n \u1ee7i: B\u00e0n \u1ee7i h\u01a1i n\u01b0\u1edbc\n  + C\u00f4ng su\u1ea5t: 1700W - 2000W\n  + B\u00ecnh n\u01b0\u1edbc: 220 ml\n  + M\u1eb7t \u0111\u1ebf: Ceramic ch\u1ed1ng d\u00ednh\n  + Ch\u1ee9c n\u0103ng: Phun h\u01a1i t\u0103ng c\u01b0\u1eddng, Phun tia, \u1ee6i h\u01a1i n\u01b0\u1edbc, \u1ee6i kh\u00f4\n  + Chi\u1ec1u d\u00e0i d\u00e2y \u0111i\u1ec7n: 194 cm\n\nVui l\u00f2ng cho bi\u1ebft b\u1ea1n c\u1ea7n th\u00f4ng tin chi ti\u1ebft v\u1ec1 s\u1ea3n ph\u1ea9m n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 cung c\u1ea5p th\u00eam th\u00f4ng tin \u1ea1.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "The following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_13>\n- Mô tả: Đèn pha năng lượng mặt trời là bộ sản phẩm sử dụng nguồn năng lượng mặt trời để\r\nchiếu sáng. Không cần cung cấp nguồn điện từ bên ngoài.\r\n114. Đèn Năng Lượng Mặt Trời: 509189\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RD-200, công suất 200W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n115. Đèn Năng Lượng Mặt Trời: 509181\r\n- Tên sản phẩm: Đèn pha led năng lượng mặt trời SUNTEK RP-200, công suất 200W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\n<END_SNIPPET_PAGE_13>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_1>\nI. Các loại sản phẩm\r\n1. Bếp từ\r\nSố lượng sản phẩm là: 10\r\n- 606015: Bộ nồi Inox sơn đỏ (3 cái/Bộ)-AIO Smart\r\n- 509333: Bếp Từ Bluestone Icb-6619\r\n- 509331: Bếp Từ Bluestone Icb-6609\r\n- 509330: Bếp Từ Đôi Bluestone Icb-6833\r\n- 509328: Bếp Từ Đôi Bluestone Icb-6818\r\n- 509336: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6917\r\n- 509337: Bếp Từ Đôi Bluestone Icb-6948\r\n- 509335: Bếp Hỗn Hợp Quang Từ Bluestone Icb-6911\r\n- 509334: Bếp Từ Đôi Bluestone Icb-6845\r\n- 509329: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6821\r\n2. Lò vi sóng\r\nSố lượng sản phẩm là: 5\r\n- 509347: Lò Vi Sóng Bluestone Mob-7733\r\n- 509348: Lò Vi Sóng Bluestone Mob-7833\r\n- 509344: Lò Vi Sóng Bluestone Mob-7708B\r\n- 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít\r\n- 509346: Lò Vi Sóng Bluestone Mob-7816\r\n3. Máy Giặt\r\nSố lượng sản phẩm là: 4\r\n- 571591: Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB\r\n- 571590: Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB\r\n- 571603: Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB\r\n- 571604: Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\r\n4. Máy lọc không khí, máy hút bụi\r\nSố lượng sản phẩm là: 1\r\n- 622477: Máy Hút Bụi Bluestone Vcb-8067\r\n5. Máy ép\r\nSố lượng sản phẩm là: 9\r\n- 509360: Máy Ép Chậm Bluestone Sjb-6558\r\n- 509250: Máy ép trái cây Philips - công suất 300W, ca chứa nước ép 0.5 lít, 2 tốc độ cho \r\nthực phẩm mềm và cứng, lưới lọc bằng thép không gỉ, học chứa bã có thể tháo rời. HR1811/71\r\n- 509251: Máy ép trái cây Philips công suất 800W, ca chứa nước ép 0.75 lít, ống chứa thực \r\nphẩm cỡ lớn, lưới lọc dễ vệ sinh, hộc chứa bã tiện dụng, có chức năng rửa nhanh, vỏ ngoài được \r\nthiết kế bằng inox chống trầy HR1863/20\r\n- 509361: Máy Ép Chậm Bluestone Sjb-6578\r\n- 509359: Máy Ép Trái Cây Bluestone Jeb-6545\r\n- 509363: Máy Ép Chậm Bluestone Sjb-6556\r\n- 509338: Máy Làm Sữa Hạt Đa Năng Bluestone Smb-7329\r\n- 509253: Máy vắt nước cam Philips, công suất 25W, ca chứa nước ép 0.5 lít, lưới lọc tép \r\ncam, dây điện có thể quấn gọn HR2738/00\r\n- 509362: Máy Ép Chậm Bluestone Sjb-6568\r\n6. Nồi chiên không dầu\r\nSố lượng sản phẩm là: 19\r\n- 577839: Nôì chiên không dầu KALITE STEAM 7 7 lít\r\n- 509226: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air lành \r\nmạnh HD9200/90\r\n- 577838: Nồi chiên không dầu KALITE Q5\n<END_SNIPPET_PAGE_1>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_11>\n- Mô tả: Đèn đường năng lượng mặt trời SUNTEK S150 có kiểu dáng thời trang, thiết kế \r\nhiện đại. Đèn sử dụng bóng đèn LED nên ánh sáng cho màu sắc chân thật và có độ bền rất cao, khả \r\nnăng chiếu sáng liên tục lên đến 14 - 16h giờ đồng hồ.\r\n92. Đèn Năng Lượng Mặt Trời: 571585\r\n- Tên sản phẩm: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\r\n- Mô tả: Đèn pha năng lượng mặt trời là bộ sản phẩm sử dụng nguồn năng lượng mặt trời để\r\nchiếu sáng. Không cần cung cấp nguồn điện từ bên ngoài.\r\n93. Đèn Năng Lượng Mặt Trời: 571640\r\n- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời công suất 300w. Model: RD-300, hiệu: \r\nSuntek\r\n- Mô tả: Đèn đường năng lượng mặt trời SUNTEK RD-300, công suất 300W\r\n94. Đèn Năng Lượng Mặt Trời: 571600\r\n- Tên sản phẩm: Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho \r\nCamera\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n95. Đèn Năng Lượng Mặt Trời: 509185\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-300, công suất 300W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n96. Đèn Năng Lượng Mặt Trời: 509184\r\n- Tên sản phẩm: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-300, công suất \r\n300W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n97. Đèn Năng Lượng Mặt Trời: 577810\r\n- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời .Model:S100,hiệu:SUNTEK. \r\nBảo hành 2 năm\r\n- Mô tả: Đèn tích hợp bộ cảm biến ánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời \r\nsáng. Chế độ sáng thông minh khi ít điện hoặc mưa liên tục sẽ giảm điện tiêu thụ về đêm khuya để \r\ntiết kiệm điện. Đèn đường năng lượng mặt trời SUNTEK S100 có kiểu dáng thời trang, thiết kế hiện\r\nđại.\r\n98. Đèn Năng Lượng Mặt Trời: 509193\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK DA-02, công suất 200W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n99. Đèn Năng Lượng Mặt Trời: 509192\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK DA-01, công suất 100W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n100. Đèn Năng Lượng Mặt Trời: 509191\r\n- Tên sản phẩm: Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n101. Đèn Năng Lượng Mặt Trời: 577779\r\n- Tên sản phẩm: Đèn NLMT rời thể 1 pha 100W (Nhôm)\r\n- Mô tả: Đèn NLMT rời thể 1 pha 100W (Nhôm) có kiểu dáng gọn nhẹ, độ thẩm mĩ cao, dễ \r\ndàng lắp đặt.\r\n102. Đèn Năng Lượng Mặt Trời: 577823\r\n- Tên sản phẩm: Bộ đèn led năng lượng mặt trời công suất 60w. Hiệu: SUNTEK. \r\nBảo hành 2 năm\n<END_SNIPPET_PAGE_11>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_12>\n- Mô tả: Đèn sử dụng bóng đèn LED nên ánh sáng cho màu sắc chân thật và có độ bền rất \r\ncao, khả năng chiếu sáng liên tục lên đến 14-16 giờ đồng hồ. Đây sẽ là sản phẩm thiết yếu đối với \r\nmỗi gia đình, doanh nghiệp nhất là những nơi hay mất điện hoặc nhưng vị trí không thể hoặc khó để\r\nkéo nguồn điện.\r\n103. Đèn Năng Lượng Mặt Trời: 577797\r\n- Tên sản phẩm: Đèn NLMT bàn chải rời thể 300W (Nhôm)\r\n- Mô tả: Đèn NLMT bàn chải rời thể 300W là thiết bị đèn cao cấp giúp quý khách hàng tiết \r\nkiệm được rất nhiều chi phí tiền điện mỗi tháng.\r\n104. Đèn Năng Lượng Mặt Trời: 577828\r\n- Tên sản phẩm: Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\r\n- Mô tả: Đèn công viên năng lượng mặt trời SUNTEK SV08 chuyên dùng để lắp đặt và \r\ntrang trí tại các vị trí ở công viên, khu vui chơi công cộng, lối đi , sân vườn, trang trí biệt thự, \r\nresot... Đèn tích hợp bộ cảm biến ánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời sáng.\r\n105. Đèn Năng Lượng Mặt Trời: 509188\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n106. Đèn Năng Lượng Mặt Trời: 509187\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-500, công suất 500W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n107. Đèn Năng Lượng Mặt Trời: 577818\r\n- Tên sản phẩm: Đèn NLMT 1 pha 300W ( Nhôm )\r\n- Mô tả: Đèn NLMT rời thể 1 pha 300W (Nhôm) có kiểu dáng gọn nhẹ, độ thẩm mĩ cao, dễ \r\ndàng lắp đặt.\r\n108. Đèn Năng Lượng Mặt Trời: 577783\r\n- Tên sản phẩm: Đèn NLMT rời thể 1 pha 200W (Nhôm)\r\n- Mô tả: Đèn NLMT rời thể 1 pha 200W (Nhôm) có kiểu dáng gọn nhẹ, độ thẩm mĩ cao, dễ \r\ndàng lắp đặt.\r\n109. Đèn Năng Lượng Mặt Trời: 577830\r\n- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\r\n- Mô tả: Sử dụng chiếu sáng như đèn đường, đèn chiếu sáng công cộng, đèn cho các khu \r\ncông nghiệp, đèn cho các khu trang trại, đèn cho công viên, sân vườn,… Đèn tích hợp bộ cảm biến \r\nánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời sáng. Chế độ sáng thông minh khi ít điện \r\nhoặc mưa liên tục sẽ giảm điện tiêu thụ về đêm khuya để tiết kiệm điện.\r\n110. Đèn Năng Lượng Mặt Trời: 509186\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-400, công suất 400W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n111. Đèn Năng Lượng Mặt Trời: 577831\r\n- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\r\n- Mô tả: Sử dụng chiếu sáng như đèn đường, đèn chiếu sáng công cộng, đèn cho các khu \r\ncông nghiệp, đèn cho các khu trang trại, đèn cho công viên, sân vườn,… Đèn tích hợp bộ cảm biến \r\nánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời sáng. Chế độ sáng thông minh khi ít điện \r\nhoặc mưa liên tục sẽ giảm điện tiêu thụ về đêm khuya để tiết kiệm điện.\r\n112. Đèn Năng Lượng Mặt Trời: 509182\r\n- Tên sản phẩm: Đèn pha led năng lượng mặt trời SUNTEK RP-300, công suất 300W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n113. Đèn Năng Lượng Mặt Trời: 571587\r\n- Tên sản phẩm: ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n<END_SNIPPET_PAGE_12>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_6>\n- Tên sản phẩm: Máy Ép Chậm Bluestone Sjb-6568\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n30. Nồi chiên không dầu: 577839\r\n- Tên sản phẩm: Nôì chiên không dầu KALITE STEAM 7 7 lít\r\n- Mô tả: Nồi chiên hơi nước Kalite Steam 7 là sự kết hợp đột phá công nghệ chiên không \r\ndầu Rapid Air kết hợp hấp siêu nhiệt Steam Active, giúp bạn chế biến mọi món ăn dinh dưỡng hơn, \r\nthơm ngon hơn và tiết kiệm thời gian tối ưu.\r\n31. Nồi chiên không dầu: 509226\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air \r\nlành mạnh HD9200/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n32. Nồi chiên không dầu: 577838\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE Q5\r\n- Mô tả: Nồi chiên không dầu Kalite Q5 với công nghệ chiên không dầu Rapid Air giảm \r\n95% chất béo, giúp bạn có những món ăn chiên nướng chín vàng đều, giòn rụm mà vẫn đảm bảo \r\nsức khoẻ.\r\n33. Nồi chiên không dầu: 509231\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2000W, sử dụng chiên 2 kg, kết nối \r\nđiều khiển thông qua ứng dụng Nutri U, chức năng Quick clean giúp vệ sinh dễ dàng, có thể sử \r\ndụng trong máy rửa chén. HD9880/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n34. Nồi chiên không dầu: 509228\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air \r\nlành mạnh với sức khỏe, làm đều nhiệt, sử dụng chiên cho 1,2 kg thực phẩm, có kết nối và điều \r\nkhiển qua Wifi và app NutriU HD9280/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n35. Nồi chiên không dầu: 509368\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5878\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n36. Nồi chiên không dầu: 509229\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air \r\nlành mạnh với sức khỏe, sử dụng chiên cho 1,4 kg thực phẩm, có kết nối và điều khiển qua Wifi và \r\napp NutriU, có hẹn giờ và giữ ấm HD9285/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n37. Nồi chiên không dầu: 509230\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2200W, màn hình điện tử với nút \r\nbấm dễ dàng, công nghệ Fat Removal, Rapid Air sử dụng chiên 1.4 kg HD9860/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n38. Nồi chiên không dầu: 509371\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5895\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n39. Nồi chiên không dầu: 577847\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE Q6 5,5 lít\n<END_SNIPPET_PAGE_6>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_9>\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n67. Điều hòa: 509167\r\n- Tên sản phẩm: Điều hòa Daikin 22000BTU 1 chiều Inverter (2023) - Dòng cao cấp\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n68. Điều hòa: 509385\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-KCR18PA\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n69. Điều hòa: 509380\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV13QC\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n70. Điều hòa: 509384\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-KCR9PA\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n71. Điều hòa: 509383\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-KCR12NQ-S\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n72. Điều hòa: 509168\r\n- Tên sản phẩm: Điều hòa MDV 9000 BTU M&EMĐH000325/M&EMĐH000326\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n73. Điều hòa: 509170\r\n- Tên sản phẩm: Điều hòa MDV 18000 BTU M&EMĐH000329/M&EMĐH000330\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n74. Điều hòa: 509379\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV9QC\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n75. Điều hòa: 509381\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV18QA\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n76. Đèn Năng Lượng Mặt Trời: 509175\r\n- Tên sản phẩm: Đèn NLMT rời thể chống lóa 300W (Nhôm) SMSMH000051\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n77. Đèn Năng Lượng Mặt Trời: 509176\r\n- Tên sản phẩm: Đèn NLMT bàn chải rời thể 200W (Nhôm) SMSMH000041\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n78. Đèn Năng Lượng Mặt Trời: 509162\r\n- Tên sản phẩm: Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24 \r\ntháng\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n79. Đèn Năng Lượng Mặt Trời: 571586\r\n- Tên sản phẩm: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\r\n- Mô tả: Đèn pha năng lượng mặt trời là bộ sản phẩm sử dụng nguồn năng lượng mặt trời để\r\nchiếu sáng. Không cần cung cấp nguồn điện từ bên ngoài.\r\n80. Đèn Năng Lượng Mặt Trời: 509183\r\n- Tên sản phẩm: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-100, công suất \r\n100W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n81. Đèn Năng Lượng Mặt Trời: 509196\r\n- Tên sản phẩm: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS\n<END_SNIPPET_PAGE_9>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_4>\n- 509189: Đèn đường năng lượng mặt trời SUNTEK RD-200, công suất 200W\r\n- 509181: Đèn pha led năng lượng mặt trời SUNTEK RP-200, công suất 200W\r\nII. Thông tin sản phẩm\r\n1. Bếp từ: 606015\r\n- Tên sản phẩm: Bộ nồi Inox sơn đỏ (3 cái/Bộ)-AIO Smart\r\n- Mô tả: Bộ nồi Inox AIO Smart thiết kế sang trọng, chất liệu an toàn sức khỏe, với 3 kích \r\nthước nồi khác nhau hỗ trợ người dùng nấu đa dạng món ăn, xứng đáng có mặt trong mọi căn bếp \r\ngia đình.\r\n2. Bếp từ: 509333\r\n- Tên sản phẩm: Bếp Từ Bluestone Icb-6619\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n3. Bếp từ: 509331\r\n- Tên sản phẩm: Bếp Từ Bluestone Icb-6609\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n4. Bếp từ: 509330\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6833\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n5. Bếp từ: 509328\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6818\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n6. Bếp từ: 509336\r\n- Tên sản phẩm: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6917\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n7. Bếp từ: 509337\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6948\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n8. Bếp từ: 509335\r\n- Tên sản phẩm: Bếp Hỗn Hợp Quang Từ Bluestone Icb-6911\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n9. Bếp từ: 509334\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6845\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n10. Bếp từ: 509329\r\n- Tên sản phẩm: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6821\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n11. Lò vi sóng: 509347\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7733\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n12. Lò vi sóng: 509348\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7833\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n13. Lò vi sóng: 509344\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7708B\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n14. Lò vi sóng: 509345\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n15. Lò vi sóng: 509346\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7816\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n16. Máy Giặt: 571591\r\n- Tên sản phẩm: Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB\n<END_SNIPPET_PAGE_4>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_7>\n- Mô tả: Được thiết kế với 3 hệ thống lọc gồm lọc thô, lọc Hepa, lọc than hoạt tính, Carrier \r\nAP43STRE giúp lọc sạch 99,95% bụi bẩn, vi khuẩn, mùi hôi kể cả các hạt bụi siêu mịn PM 2.5 cho \r\nkhông khí chuẩn sạch.\r\n40. Nồi chiên không dầu: 571594\r\n- Tên sản phẩm: Nồi chiên không dầu Kalite KL-1500 15 lít\r\n- Mô tả: Nồi chiên không dầu Kalite KL1500 với công nghệ chiên không dầu Rapid Air \r\ngiảm 95% chất béo, giúp bạn có những món ăn chiên nướng chín vàng đều, giòn rụm mà vẫn đảm \r\nbảo sức khoẻ\r\n41. Nồi chiên không dầu: 577822\r\n- Tên sản phẩm: Nồi chiên không dầu Kalite Q10 10 lít\r\n- Mô tả: Nồi chiên không dầu đa chức năng. Chỉ bằng một vài thao tác đơn giản bạn đã có \r\nthể tạo ra rất nhiều món ăn hấp dẫn như: Chiên khoai tây, Nướng thịt, Nướng cá, Nướng tôm, \r\nNướng Pizza, Nướng Đùi gà, Nướng bánh, Nướng Gà quay nguyên con, Sấy hoa quả, Rã đông thực\r\nphẩm.\r\n42. Nồi chiên không dầu: 577836\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE KL-1200 12 lít\r\n- Mô tả: Nồi chiên không dầu Kalite KL1200 với công nghệ chiên không dầu Rapid Air \r\ngiảm 95% chất béo, giúp bạn có những món ăn chiên nướng chín vàng đều, giòn rụm mà vẫn đảm \r\nbảo sức khoẻ.\r\n43. Nồi chiên không dầu: 509369\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5880\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n44. Nồi chiên không dầu: 509367\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5871\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n45. Nồi chiên không dầu: 509370\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5885\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n46. Nồi chiên không dầu: 509372\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5888\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n47. Nồi chiên không dầu: 577856\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE STEAM STAR 15 lít\r\n- Mô tả: Nồi chiên hơi nước Kalite Steam Star là sự kết hợp đột phá công nghệ chiên không \r\ndầu Rapid Air kết hợp hấp siêu nhiệt Steam Active, giúp bạn chế biến mọi món ăn dinh dưỡng hơn, \r\nthơm ngon hơn và tiết kiệm thời gian tối ưu.\r\n48. Nồi chiên không dầu: 509227\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air \r\nlành mạnh với sức khỏe, làm đều nhiệt, HD9252/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n49. Nồi cơm điện: 509319\r\n- Tên sản phẩm: Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n50. Nồi cơm điện: 509355\r\n- Tên sản phẩm: Nồi Điện Đa Năng Bluestone Mpb-7233\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n51. Nồi cơm điện: 509225\n<END_SNIPPET_PAGE_7>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_2>\n- 509231: Nồi chiên không dầu Philips công suất 2000W, sử dụng chiên 2 kg, kết nối điều \r\nkhiển thông qua ứng dụng Nutri U, chức năng Quick clean giúp vệ sinh dễ dàng, có thể sử dụng \r\ntrong máy rửa chén. HD9880/90\r\n- 509228: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air lành \r\nmạnh với sức khỏe, làm đều nhiệt, sử dụng chiên cho 1,2 kg thực phẩm, có kết nối và điều khiển \r\nqua Wifi và app NutriU HD9280/90\r\n- 509368: Nồi Chiên Không Dầu Bluestone Afb- 5878\r\n- 509229: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air lành \r\nmạnh với sức khỏe, sử dụng chiên cho 1,4 kg thực phẩm, có kết nối và điều khiển qua Wifi và app \r\nNutriU, có hẹn giờ và giữ ấm HD9285/90\r\n- 509230: Nồi chiên không dầu Philips công suất 2200W, màn hình điện tử với nút bấm dễ \r\ndàng, công nghệ Fat Removal, Rapid Air sử dụng chiên 1.4 kg HD9860/90\r\n- 509371: Nồi Chiên Không Dầu Bluestone Afb- 5895\r\n- 577847: Nồi chiên không dầu KALITE Q6 5,5 lít\r\n- 571594: Nồi chiên không dầu Kalite KL-1500 15 lít\r\n- 577822: Nồi chiên không dầu Kalite Q10 10 lít\r\n- 577836: Nồi chiên không dầu KALITE KL-1200 12 lít\r\n- 509369: Nồi Chiên Không Dầu Bluestone Afb- 5880\r\n- 509367: Nồi Chiên Không Dầu Bluestone Afb- 5871\r\n- 509370: Nồi Chiên Không Dầu Bluestone Afb- 5885\r\n- 509372: Nồi Chiên Không Dầu Bluestone Afb- 5888\r\n- 577856: Nồi chiên không dầu KALITE STEAM STAR 15 lít\r\n- 509227: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air lành \r\nmạnh với sức khỏe, làm đều nhiệt, HD9252/90\r\n7. Nồi cơm điện\r\nSố lượng sản phẩm là: 16\r\n- 509319: Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\r\n- 509355: Nồi Điện Đa Năng Bluestone Mpb-7233\r\n- 509225: Nồi cơm điện cao tần Philips dung tích 1.5 lít, công suất 1250W được trao giải \r\nthiết kế Design Award 2022 với 5 cấp độ tạo cảm giác ngon miệng, HD4539/62\r\n- 509320: Nồi Cơm Điện Tử Bluestone Rcb-5938\r\n- 509317: Nồi Cơm Điện Tử Bluestone Rcb-5988\r\n- 509321: Nồi Cơm Điện Tử Bluestone Rcb-5949\r\n- 509313: Nồi Cơm Điện Bluestone Rcb-5520\r\n- 509314: Nồi Cơm Điện Bluestone Rcb-5512\r\n- 509316: Nồi Cơm Điện Bluestone Rcb-5538\r\n- 509318: Nồi Cơm Điện Tử\r\n- 509224: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W với 18 chương trình \r\ndê dàng thiết lập giúp bạn đổi mới công thức nấu ăn hàng ngày vô cùng đa dạng. HD4518/62\r\n- 509173: Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\r\n- 509174: Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\r\n- 509172: Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\r\n- 509223: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W, lòng nồi 5 lớp dẫn \r\nđiện tốt, đươc tráng bằng lớp đá tự nhiên và có chứa các khoáng chất và các nguyên tố vi lượng\u0002Bakuhanseki hiện đại siêu bền và cứng hơn gấp 6 lần. HD4515/55\r\n- 574096: Nồi cơm điện AIO Smart AIORCO3L23G/4CO\r\n8. Điều hòa\r\nSố lượng sản phẩm là: 11\r\n- 509169: Điều hòa MDV 12000 BTU M&EMĐH000327/M&EMĐH000328\r\n- 509382: Điều hòa treo tường Aqua AQA-RV24QA\r\n- 509167: Điều hòa Daikin 22000BTU 1 chiều Inverter (2023) - Dòng cao cấp\r\n- 509385: Điều hòa treo tường Aqua AQA-KCR18PA\n<END_SNIPPET_PAGE_2>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_8>\n- Tên sản phẩm: Nồi cơm điện cao tần Philips dung tích 1.5 lít, công suất 1250W được trao \r\ngiải thiết kế Design Award 2022 với 5 cấp độ tạo cảm giác ngon miệng, HD4539/62\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n52. Nồi cơm điện: 509320\r\n- Tên sản phẩm: Nồi Cơm Điện Tử Bluestone Rcb-5938\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n53. Nồi cơm điện: 509317\r\n- Tên sản phẩm: Nồi Cơm Điện Tử Bluestone Rcb-5988\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n54. Nồi cơm điện: 509321\r\n- Tên sản phẩm: Nồi Cơm Điện Tử Bluestone Rcb-5949\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n55. Nồi cơm điện: 509313\r\n- Tên sản phẩm: Nồi Cơm Điện Bluestone Rcb-5520\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n56. Nồi cơm điện: 509314\r\n- Tên sản phẩm: Nồi Cơm Điện Bluestone Rcb-5512\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n57. Nồi cơm điện: 509316\r\n- Tên sản phẩm: Nồi Cơm Điện Bluestone Rcb-5538\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n58. Nồi cơm điện: 509318\r\n- Tên sản phẩm: Nồi Cơm Điện Tử\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n59. Nồi cơm điện: 509224\r\n- Tên sản phẩm: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W với 18 chương \r\ntrình dê dàng thiết lập giúp bạn đổi mới công thức nấu ăn hàng ngày vô cùng đa dạng. HD4518/62\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n60. Nồi cơm điện: 509173\r\n- Tên sản phẩm: Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n61. Nồi cơm điện: 509174\r\n- Tên sản phẩm: Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n62. Nồi cơm điện: 509172\r\n- Tên sản phẩm: Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n63. Nồi cơm điện: 509223\r\n- Tên sản phẩm: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W, lòng nồi 5 lớp \r\ndẫn điện tốt, đươc tráng bằng lớp đá tự nhiên và có chứa các khoáng chất và các nguyên tố vi \r\nlượng-Bakuhanseki hiện đại siêu bền và cứng hơn gấp 6 lần. HD4515/55\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n64. Nồi cơm điện: 574096\r\n- Tên sản phẩm: Nồi cơm điện AIO Smart AIORCO3L23G/4CO\r\n- Mô tả: Nồi cơm điện AIO Smart sản phẩm chất lượng nổi bật, giàu tiện ích, độ bền cao rất \r\ntương xứng với giá thành, nồi đa chức năng lại giúp tiết kiệm được chi phí để sắm các dụng cụ nấu \r\nkhác.\r\n65. Điều hòa: 509169\r\n- Tên sản phẩm: Điều hòa MDV 12000 BTU M&EMĐH000327/M&EMĐH000328\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n66. Điều hòa: 509382\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV24QA\n<END_SNIPPET_PAGE_8>\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "You: Xin lỗi, tôi không thể cung cấp thông tin về giá cả sản phẩm. Vui lòng liên hệ với phòng bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "The following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_3>\n- 509380: Điều hòa treo tường Aqua AQA-RV13QC\r\n- 509384: Điều hòa treo tường Aqua AQA-KCR9PA\r\n- 509383: Điều hòa treo tường Aqua AQA-KCR12NQ-S\r\n- 509168: Điều hòa MDV 9000 BTU M&EMĐH000325/M&EMĐH000326\r\n- 509170: Điều hòa MDV 18000 BTU M&EMĐH000329/M&EMĐH000330\r\n- 509379: Điều hòa treo tường Aqua AQA-RV9QC\r\n- 509381: Điều hòa treo tường Aqua AQA-RV18QA\r\n9. Đèn Năng Lượng Mặt Trời\r\nSố lượng sản phẩm là: 40\r\n- 509175: Đèn NLMT rời thể chống lóa 300W (Nhôm) SMSMH000051\r\n- 509176: Đèn NLMT bàn chải rời thể 200W (Nhôm) SMSMH000041\r\n- 509162: Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24 tháng\r\n- 571586: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\r\n- 509183: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-100, công suất 100W\r\n- 509196: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS\r\n- 509180: Đèn pha led năng lượng mặt trời SUNTEK RP-100, công suất 100W\r\n- 577874: Đèn NLMT bàn chải rời thể 400W (Nhôm)\r\n- 509195: Đèn đường năng lượng mặt trời SUNTEK S500 PLUS, công suất 500W\r\n- 509194: Đèn đường năng lượng mặt trời SUNTEK DA-03, công suất 300W\r\n- 509177: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK Battery Power 12V/25Ah cho \r\nCamera\r\n- 577878: Đèn NLMT rời thể chống lóa 200W (Nhôm)\r\n- 608084: Bộ đèn pha led chống lóa năng lượng mặt trời AIO Smart. Công suất 200W. Bảo \r\nhành 18 tháng\r\n- 509179: Đèn pha năng lượng mặt trời SUNTEK LED SOLAR 500W\r\n- 577786: Đèn NLMT rời thể chống lóa 100W (Nhôm)\r\n- 577803: Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\r\n- 571585: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\r\n- 571640: Bộ đèn đường năng lượng mặt trời công suất 300w. Model: RD-300, hiệu: Suntek\r\n- 571600: Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho Camera\r\n- 509185: Đèn đường năng lượng mặt trời SUNTEK RV-300, công suất 300W\r\n- 509184: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-300, công suất 300W\r\n- 577810: Bộ đèn đường năng lượng mặt trời .Model:S100,hiệu:SUNTEK. \r\nBảo hành 2 năm\r\n- 509193: Đèn đường năng lượng mặt trời SUNTEK DA-02, công suất 200W\r\n- 509192: Đèn đường năng lượng mặt trời SUNTEK DA-01, công suất 100W\r\n- 509191: Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W\r\n- 577779: Đèn NLMT rời thể 1 pha 100W (Nhôm)\r\n- 577823: Bộ đèn led năng lượng mặt trời công suất 60w. Hiệu: SUNTEK. \r\nBảo hành 2 năm\r\n- 577797: Đèn NLMT bàn chải rời thể 300W (Nhôm)\r\n- 577828: Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\r\n- 509188: Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W\r\n- 509187: Đèn đường năng lượng mặt trời SUNTEK RV-500, công suất 500W\r\n- 577818: Đèn NLMT 1 pha 300W ( Nhôm )\r\n- 577783: Đèn NLMT rời thể 1 pha 200W (Nhôm)\r\n- 577830: Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\r\n- 509186: Đèn đường năng lượng mặt trời SUNTEK RV-400, công suất 400W\r\n- 577831: Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\r\n- 509182: Đèn pha led năng lượng mặt trời SUNTEK RP-300, công suất 300W\r\n- 571587: ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n<END_SNIPPET_PAGE_3>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_12>\n- Mô tả: Đèn sử dụng bóng đèn LED nên ánh sáng cho màu sắc chân thật và có độ bền rất \r\ncao, khả năng chiếu sáng liên tục lên đến 14-16 giờ đồng hồ. Đây sẽ là sản phẩm thiết yếu đối với \r\nmỗi gia đình, doanh nghiệp nhất là những nơi hay mất điện hoặc nhưng vị trí không thể hoặc khó để\r\nkéo nguồn điện.\r\n103. Đèn Năng Lượng Mặt Trời: 577797\r\n- Tên sản phẩm: Đèn NLMT bàn chải rời thể 300W (Nhôm)\r\n- Mô tả: Đèn NLMT bàn chải rời thể 300W là thiết bị đèn cao cấp giúp quý khách hàng tiết \r\nkiệm được rất nhiều chi phí tiền điện mỗi tháng.\r\n104. Đèn Năng Lượng Mặt Trời: 577828\r\n- Tên sản phẩm: Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\r\n- Mô tả: Đèn công viên năng lượng mặt trời SUNTEK SV08 chuyên dùng để lắp đặt và \r\ntrang trí tại các vị trí ở công viên, khu vui chơi công cộng, lối đi , sân vườn, trang trí biệt thự, \r\nresot... Đèn tích hợp bộ cảm biến ánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời sáng.\r\n105. Đèn Năng Lượng Mặt Trời: 509188\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n106. Đèn Năng Lượng Mặt Trời: 509187\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-500, công suất 500W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n107. Đèn Năng Lượng Mặt Trời: 577818\r\n- Tên sản phẩm: Đèn NLMT 1 pha 300W ( Nhôm )\r\n- Mô tả: Đèn NLMT rời thể 1 pha 300W (Nhôm) có kiểu dáng gọn nhẹ, độ thẩm mĩ cao, dễ \r\ndàng lắp đặt.\r\n108. Đèn Năng Lượng Mặt Trời: 577783\r\n- Tên sản phẩm: Đèn NLMT rời thể 1 pha 200W (Nhôm)\r\n- Mô tả: Đèn NLMT rời thể 1 pha 200W (Nhôm) có kiểu dáng gọn nhẹ, độ thẩm mĩ cao, dễ \r\ndàng lắp đặt.\r\n109. Đèn Năng Lượng Mặt Trời: 577830\r\n- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\r\n- Mô tả: Sử dụng chiếu sáng như đèn đường, đèn chiếu sáng công cộng, đèn cho các khu \r\ncông nghiệp, đèn cho các khu trang trại, đèn cho công viên, sân vườn,… Đèn tích hợp bộ cảm biến \r\nánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời sáng. Chế độ sáng thông minh khi ít điện \r\nhoặc mưa liên tục sẽ giảm điện tiêu thụ về đêm khuya để tiết kiệm điện.\r\n110. Đèn Năng Lượng Mặt Trời: 509186\r\n- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-400, công suất 400W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n111. Đèn Năng Lượng Mặt Trời: 577831\r\n- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\r\n- Mô tả: Sử dụng chiếu sáng như đèn đường, đèn chiếu sáng công cộng, đèn cho các khu \r\ncông nghiệp, đèn cho các khu trang trại, đèn cho công viên, sân vườn,… Đèn tích hợp bộ cảm biến \r\nánh sáng, tự động sáng đèn khi trời tối và tắt đèn khi trời sáng. Chế độ sáng thông minh khi ít điện \r\nhoặc mưa liên tục sẽ giảm điện tiêu thụ về đêm khuya để tiết kiệm điện.\r\n112. Đèn Năng Lượng Mặt Trời: 509182\r\n- Tên sản phẩm: Đèn pha led năng lượng mặt trời SUNTEK RP-300, công suất 300W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n113. Đèn Năng Lượng Mặt Trời: 571587\r\n- Tên sản phẩm: ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n<END_SNIPPET_PAGE_12>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_9>\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n67. Điều hòa: 509167\r\n- Tên sản phẩm: Điều hòa Daikin 22000BTU 1 chiều Inverter (2023) - Dòng cao cấp\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n68. Điều hòa: 509385\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-KCR18PA\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n69. Điều hòa: 509380\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV13QC\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n70. Điều hòa: 509384\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-KCR9PA\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n71. Điều hòa: 509383\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-KCR12NQ-S\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n72. Điều hòa: 509168\r\n- Tên sản phẩm: Điều hòa MDV 9000 BTU M&EMĐH000325/M&EMĐH000326\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n73. Điều hòa: 509170\r\n- Tên sản phẩm: Điều hòa MDV 18000 BTU M&EMĐH000329/M&EMĐH000330\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n74. Điều hòa: 509379\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV9QC\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n75. Điều hòa: 509381\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV18QA\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n76. Đèn Năng Lượng Mặt Trời: 509175\r\n- Tên sản phẩm: Đèn NLMT rời thể chống lóa 300W (Nhôm) SMSMH000051\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n77. Đèn Năng Lượng Mặt Trời: 509176\r\n- Tên sản phẩm: Đèn NLMT bàn chải rời thể 200W (Nhôm) SMSMH000041\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n78. Đèn Năng Lượng Mặt Trời: 509162\r\n- Tên sản phẩm: Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24 \r\ntháng\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n79. Đèn Năng Lượng Mặt Trời: 571586\r\n- Tên sản phẩm: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\r\n- Mô tả: Đèn pha năng lượng mặt trời là bộ sản phẩm sử dụng nguồn năng lượng mặt trời để\r\nchiếu sáng. Không cần cung cấp nguồn điện từ bên ngoài.\r\n80. Đèn Năng Lượng Mặt Trời: 509183\r\n- Tên sản phẩm: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-100, công suất \r\n100W\r\n- Mô tả: Đèn Năng Lượng Mặt Trời cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n81. Đèn Năng Lượng Mặt Trời: 509196\r\n- Tên sản phẩm: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS\n<END_SNIPPET_PAGE_9>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_2>\n- 509231: Nồi chiên không dầu Philips công suất 2000W, sử dụng chiên 2 kg, kết nối điều \r\nkhiển thông qua ứng dụng Nutri U, chức năng Quick clean giúp vệ sinh dễ dàng, có thể sử dụng \r\ntrong máy rửa chén. HD9880/90\r\n- 509228: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air lành \r\nmạnh với sức khỏe, làm đều nhiệt, sử dụng chiên cho 1,2 kg thực phẩm, có kết nối và điều khiển \r\nqua Wifi và app NutriU HD9280/90\r\n- 509368: Nồi Chiên Không Dầu Bluestone Afb- 5878\r\n- 509229: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air lành \r\nmạnh với sức khỏe, sử dụng chiên cho 1,4 kg thực phẩm, có kết nối và điều khiển qua Wifi và app \r\nNutriU, có hẹn giờ và giữ ấm HD9285/90\r\n- 509230: Nồi chiên không dầu Philips công suất 2200W, màn hình điện tử với nút bấm dễ \r\ndàng, công nghệ Fat Removal, Rapid Air sử dụng chiên 1.4 kg HD9860/90\r\n- 509371: Nồi Chiên Không Dầu Bluestone Afb- 5895\r\n- 577847: Nồi chiên không dầu KALITE Q6 5,5 lít\r\n- 571594: Nồi chiên không dầu Kalite KL-1500 15 lít\r\n- 577822: Nồi chiên không dầu Kalite Q10 10 lít\r\n- 577836: Nồi chiên không dầu KALITE KL-1200 12 lít\r\n- 509369: Nồi Chiên Không Dầu Bluestone Afb- 5880\r\n- 509367: Nồi Chiên Không Dầu Bluestone Afb- 5871\r\n- 509370: Nồi Chiên Không Dầu Bluestone Afb- 5885\r\n- 509372: Nồi Chiên Không Dầu Bluestone Afb- 5888\r\n- 577856: Nồi chiên không dầu KALITE STEAM STAR 15 lít\r\n- 509227: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air lành \r\nmạnh với sức khỏe, làm đều nhiệt, HD9252/90\r\n7. Nồi cơm điện\r\nSố lượng sản phẩm là: 16\r\n- 509319: Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\r\n- 509355: Nồi Điện Đa Năng Bluestone Mpb-7233\r\n- 509225: Nồi cơm điện cao tần Philips dung tích 1.5 lít, công suất 1250W được trao giải \r\nthiết kế Design Award 2022 với 5 cấp độ tạo cảm giác ngon miệng, HD4539/62\r\n- 509320: Nồi Cơm Điện Tử Bluestone Rcb-5938\r\n- 509317: Nồi Cơm Điện Tử Bluestone Rcb-5988\r\n- 509321: Nồi Cơm Điện Tử Bluestone Rcb-5949\r\n- 509313: Nồi Cơm Điện Bluestone Rcb-5520\r\n- 509314: Nồi Cơm Điện Bluestone Rcb-5512\r\n- 509316: Nồi Cơm Điện Bluestone Rcb-5538\r\n- 509318: Nồi Cơm Điện Tử\r\n- 509224: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W với 18 chương trình \r\ndê dàng thiết lập giúp bạn đổi mới công thức nấu ăn hàng ngày vô cùng đa dạng. HD4518/62\r\n- 509173: Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\r\n- 509174: Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\r\n- 509172: Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\r\n- 509223: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W, lòng nồi 5 lớp dẫn \r\nđiện tốt, đươc tráng bằng lớp đá tự nhiên và có chứa các khoáng chất và các nguyên tố vi lượng\u0002Bakuhanseki hiện đại siêu bền và cứng hơn gấp 6 lần. HD4515/55\r\n- 574096: Nồi cơm điện AIO Smart AIORCO3L23G/4CO\r\n8. Điều hòa\r\nSố lượng sản phẩm là: 11\r\n- 509169: Điều hòa MDV 12000 BTU M&EMĐH000327/M&EMĐH000328\r\n- 509382: Điều hòa treo tường Aqua AQA-RV24QA\r\n- 509167: Điều hòa Daikin 22000BTU 1 chiều Inverter (2023) - Dòng cao cấp\r\n- 509385: Điều hòa treo tường Aqua AQA-KCR18PA\n<END_SNIPPET_PAGE_2>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_8>\n- Tên sản phẩm: Nồi cơm điện cao tần Philips dung tích 1.5 lít, công suất 1250W được trao \r\ngiải thiết kế Design Award 2022 với 5 cấp độ tạo cảm giác ngon miệng, HD4539/62\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n52. Nồi cơm điện: 509320\r\n- Tên sản phẩm: Nồi Cơm Điện Tử Bluestone Rcb-5938\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n53. Nồi cơm điện: 509317\r\n- Tên sản phẩm: Nồi Cơm Điện Tử Bluestone Rcb-5988\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n54. Nồi cơm điện: 509321\r\n- Tên sản phẩm: Nồi Cơm Điện Tử Bluestone Rcb-5949\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n55. Nồi cơm điện: 509313\r\n- Tên sản phẩm: Nồi Cơm Điện Bluestone Rcb-5520\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n56. Nồi cơm điện: 509314\r\n- Tên sản phẩm: Nồi Cơm Điện Bluestone Rcb-5512\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n57. Nồi cơm điện: 509316\r\n- Tên sản phẩm: Nồi Cơm Điện Bluestone Rcb-5538\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n58. Nồi cơm điện: 509318\r\n- Tên sản phẩm: Nồi Cơm Điện Tử\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n59. Nồi cơm điện: 509224\r\n- Tên sản phẩm: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W với 18 chương \r\ntrình dê dàng thiết lập giúp bạn đổi mới công thức nấu ăn hàng ngày vô cùng đa dạng. HD4518/62\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n60. Nồi cơm điện: 509173\r\n- Tên sản phẩm: Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n61. Nồi cơm điện: 509174\r\n- Tên sản phẩm: Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n62. Nồi cơm điện: 509172\r\n- Tên sản phẩm: Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n63. Nồi cơm điện: 509223\r\n- Tên sản phẩm: Nồi cơm điện Philips dung tích 1,8 lít công suất 790-940 W, lòng nồi 5 lớp \r\ndẫn điện tốt, đươc tráng bằng lớp đá tự nhiên và có chứa các khoáng chất và các nguyên tố vi \r\nlượng-Bakuhanseki hiện đại siêu bền và cứng hơn gấp 6 lần. HD4515/55\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n64. Nồi cơm điện: 574096\r\n- Tên sản phẩm: Nồi cơm điện AIO Smart AIORCO3L23G/4CO\r\n- Mô tả: Nồi cơm điện AIO Smart sản phẩm chất lượng nổi bật, giàu tiện ích, độ bền cao rất \r\ntương xứng với giá thành, nồi đa chức năng lại giúp tiết kiệm được chi phí để sắm các dụng cụ nấu \r\nkhác.\r\n65. Điều hòa: 509169\r\n- Tên sản phẩm: Điều hòa MDV 12000 BTU M&EMĐH000327/M&EMĐH000328\r\n- Mô tả: Điều hòa cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n66. Điều hòa: 509382\r\n- Tên sản phẩm: Điều hòa treo tường Aqua AQA-RV24QA\n<END_SNIPPET_PAGE_8>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_7>\n- Mô tả: Được thiết kế với 3 hệ thống lọc gồm lọc thô, lọc Hepa, lọc than hoạt tính, Carrier \r\nAP43STRE giúp lọc sạch 99,95% bụi bẩn, vi khuẩn, mùi hôi kể cả các hạt bụi siêu mịn PM 2.5 cho \r\nkhông khí chuẩn sạch.\r\n40. Nồi chiên không dầu: 571594\r\n- Tên sản phẩm: Nồi chiên không dầu Kalite KL-1500 15 lít\r\n- Mô tả: Nồi chiên không dầu Kalite KL1500 với công nghệ chiên không dầu Rapid Air \r\ngiảm 95% chất béo, giúp bạn có những món ăn chiên nướng chín vàng đều, giòn rụm mà vẫn đảm \r\nbảo sức khoẻ\r\n41. Nồi chiên không dầu: 577822\r\n- Tên sản phẩm: Nồi chiên không dầu Kalite Q10 10 lít\r\n- Mô tả: Nồi chiên không dầu đa chức năng. Chỉ bằng một vài thao tác đơn giản bạn đã có \r\nthể tạo ra rất nhiều món ăn hấp dẫn như: Chiên khoai tây, Nướng thịt, Nướng cá, Nướng tôm, \r\nNướng Pizza, Nướng Đùi gà, Nướng bánh, Nướng Gà quay nguyên con, Sấy hoa quả, Rã đông thực\r\nphẩm.\r\n42. Nồi chiên không dầu: 577836\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE KL-1200 12 lít\r\n- Mô tả: Nồi chiên không dầu Kalite KL1200 với công nghệ chiên không dầu Rapid Air \r\ngiảm 95% chất béo, giúp bạn có những món ăn chiên nướng chín vàng đều, giòn rụm mà vẫn đảm \r\nbảo sức khoẻ.\r\n43. Nồi chiên không dầu: 509369\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5880\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n44. Nồi chiên không dầu: 509367\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5871\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n45. Nồi chiên không dầu: 509370\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5885\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n46. Nồi chiên không dầu: 509372\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5888\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n47. Nồi chiên không dầu: 577856\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE STEAM STAR 15 lít\r\n- Mô tả: Nồi chiên hơi nước Kalite Steam Star là sự kết hợp đột phá công nghệ chiên không \r\ndầu Rapid Air kết hợp hấp siêu nhiệt Steam Active, giúp bạn chế biến mọi món ăn dinh dưỡng hơn, \r\nthơm ngon hơn và tiết kiệm thời gian tối ưu.\r\n48. Nồi chiên không dầu: 509227\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air \r\nlành mạnh với sức khỏe, làm đều nhiệt, HD9252/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n49. Nồi cơm điện: 509319\r\n- Tên sản phẩm: Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n50. Nồi cơm điện: 509355\r\n- Tên sản phẩm: Nồi Điện Đa Năng Bluestone Mpb-7233\r\n- Mô tả: Nồi cơm điện cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n51. Nồi cơm điện: 509225\n<END_SNIPPET_PAGE_7>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_5>\n- Mô tả: Máy giặt Electrolux UltimateCare 500 Inverter 10 kg EWF1024P5SB có thiết kế \r\nkiểu máy giặt lồng ngang hiện đại. Vỏ máy kim loại sơn tĩnh điện với màu xám đen Onyx tinh tế \r\ngiúp dễ dàng kết hợp với các nội thất trong gia đình.\r\n17. Máy Giặt: 571590\r\n- Tên sản phẩm: Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB\r\n- Mô tả: Máy giặt Electrolux Inverter 10 kg EWF1024M3SB có kiểu dáng sang trọng, tinh \r\ntế, cài đặt sẵn 12 chương trình giặt tiện lợi, tích hợp công nghệ Hygienic Care loại bỏ đến 99,99% \r\nvi khuẩn và tác nhân gây dị ứng. Khối lượng giặt 10 kg phù hợp với nhu cầu giặt giũ của gia đình từ\r\n5 – 7 thành viên. \r\n18. Máy Giặt: 571603\r\n- Tên sản phẩm: Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB\r\n- Mô tả: Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024D3WB loại bỏ đến \r\n99.9% vi khuẩn và tác nhân gây dị ứng trên quần áo nhờ công nghệ Hygienic Care, tiết kiệm đến \r\n50% điện năng tiêu thụ với công nghệ EcoInverter, có thể bỏ thêm đồ trong khi giặt với tính năng \r\nthêm đồ trong khi giặt.\r\n19. Máy Giặt: 571604\r\n- Tên sản phẩm: Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\r\n- Mô tả: Máy giặt Aqua được thiết kế màu bạc sang trọng, hiện đại. Thiết kế bảng điều khiển\r\nnằm bên phải dễ thao tác, dễ lấy quần áo ra, đặc biệt hạn chế nước tiếp xúc với bo mạch, giúp tăng \r\ntuổi thọ máy.\r\n20. Máy lọc không khí, máy hút bụi: 622477\r\n- Tên sản phẩm: Máy Hút Bụi Bluestone Vcb-8067\r\n- Mô tả: Máy hút bụi cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n21. Máy ép: 509360\r\n- Tên sản phẩm: Máy Ép Chậm Bluestone Sjb-6558\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n22. Máy ép: 509250\r\n- Tên sản phẩm: Máy ép trái cây Philips - công suất 300W, ca chứa nước ép 0.5 lít, 2 tốc độ \r\ncho thực phẩm mềm và cứng, lưới lọc bằng thép không gỉ, học chứa bã có thể tháo rời. HR1811/71\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n23. Máy ép: 509251\r\n- Tên sản phẩm: Máy ép trái cây Philips công suất 800W, ca chứa nước ép 0.75 lít, ống chứa \r\nthực phẩm cỡ lớn, lưới lọc dễ vệ sinh, hộc chứa bã tiện dụng, có chức năng rửa nhanh, vỏ ngoài \r\nđược thiết kế bằng inox chống trầy HR1863/20\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n24. Máy ép: 509361\r\n- Tên sản phẩm: Máy Ép Chậm Bluestone Sjb-6578\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n25. Máy ép: 509359\r\n- Tên sản phẩm: Máy Ép Trái Cây Bluestone Jeb-6545\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n26. Máy ép: 509363\r\n- Tên sản phẩm: Máy Ép Chậm Bluestone Sjb-6556\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n27. Máy ép: 509338\r\n- Tên sản phẩm: Máy Làm Sữa Hạt Đa Năng Bluestone Smb-7329\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n28. Máy ép: 509253\r\n- Tên sản phẩm: Máy vắt nước cam Philips, công suất 25W, ca chứa nước ép 0.5 lít, lưới lọc \r\ntép cam, dây điện có thể quấn gọn HR2738/00\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n29. Máy ép: 509362\n<END_SNIPPET_PAGE_5>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_4>\n- 509189: Đèn đường năng lượng mặt trời SUNTEK RD-200, công suất 200W\r\n- 509181: Đèn pha led năng lượng mặt trời SUNTEK RP-200, công suất 200W\r\nII. Thông tin sản phẩm\r\n1. Bếp từ: 606015\r\n- Tên sản phẩm: Bộ nồi Inox sơn đỏ (3 cái/Bộ)-AIO Smart\r\n- Mô tả: Bộ nồi Inox AIO Smart thiết kế sang trọng, chất liệu an toàn sức khỏe, với 3 kích \r\nthước nồi khác nhau hỗ trợ người dùng nấu đa dạng món ăn, xứng đáng có mặt trong mọi căn bếp \r\ngia đình.\r\n2. Bếp từ: 509333\r\n- Tên sản phẩm: Bếp Từ Bluestone Icb-6619\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n3. Bếp từ: 509331\r\n- Tên sản phẩm: Bếp Từ Bluestone Icb-6609\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n4. Bếp từ: 509330\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6833\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n5. Bếp từ: 509328\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6818\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n6. Bếp từ: 509336\r\n- Tên sản phẩm: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6917\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n7. Bếp từ: 509337\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6948\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n8. Bếp từ: 509335\r\n- Tên sản phẩm: Bếp Hỗn Hợp Quang Từ Bluestone Icb-6911\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n9. Bếp từ: 509334\r\n- Tên sản phẩm: Bếp Từ Đôi Bluestone Icb-6845\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n10. Bếp từ: 509329\r\n- Tên sản phẩm: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6821\r\n- Mô tả: Bếp từ cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n11. Lò vi sóng: 509347\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7733\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n12. Lò vi sóng: 509348\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7833\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n13. Lò vi sóng: 509344\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7708B\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n14. Lò vi sóng: 509345\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n15. Lò vi sóng: 509346\r\n- Tên sản phẩm: Lò Vi Sóng Bluestone Mob-7816\r\n- Mô tả: Lò vi sóng cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n16. Máy Giặt: 571591\r\n- Tên sản phẩm: Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB\n<END_SNIPPET_PAGE_4>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_6>\n- Tên sản phẩm: Máy Ép Chậm Bluestone Sjb-6568\r\n- Mô tả: Máy ép cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi AIOSMART\r\n30. Nồi chiên không dầu: 577839\r\n- Tên sản phẩm: Nôì chiên không dầu KALITE STEAM 7 7 lít\r\n- Mô tả: Nồi chiên hơi nước Kalite Steam 7 là sự kết hợp đột phá công nghệ chiên không \r\ndầu Rapid Air kết hợp hấp siêu nhiệt Steam Active, giúp bạn chế biến mọi món ăn dinh dưỡng hơn, \r\nthơm ngon hơn và tiết kiệm thời gian tối ưu.\r\n31. Nồi chiên không dầu: 509226\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air \r\nlành mạnh HD9200/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n32. Nồi chiên không dầu: 577838\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE Q5\r\n- Mô tả: Nồi chiên không dầu Kalite Q5 với công nghệ chiên không dầu Rapid Air giảm \r\n95% chất béo, giúp bạn có những món ăn chiên nướng chín vàng đều, giòn rụm mà vẫn đảm bảo \r\nsức khoẻ.\r\n33. Nồi chiên không dầu: 509231\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2000W, sử dụng chiên 2 kg, kết nối \r\nđiều khiển thông qua ứng dụng Nutri U, chức năng Quick clean giúp vệ sinh dễ dàng, có thể sử \r\ndụng trong máy rửa chén. HD9880/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n34. Nồi chiên không dầu: 509228\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air \r\nlành mạnh với sức khỏe, làm đều nhiệt, sử dụng chiên cho 1,2 kg thực phẩm, có kết nối và điều \r\nkhiển qua Wifi và app NutriU HD9280/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n35. Nồi chiên không dầu: 509368\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5878\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n36. Nồi chiên không dầu: 509229\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2000 W, với công nghệ Rapid Air \r\nlành mạnh với sức khỏe, sử dụng chiên cho 1,4 kg thực phẩm, có kết nối và điều khiển qua Wifi và \r\napp NutriU, có hẹn giờ và giữ ấm HD9285/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n37. Nồi chiên không dầu: 509230\r\n- Tên sản phẩm: Nồi chiên không dầu Philips công suất 2200W, màn hình điện tử với nút \r\nbấm dễ dàng, công nghệ Fat Removal, Rapid Air sử dụng chiên 1.4 kg HD9860/90\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n38. Nồi chiên không dầu: 509371\r\n- Tên sản phẩm: Nồi Chiên Không Dầu Bluestone Afb- 5895\r\n- Mô tả: Nồi chiên không dầu cao cấp, hàng chính hãng. Bảo hành toàn quốc bởi \r\nAIOSMART\r\n39. Nồi chiên không dầu: 577847\r\n- Tên sản phẩm: Nồi chiên không dầu KALITE Q6 5,5 lít\n<END_SNIPPET_PAGE_6>\nThe following snippet was extracted from the following document: [](data/pdf_product.pdf)\n<START_SNIPPET_PAGE_1>\nI. Các loại sản phẩm\r\n1. Bếp từ\r\nSố lượng sản phẩm là: 10\r\n- 606015: Bộ nồi Inox sơn đỏ (3 cái/Bộ)-AIO Smart\r\n- 509333: Bếp Từ Bluestone Icb-6619\r\n- 509331: Bếp Từ Bluestone Icb-6609\r\n- 509330: Bếp Từ Đôi Bluestone Icb-6833\r\n- 509328: Bếp Từ Đôi Bluestone Icb-6818\r\n- 509336: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6917\r\n- 509337: Bếp Từ Đôi Bluestone Icb-6948\r\n- 509335: Bếp Hỗn Hợp Quang Từ Bluestone Icb-6911\r\n- 509334: Bếp Từ Đôi Bluestone Icb-6845\r\n- 509329: Bếp Hỗn Hợp Quang Từ Bluestone Icb- 6821\r\n2. Lò vi sóng\r\nSố lượng sản phẩm là: 5\r\n- 509347: Lò Vi Sóng Bluestone Mob-7733\r\n- 509348: Lò Vi Sóng Bluestone Mob-7833\r\n- 509344: Lò Vi Sóng Bluestone Mob-7708B\r\n- 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít\r\n- 509346: Lò Vi Sóng Bluestone Mob-7816\r\n3. Máy Giặt\r\nSố lượng sản phẩm là: 4\r\n- 571591: Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB\r\n- 571590: Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB\r\n- 571603: Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB\r\n- 571604: Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\r\n4. Máy lọc không khí, máy hút bụi\r\nSố lượng sản phẩm là: 1\r\n- 622477: Máy Hút Bụi Bluestone Vcb-8067\r\n5. Máy ép\r\nSố lượng sản phẩm là: 9\r\n- 509360: Máy Ép Chậm Bluestone Sjb-6558\r\n- 509250: Máy ép trái cây Philips - công suất 300W, ca chứa nước ép 0.5 lít, 2 tốc độ cho \r\nthực phẩm mềm và cứng, lưới lọc bằng thép không gỉ, học chứa bã có thể tháo rời. HR1811/71\r\n- 509251: Máy ép trái cây Philips công suất 800W, ca chứa nước ép 0.75 lít, ống chứa thực \r\nphẩm cỡ lớn, lưới lọc dễ vệ sinh, hộc chứa bã tiện dụng, có chức năng rửa nhanh, vỏ ngoài được \r\nthiết kế bằng inox chống trầy HR1863/20\r\n- 509361: Máy Ép Chậm Bluestone Sjb-6578\r\n- 509359: Máy Ép Trái Cây Bluestone Jeb-6545\r\n- 509363: Máy Ép Chậm Bluestone Sjb-6556\r\n- 509338: Máy Làm Sữa Hạt Đa Năng Bluestone Smb-7329\r\n- 509253: Máy vắt nước cam Philips, công suất 25W, ca chứa nước ép 0.5 lít, lưới lọc tép \r\ncam, dây điện có thể quấn gọn HR2738/00\r\n- 509362: Máy Ép Chậm Bluestone Sjb-6568\r\n6. Nồi chiên không dầu\r\nSố lượng sản phẩm là: 19\r\n- 577839: Nôì chiên không dầu KALITE STEAM 7 7 lít\r\n- 509226: Nồi chiên không dầu Philips công suất 1400 W, với công nghệ Rapid Air lành \r\nmạnh HD9200/90\r\n- 577838: Nồi chiên không dầu KALITE Q5\n<END_SNIPPET_PAGE_1>\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Bếp từ và máy giặt có nhiều mẫu mã và chức năng khác nhau, vì vậy giá cả cũng sẽ khác nhau. Vui lòng liên hệ với phòng bán hàng để biết thêm thông tin chi tiết về giá cả sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ và máy giặt giá 40 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất bạn mua sản phẩm sau:\n\n1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 13.034.780 VND\n   - Hoa hồng bán hàng nhận được: 735.638.400 VND\n   - Hoa hồng triển khai nhận được: 118.498 VND\n\n2. Bếp Từ Đôi Bluestone Icb-6948: 18.872.480 VND\n   - Hoa hồng bán hàng nhận được: 1.065.097.600 VND\n   - Hoa hồng triển khai nhận được: 171.568 VND\n\nTổng giá trị của gói sản phẩm này là 31.907.260 VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ và máy giặt giá 40 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất bạn mua sản phẩm sau:\n\n1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 13.034.780 VND\n   - Hoa hồng bán hàng nhận được: 735.638.400 VND\n   - Hoa hồng triển khai nhận được: 118.498 VND\n\n2. Bếp Từ Đôi Bluestone Icb-6948: 18.872.480 VND\n   - Hoa hồng bán hàng nhận được: 1.065.097.600 VND\n   - Hoa hồng triển khai nhận được: 171.568 VND\n\nTổng giá trị của gói sản phẩm này là 31.907.260 VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua bếp từ, bàn là giá 20 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất sản phẩm sau:\n\n- Bếp Từ Đôi Bluestone Icb-6845: 13.501.510 VND\n\nTổng giá trị của gói sản phẩm này là 13.501.510 VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua bếp từ với giá 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đã tìm kiếm các sản phẩm bếp từ với giá khoảng 10 triệu đồng. Tuy nhiên, hiện tại không có sản phẩm nào phù hợp với yêu cầu của bạn. \n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩn bếp từ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bếp từ phù hợp. Vui lòng liên hệ với chúng tôi để được tư vấn thêm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩn bếp từ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bếp từ phù hợp. Vui lòng liên hệ với chúng tôi để được tư vấn thêm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua bỉm với giá 5 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, chúng tôi không tìm thấy sản phẩm bỉm nào trong khoảng giá 5 triệu đồng. Tuy nhiên, chúng tôi có thể giúp bạn tìm kiếm các sản phẩm khác hoặc đề xuất các giải pháp khác phù hợp với ngân sách của bạn. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Cho tôi mua máy ép giá tầm 900 nghìn, máy giặt và 2 bếp từ với tổng giá trị 30 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, dưới đây là gợi ý sản phẩm:\n\n- Máy ép: Máy vắt nước cam Philips, công suất 25W, ca chứa nước ép 0.5 lít, lưới lọc tép cam, dây điện có thể quấn gọn HR2738/00. Giá: 531,520 VND.\n\nTuy nhiên, hiện tại không có sản phẩm máy giặt và bếp từ nào trong danh sách sản phẩm của chúng tôi.\n\nTổng giá trị của gói sản phẩm này là 531,520 VND.\n\nNếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hóa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều tủ lạnh với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, bạn muốn mua 1 điều tủ lạnh với giá 11 triệu một trăm. Tuy nhiên, hiện tại chúng tôi không có sản phẩm điều tủ lạnh trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua tủ lạnh với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, bạn muốn mua 1 tủ lạnh với giá 11 triệu 1 trăm. Tuy nhiên, hiện tại chúng tôi không có sản phẩm tủ lạnh trong danh sách. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tìm kiếm một điều hòa với giá mười một triệu một trăm, tôi không tìm thấy sản phẩm phù hợp trong danh sách của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi để được hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi không tìm thấy sản phẩm điều hòa với giá mười một triệu một trăm trong danh sách sản phẩm của chúng tôi. Tổng giá trị của gói sản phẩm này là 0VND. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá mười một triệu một trăm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn muốn mua điều hòa với giá mười một triệu một trăm, chúng tôi đề xuất sản phẩm sau:\n\n- Điều hòa treo tường Aqua AQA-RV9QC: 7.204.120 đồng - GÓI MUA SẮM MỨC 1\n  (Hoa hồng bán hàng nhận được là 406.576,8 đồng và hoa hồng triển khai nhận được là 65.492 đồng)\n\nTổng giá trị của gói sản phẩm này là 7.204.120 đồng, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\n\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá không đồng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất một gói sản phẩm điều hòa với giá không đồng. Tổng giá trị của gói sản phẩm này là 0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua điều hòa với giá không đồng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn, tôi đề xuất một gói sản phẩm điều hòa với giá không đồng. Tổng giá trị của gói sản phẩm này là 0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]
